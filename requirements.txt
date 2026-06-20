@@ -1,0 +1,3 @@
+# No third-party dependencies required.
+# trending.py uses only the Python standard library (urllib, xml.etree, json).
+# Python 3.10+ recommended.
