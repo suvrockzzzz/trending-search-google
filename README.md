@@ -38,6 +38,29 @@ A scheduled agent runs this fetcher **every two days** and commits the fresh
 date-stamped JSON, so `output/` builds up a dated history of trending topics
 with no manual runs.
 
+### ✅ Cloud agent scheduled
+
+A recurring **Claude Code cloud routine** runs the project on a schedule — no
+local machine required.
+
+| Setting | Value |
+|---------|-------|
+| Name | Trending Topics Fetcher (every 2 days) |
+| Schedule | `30 18 */2 * *` → **12:00 AM IST**, every 2nd day |
+| Model | `claude-sonnet-4-6` |
+| Repo | `gitlab.com/suvampaul/create-video-using-ai` |
+
+On each run the agent does a fresh checkout, runs `python3 trending.py`, then
+**commits & pushes** the new `output/trending-YYYY-MM-DD.json` back to `main` —
+accumulating a dated history in the repo. It reports the filename, the `count`,
+and the top 5 topics, and won't commit a failed/empty run.
+
+> **Note on "every two days":** cron's `*/2` on day-of-month resets at month
+> boundaries, so the gap between the 31st and the 1st is one day rather than two
+> — the standard cron approximation.
+
+Manage the routine at <https://claude.ai/code/routines>.
+
 Examples:
 
 ```bash
