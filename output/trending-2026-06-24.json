@@ -1,0 +1,557 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-06-24T05:27:21.125583+00:00",
+  "window_days": 4,
+  "count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "1",
+      "approx_traffic": 2000,
+      "started_at": "2026-06-24T05:00:00+00:00",
+      "related_queries": [
+        "1"
+      ],
+      "news": [
+        {
+          "title": "Panama 0-1 Croatia: Budirmir's strike gives Croatia crucial win, Panama eliminated - as it happened",
+          "url": "https://www.espn.in/football/story/_/id/49157167/panama-croatia-live-world-cup-2026-latest-updates-commentary-score-result",
+          "source": "ESPN India",
+          "published_at": "2026-06-23T21:52:47+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGGEnp-FmTkP8I4C0I0Dpc-f8uVNYbueZ19sqbpKmeQ-0z7ThtPvl4D6NhUSs"
+        },
+        {
+          "title": "FIFA World Cup: Budimir gives Croatia 1-0 win to eliminate Panama in Group L",
+          "url": "https://www.thehindu.com/sport/football/fifa-world-cup-budimir-gives-croatia-1-0-win-to-eliminate-panama-in-group-l/article71140251.ece",
+          "source": "The Hindu",
+          "published_at": "2026-06-24T01:36:57+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKuWrxK20B1HGY5gcufvua1BsE3ENP5bh8DJsAJp502CSSU-cY6ZRN4TIYUW0"
+        },
+        {
+          "title": "Panama vs Croatia Extended Highlights | 2026 FIFA World Cup™",
+          "url": "https://www.foxsports.com/watch/fmc-l27t2hznld24jy0v",
+          "source": "FOX Sports",
+          "published_at": "2026-06-24T01:17:55+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlmLaYgsrvxkx027qNCMcctE4INHNgWf-WawGLuzAkLBT6JwjAy0__spf3bMQ"
+        },
+        {
+          "title": "World Cup 2026 live: Colombia vs DR Congo score, commentary, updates",
+          "url": "https://www.thetimes.com/sport/football/world-cup/article/world-cup-2026-latest-news-live-scores-team-updates-day-13-mfnppt8dm",
+          "source": "The Times",
+          "published_at": "2026-06-24T02:01:43+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pCaMNIDqhNYsbJgvw5bHmBb-vw_5or27aRRO_ulTqlyp0kyvL04ni-a5vAE"
+        },
+        {
+          "title": "Budimir gives Croatia a 1-0 win to eliminate Panama from the World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/6/24/budimir-gives-croatia-a-1-0-win-to-eliminate-panama-from-the-world-cup",
+          "source": "Al Jazeera",
+          "published_at": "2026-06-24T01:45:31+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBG7SfISBVWVwZUblvEUWtmz_0VIJrOW6mE8l0G49FkOL9Yl_astdvORMGAc8"
+        },
+        {
+          "title": "Panama 0-1 Croatia: World Cup 2026 – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/jun/23/panama-v-croatia-world-cup-2026-live-updates",
+          "source": "The Guardian",
+          "published_at": "2026-06-23T21:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtZH6r2Vi0gESF35HGErMP-hZATdINKAB-sl4zki5_cpVpvAAAyJXv8wOHoXg"
+        },
+        {
+          "title": "World Cup 2026: Budimir scores opener for Croatia against Panama",
+          "url": "https://www.bbc.com/sport/football/videos/c23y7g5j7l2o",
+          "source": "BBC",
+          "published_at": "2026-06-24T00:39:07+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScccjXVsqpSW-TUBeniwRmwZe5kmHbCdSe8gFmTWK6_zWPfZaDCw8R8T5uvVk"
+        },
+        {
+          "title": "World Cup 2026: Panama 0-1 Croatia - Ante Budimir scores from bench to kickstart 2018 finalists' tournament",
+          "url": "https://www.skysports.com/football/news/11095/13554940/world-cup-2026-panama-0-1-croatia-ante-budimir-scores-from-bench-to-kickstart-2018-finalists-tournament",
+          "source": "Sky Sports",
+          "published_at": "2026-06-24T01:05:13+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnjhqGVtX1zZiBODeOm_mpW3s8G_BT382SR1O96nTUXKWzRDl8CMlm0pejbuw"
+        },
+        {
+          "title": "Croatia edge Panama to earn first win at 2026 World Cup: Live updates and reaction",
+          "url": "https://www.nytimes.com/athletic/live-blogs/panama-vs-croatia-live-updates-world-cup-2026-score-result/e4pNJtNjz2YA/",
+          "source": "The New York Times",
+          "published_at": "2026-06-24T02:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrEZP0qdJwruBzGEiDmZxaC_L6uuLKbjQJFpRpPCuXgiGL9Nu--krccRHPf0Y"
+        },
+        {
+          "title": "Thousands of Croatia supporters could be coming to Toronto and bringing a 100-metre flag with them",
+          "url": "https://www.cp24.com/local/toronto/2026/06/22/thousands-of-croatia-supporters-could-be-coming-to-toronto-and-bringing-a-100-foot-flag-with-them/",
+          "source": "CP24",
+          "published_at": "2026-06-22T12:14:19+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcST_7eciiPp04s_SzX5Ju8tGMNwY0jClwCe9925lW9RwBQ5K2GlXhcz0igLdbE"
+        },
+        {
+          "title": "Colombia vs DR Congo Extended Highlights | 2026 FIFA World Cup™",
+          "url": "https://www.foxsports.com/watch/fmc-38vw2p6mc9m7x6az",
+          "source": "FOX Sports",
+          "published_at": "2026-06-24T04:29:23+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQs6MGYlHNG2zEmWV1BKSe88i6I9yNXgUu76raRY7DBYDb23xV73GQCIiKz96Y"
+        },
+        {
+          "title": "Daniel Muñoz breaks DR Congo resistance to send Colombia into World Cup knockouts",
+          "url": "https://www.theguardian.com/football/2026/jun/24/colombia-dr-congo-world-cup-group-k-match-report",
+          "source": "The Guardian",
+          "published_at": "2026-06-24T04:14:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqvB5hjBs2FRpNkSIJKRw4ypOF6zGnbYEgDqhCUm8FaiO0LsSlVifl_Y3Q2vQ"
+        },
+        {
+          "title": "Colombia 1 - 0 Congo DR: Muñoz goal sends Colombia into knockouts",
+          "url": "https://www.espn.in/football/story/_/id/49157815/colombia-congo-dr-live-world-cup-2026-latest-updates-commentary-score-result",
+          "source": "ESPN India",
+          "published_at": "2026-06-24T01:01:41+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCwCq26sUbxcqQhd0s0G7pJJW-u0dGFiIW_TW7h_5ceH2txLgub_8oFJWK41s"
+        },
+        {
+          "title": "Munoz sends Colombia into World Cup knockouts with 1-0 win over DR Congo",
+          "url": "https://www.aljazeera.com/sports/2026/6/24/colombia-dr-congo-1-0-fifa-world-cup-2026-knockout-munoz-rodrigruez-arias-mpasi",
+          "source": "Al Jazeera",
+          "published_at": "2026-06-24T04:22:08+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRijgmi21cbJmvUtbqeFoQAuuCLoDfFPu4OMzO9ljhWYmMDnM79h7pvs1SrlXw"
+        },
+        {
+          "title": "Colombia vs DR Congo, FIFA World Cup LIVE: Scores level at half time",
+          "url": "https://www.thehindu.com/sport/football/colombia-vs-dr-congo-fifa-world-cup-2026-group-k-match-live-updates/article71140207.ece",
+          "source": "The Hindu",
+          "published_at": "2026-06-24T03:45:04+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yecFooUi9Ffbi1jcahGFENQBp-M5o59JwQewX399Egmzno-wgKAK-qlMgYY"
+        },
+        {
+          "title": "Colombia vs. DR Congo—World Cup: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/colombia-vs-dr-congo-world-cup-preview-predictions-lineups-6-23-26",
+          "source": "Sports Illustrated",
+          "published_at": "2026-06-23T04:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgwsrjVGTO0bMHEqm_V54d6oHpzg6QPkSiAcMhy8JkU5K3Y6IiUMEpIgWVTMQ"
+        },
+        {
+          "title": "Colombia v DR Congo Highlights - World Cup 2026 - 24 June 2026",
+          "url": "https://www.bbc.com/sport/football/videos/c20ypnr52k3o",
+          "source": "BBC",
+          "published_at": "2026-06-24T04:50:32+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTosHMbxEmTJotE5E_upXdC4UJ_-PqJ9E-DoHNgddz8JTo8MuceE4cul5wq3UA"
+        },
+        {
+          "title": "Colombia vs. DR Congo 2026 livestream: How to watch World Cup for free",
+          "url": "https://mashable.com/entertainment/colombia-dr-congo-fifa-world-cup-2026-live-stream-for-free",
+          "source": "Mashable",
+          "published_at": "2026-06-23T21:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyFHETOsH4q84qEcwZiPq0AszWgzgw-VLVHcfrORWsUehdQpEPtbrhK9cJiq4"
+        },
+        {
+          "title": "Colombia vs DR Congo Stats: 2026 World Cup Group K – Live",
+          "url": "https://theanalyst.com/articles/colombia-vs-dr-congo-stats-world-cup-2026",
+          "source": "Opta Analyst",
+          "published_at": "2026-06-24T01:17:57+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShUBKAZurPCe_uhrgBLjmXNRkW6vVDLpRfvb10yqjTHGdaJxjolTSWDjDUP0M"
+        },
+        {
+          "title": "Who are the ITV pundits, presenters and commentators for Colombia vs DR Congo?",
+          "url": "https://www.fourfourtwo.com/competition/who-are-the-itv-pundits-presenters-and-commentators-for-colombia-vs-dr-congo",
+          "source": "FourFourTwo",
+          "published_at": "2026-06-24T01:48:24+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-PAkKYggQ2tQpHrZPn-lZiOUxSDwJrE4OqAinhKvNqHzraHFS_gVq9Jc1sSU"
+        },
+        {
+          "title": "CUET-UG 2026: Results out; one candidate scores 100 percentile in four of five subjects",
+          "url": "https://www.thehindu.com/news/national/cuet-ug-2026-results-out-one-candidate-scores-100-percentile-in-four-of-five-subjects/article71137381.ece",
+          "source": "The Hindu",
+          "published_at": "2026-06-23T11:56:49+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCr4ZkmxSLB9k9rt9f4iEHfjU20ty6HoN3Q5G5uCWAbCAwZ6P3fBTQVmqEUl8"
+        },
+        {
+          "title": "CUET UG Result 2026 Out @cuet.nta.nic.in, Scorecard Download Link Active",
+          "url": "https://www.pw.live/cuet/exams/cuet-ug-result-2026-out",
+          "source": "PW",
+          "published_at": "2026-06-23T08:19:43+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyBKQgEcgw7e43FWNzByYQTUZzZC9E7tDcSVqghUfy_Cd8NA_nh3_jmT6wP4Q"
+        },
+        {
+          "title": "Former Delhi Minister Kailash Gahlot's Daughter Devina Tops CUET-UG 2026",
+          "url": "https://www.ndtv.com/education/former-delhi-minister-kailash-gahlots-daughter-devina-tops-cuet-ug-2026-says-hard-work-always-pays-off-11676687",
+          "source": "NDTV",
+          "published_at": "2026-06-23T13:29:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0pzJIVAFabN2yTwANXjHpGM_f1WxdntI7nnB7u-SyJ4nVMw2xgad9Y_9mnZ8"
+        },
+        {
+          "title": "BJP MLA's daughter tops CUET UG 2026, secures AIR 1",
+          "url": "https://www.indiatoday.in/education-today/news/story/cuet-ug-2026-results-kailash-gahlot-daughter-air-1-2932874-2026-06-23",
+          "source": "India Today",
+          "published_at": "2026-06-23T17:05:13+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsHcC6PtIgglNh9XKQb2o3bLD7aaSQDoPc-9mmkDdP2Q-OUAim5uLTTQWuTm0"
+        },
+        {
+          "title": "CUET hit by absenteeism as one in four candidates skips undergraduate test",
+          "url": "https://www.telegraphindia.com/india/cuet-hit-by-absenteeism-as-over-25-per-cent-skip-exam-amid-technical-issues-prnt/cid/2166932",
+          "source": "Telegraph India",
+          "published_at": "2026-06-24T01:21:34+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaFGOX_ljqUyHozSlPeEiaDrsyPHw4w8iN5Z_KDbOZHZ71xektzPfP8FA_DXk"
+        },
+        {
+          "title": "Scored less in CUET result 2026? Here's what you should do next",
+          "url": "https://timesofindia.indiatimes.com/education/news/scored-less-in-cuet-result-2026-heres-what-you-should-do-next/articleshow/131931693.cms",
+          "source": "The Times of India",
+          "published_at": "2026-06-23T10:01:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMlr5bkSvbQpH6Gh-_RTO6tiWuUZrg0F00cptJRtI7W1xx7IZBYcfMTbTiGUY"
+        },
+        {
+          "title": "'No coaching, just self-study': CUET-UG national topper Devina Gahlot reveals her exam strategy",
+          "url": "https://www.newindianexpress.com/states/delhi/2026/Jun/23/no-coaching-just-self-study-cuet-ug-national-topper-devina-gahlot-reveals-her-exam-strategy",
+          "source": "The New Indian Express",
+          "published_at": "2026-06-23T19:32:08+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJp-okSz_jhKAGfk7DqGGjUXXSWPCgeXV3PonoRmN7g5W0vesraL9-XkrTUo"
+        },
+        {
+          "title": "CUET UG 2026 percentile calculation explained: How to calculate your score, marks vs percentile and what c",
+          "url": "https://m.economictimes.com/news/new-updates/cuet-ug-2026-percentile-calculation-explained-how-to-calculate-your-score-marks-vs-percentile-and-what-counts-as-a-good-percentile/articleshow/131931583.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-06-23T09:04:47+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcpjyTBM1uRnUG0PGJctOe03xwOwY9q3DK65DxS7KFbqM_X8uGvJOnOA27EY"
+        },
+        {
+          "title": "CUET-UG 2026: Results out; one candidate scores 100 percentile in four of five subjects",
+          "url": "https://www.thehindu.com/education/cuet-ug-2026-results-out-one-candidate-scores-100-percentile-in-four-of-five-subjects/article71137381.ece",
+          "source": "The Hindu",
+          "published_at": "2026-06-23T11:56:49+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCr4ZkmxSLB9k9rt9f4iEHfjU20ty6HoN3Q5G5uCWAbCAwZ6P3fBTQVmqEUl8"
+        },
+        {
+          "title": "CUET UG 2026 Result Declared: Meet The Top 20 Candidates With Highest Scores",
+          "url": "https://www.ndtv.com/education/cuet-ug-2026-result-out-meet-top-20-candidates-with-highest-nta-scores-in-five-subjects-11675529",
+          "source": "NDTV",
+          "published_at": "2026-06-23T09:55:36+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8bzuwQCuObZfbnLkeHge53Qw6_qIWCTxoIwHLTqZtPOmbAZJzE9TyJ9zeE-I"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "neeru sharma bandra boy news",
+      "approx_traffic": 500,
+      "started_at": "2026-06-24T05:10:00+00:00",
+      "related_queries": [
+        "neeru sharma bandra boy news"
+      ],
+      "news": [
+        {
+          "title": "Neeru Sharma’s ‘Bandra Boy’ Promises To Spark Thought And Debate.",
+          "url": "https://www.tripurastarnews.com/neeru-sharmas-bandra-boy-promises-to-spark-thought-and-debate/",
+          "source": "TRIPURA STAR NEWS",
+          "published_at": "2026-06-21T05:12:55+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ50LU9scrHwJgQMy9CruSX7fn04DwKgaypd9fS9TO_8xGCMJo-Tccx3TtBZ3A"
+        },
+        {
+          "title": "Veteran Entertainment Journalist Neeru Sharma Launches Debut Short Film ‘Bandra Boy",
+          "url": "https://hellomumbainews.com/entertainment/veteran-entertainment-journalist-neeru-sharma-launches-debut-short-film-bandra-boy/",
+          "source": "Hello Mumbai News",
+          "published_at": "2026-06-21T19:27:39+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxdmA8s-0JRGo_2ILX18NrmuPKvPPJfy_ouZy_pvuZtlj23mpW8fmBY-6hAIo"
+        },
+        {
+          "title": "Bandra Boy: Neeru Sharma Makes Directorial Debut With Thriller Set For Film Festivals",
+          "url": "https://www.news18.com/movies/regional-cinema/bandra-boy-neeru-sharma-makes-directorial-debut-with-thriller-set-for-film-festivals-ws-l-10162713.html",
+          "source": "News18",
+          "published_at": "2026-06-20T10:32:33+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs0tc9ESq6Si8InG0LMxLCLx1WGsbZpMiPPXosy0d60SJEoUSXFHmAu9K3VtY"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "singapore",
+      "approx_traffic": 200,
+      "started_at": "2026-06-24T05:00:00+00:00",
+      "related_queries": [
+        "singapore"
+      ],
+      "news": [
+        {
+          "title": "Salary dispute widens in Singapore; 400 Indian, Bangladeshi workers seek dues from two firms",
+          "url": "https://www.telegraphindia.com/world/salary-dispute-widens-in-singapore-400-indian-bangladeshi-workers-seek-dues-from-two-firms/cid/2166969",
+          "source": "Telegraph India",
+          "published_at": "2026-06-24T04:21:57+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9mjI__tSVluQf2yaY2UCk7VictBn58H0wX-EM4lNSEc99BVR54lQqgSH-HQo"
+        },
+        {
+          "title": "Number of workers with claims of unpaid wages linked to air-con firm climbs to 400",
+          "url": "https://www.straitstimes.com/singapore/courts-crime/number-of-workers-with-claims-of-unpaid-wages-linked-to-air-con-firm-climbs-to-400",
+          "source": "The Straits Times",
+          "published_at": "2026-06-23T14:15:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQY6czEuvRMNwKzdk8qO-SQ0EVvYBUqYp3YCq_NRLIbTqgpEnFA0VO5gzc9GY"
+        },
+        {
+          "title": "Indian workers complain to Singapore ministry over unpaid wages",
+          "url": "https://hr.economictimes.indiatimes.com/news/hrtech/payroll-and-benefits/indian-workers-complain-to-singapore-ministry-over-unpaid-wages/131905352",
+          "source": "ETHRWorld.com",
+          "published_at": "2026-06-22T09:26:48+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXhfwp-pqUuwoWLT6Y6pl5mLkwhQrvyoZBZDv2ILTcW-pRx0urTGGlRxQUFDg"
+        },
+        {
+          "title": "400 migrant workers with unpaid wages to receive S$200 in cash, vouchers; 150 job vacancies found: Ng Chee Meng",
+          "url": "https://www.channelnewsasia.com/singapore/mom-ng-chee-meng-ntuc-unpaid-migrant-workers-6205866",
+          "source": "CNA",
+          "published_at": "2026-06-24T03:59:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo2NPoQdD_cncEUARr4zVyc0KbXC6hENIL4Fzl5TaoY8xRKxg-b1uJfrtuhgc"
+        },
+        {
+          "title": "At least 100 migrant workers in Singapore report unpaid wages at two firms; MWC responds",
+          "url": "https://www.humanresourcesonline.net/at-least-100-migrant-workers-in-singapore-report-unpaid-wages-at-two-firms-mwc-responds",
+          "source": "Human Resources Online",
+          "published_at": "2026-06-24T00:26:40+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXtmDe7ZW2uAF5IBUr3puIz6MRIXqZBoGsvme8tm7cZ7-TYyUWYDe4zBStbw0"
+        },
+        {
+          "title": "'No worker should face these problems alone': Migrant Workers' Centre steps in to help over 100 foreign workers owed wages",
+          "url": "https://www.asiaone.com/singapore/unpaid-wages-singapore-migrant-workers-mwc-steps-in",
+          "source": "AsiaOne",
+          "published_at": "2026-06-22T13:30:16+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnjJCFYGx68bNi693MPTfCVsI3hYKuNDXk2FidsXITZ-W3ha5UNMIRLtDZT8M"
+        },
+        {
+          "title": "Over 100 migrant workers turn up at MOM office claiming unpaid wages; ministry probing 2 firms",
+          "url": "https://www.straitstimes.com/singapore/courts-crime/more-than-100-migrant-workers-turn-up-at-mom-office-in-bendemeer-claiming-unpaid-wages",
+          "source": "The Straits Times",
+          "published_at": "2026-06-22T03:33:56+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPy8FnRkkmMFlow_uyozN7-imRYkD57lmrElCzB3NC7OMcxKxHkzJQ98aMp0"
+        },
+        {
+          "title": "Hundreds of Indian and Bangladeshi workers allege unpaid wages in Singapore",
+          "url": "https://www.nationalheraldindia.com/national/hundreds-of-indian-and-bangladeshi-workers-allege-unpaid-wages-in-singapore",
+          "source": "National Herald",
+          "published_at": "2026-06-24T04:15:47+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVT0_EjmfVHhWLA9e024l9BKOQxPqUgUApmn6oLGg-5EtwbVJrqnITSneNmDw"
+        },
+        {
+          "title": "Over 100 Indian, Bangladeshi workers complain to Singapore ministry over unpaid wages",
+          "url": "https://www.dailyexcelsior.com/over-100-indian-bangladeshi-workers-complain-to-singapore-ministry-over-unpaid-wages/",
+          "source": "Daily Excelsior",
+          "published_at": "2026-06-22T22:33:22+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_kwnySXWZ3Zo4X39-nbeIhXwU6qi0-TOZLp_y_0KLGR7IA8iLgWuX6ow6X3w"
+        },
+        {
+          "title": "Indian Bangladeshi Workers Complain To Singapore Ministry Over Unpaid Wages",
+          "url": "https://www.outlookindia.com/international/indian-bangladeshi-workers-complain-to-singapore-ministry-over-unpaid-wages-2",
+          "source": "Outlook India",
+          "published_at": "2026-06-22T10:33:51+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdoR-77XRtlgRxcWjRwqOL7JIGCgS8rsTPltSWqo_HXh5ZXFo-WF9Ii0vUnR4"
+        },
+        {
+          "title": "Singapore inflation holds at 1.8% in May, cooler than expected as services costs ease",
+          "url": "https://www.cnbc.com/2026/06/23/singapore-may-inflation-fastest-energy-prices.html",
+          "source": "CNBC",
+          "published_at": "2026-06-23T05:14:52+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJg303Of5IJPrKsXtCd3PxloBcP1539xQ-EqO2g9juCroL7tNEyeImokqghXU"
+        },
+        {
+          "title": "Singapore’s May core inflation comes in below forecast at 1.4% By Investing.com",
+          "url": "https://ng.investing.com/news/stock-market-news/singapores-may-core-inflation-comes-in-below-forecast-at-14-93CH-2569421",
+          "source": "Investing.com Nigeria",
+          "published_at": "2026-06-23T10:34:43+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQMnKYR0y0qkbhLajNfjumBESHbFedv04-GdttRT9D99DSklsUDd0y5C0NDOU"
+        },
+        {
+          "title": "Singapore’s core inflation holds steady at 1.4% in May",
+          "url": "https://www.channelnewsasia.com/singapore/core-inflation-singapore-may-2026-mas-mti-6202781",
+          "source": "CNA",
+          "published_at": "2026-06-23T05:01:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc2MVyO5JaxjHW1VfhAk6olho1co4InKWdz628bfluDNx9FTuKS8bRWvM_dyw"
+        },
+        {
+          "title": "MAS likely to hold in July as Singapore's May core inflation undershoots forecasts: economists",
+          "url": "https://www.businesstimes.com.sg/singapore/mas-likely-hold-july-singapores-may-core-inflation-undershoots-forecasts-economists",
+          "source": "The Business Times",
+          "published_at": "2026-06-23T10:27:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaIkk69fFlCzYpdEeYvalBcNWyRbRDl9faDu-qwrrD6248Ce32oMeyaejnsW8"
+        },
+        {
+          "title": "Mild Singapore Inflation Points to Policy Hold, Economists Say",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/mild-singapore-inflation-points-to-policy-hold-economists-say",
+          "source": "Bloomberg.com",
+          "published_at": "2026-06-24T03:22:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRXm5irnd_5AMHcZCTxLUKGRE-nYocs8wITMl_0eOqpsvlzEm81lk22vdp-1k"
+        },
+        {
+          "title": "Singapore Inflation Remains Highest Since 2024",
+          "url": "https://www.tradingview.com/news/te_news:560997:0-singapore-inflation-remains-highest-since-2024/",
+          "source": "TradingView",
+          "published_at": "2026-06-23T05:16:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZGqEdEXbiza7u5Jaebz1GVjk6gT-GC9ABy2KygtfJbALDZWXOqJCG1--8OtY"
+        },
+        {
+          "title": "Singapore’s core inflation steady at 1.4% despite oil crunch",
+          "url": "https://sg.news.yahoo.com/singapores-core-inflation-steady-at-14-despite-oil-crunch-062555952.html",
+          "source": "Yahoo News Singapore",
+          "published_at": "2026-06-23T09:03:24+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7KZyNr1bgP1O0liYlVaNB1vLUv8m85-C_p4cPCO4Ttgy-QGO6YlBU-3cFJqs"
+        },
+        {
+          "title": "Singapore Inflation Held Steady Even As Services Cooled",
+          "url": "https://finimize.com/content/singapore-inflation-held-steady-even-as-services-cooled",
+          "source": "Finimize",
+          "published_at": "2026-06-23T06:32:17+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHM44ERAwxXVPmOLXXja_Y4TGKVSH3qy95g-L-hCo-Ag5T6NDwTAQhQ20Ap5A"
+        },
+        {
+          "title": "Singapore CPI inflation misses expectations in May as services costs ease By Investing.com",
+          "url": "https://in.investing.com/news/economic-indicators/singapore-cpi-inflation-misses-expectations-in-may-as-services-costs-ease-5465711",
+          "source": "Investing.com India",
+          "published_at": "2026-06-23T05:16:57+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFzp0jpZ-zL0BLzfVZhhQwpRTB-gP8B5ux_77HFFcZ3oT0NuKbbP7jkATkRY"
+        },
+        {
+          "title": "Singapore’s May core inflation comes in below forecast at 1.4%",
+          "url": "https://www.investing.com/news/economic-indicators/singapores-may-core-inflation-comes-in-below-forecast-at-14-93CH-4754904",
+          "source": "Investing.com",
+          "published_at": "2026-06-23T15:35:03+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5JkPCQgfNqtfEr2IWIq031NAiR8y009K0NVq-5OHz_ga5Mqiu3VQ4iOMbTE8"
+        },
+        {
+          "title": "Petrol, diesel prices ease in Singapore as oil prices fall",
+          "url": "https://www.straitstimes.com/singapore/transport/petrol-diesel-prices-ease-in-singapore-as-oil-prices-slip",
+          "source": "The Straits Times",
+          "published_at": "2026-06-23T09:30:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKrmOccuUeXsC-KMLacCJ4jwZSJ3RYGpu2IVrixTzP22Ow5SEf8zmE7sWVzx4"
+        },
+        {
+          "title": "More local petrol chains lower prices as oil supply pressures ease ahead of US-Iran ceasefire",
+          "url": "https://theindependent.sg/more-local-petrol-chains-lower-prices-as-oil-supply-pressures-ease-ahead-of-us-iran-ceasefire/",
+          "source": "The Independent Singapore News",
+          "published_at": "2026-06-23T04:31:58+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKOEQ-U_juc2UOdlq_rd5BzEDC7E40c7422RjKDjoj119JG8XdhWow36CjeLI"
+        },
+        {
+          "title": "Petrol prices in Singapore drop for the first time in 28 days as Shell leads reduction, Money News",
+          "url": "https://www.asiaone.com/money/petrol-diesel-pump-prices-june-19-middle-east-war-shell",
+          "source": "AsiaOne",
+          "published_at": "2026-06-19T13:35:49+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ8AzzeRHs1v2z5lwWaeLCfamafZecF0_rSgboVHnka8JZh7rj9fLw7UF6GsQ"
+        },
+        {
+          "title": "Singapore's Fuel Prices Drop Amid US-Iran Peace Progress",
+          "url": "https://www.marketscreener.com/news/singapore-s-fuel-prices-drop-amid-us-iran-peace-progress-ce7f5fdbdb81ff26",
+          "source": "marketscreener.com",
+          "published_at": "2026-06-24T02:51:22+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtAI4iFKMWl7fnGENWv59VzwjulAzW2Msu8bqQGaOOGKBF0uSafNc6ASuuJHk"
+        },
+        {
+          "title": "Petrol prices in Singapore drop for the first time in 28 days",
+          "url": "https://hirunews.lk/english/473378/petrol-prices-in-singapore-drop-for-the-first-time-in-28-days",
+          "source": "Hiru News",
+          "published_at": "2026-06-22T16:23:48+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy4z3Wc_t00Kx0HkYra470JM6G_ZDD4TPqF55Ij7zgGNK4A84CGUbFUrbeKsE"
+        },
+        {
+          "title": "Shell Singapore lowers petrol prices as oil costs peter back to pre-war levels",
+          "url": "https://theindependent.sg/shell-singapore-lowers-petrol-prices-as-oil-costs-peter-back-to-pre-war-levels/",
+          "source": "The Independent Singapore News",
+          "published_at": "2026-06-22T06:05:53+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtrt_UNMRPNrZdEQjjmF3DZo24mQrAL89kLOa3gVXP4Eez53-Dpd12pRsckDI"
+        },
+        {
+          "title": "Fuel prices in Singapore fall as Caltex, Esso, Shell, Sinopec and SPC post reductions, Money News",
+          "url": "https://www.asiaone.com/money/petrol-diesel-pump-prices-june-17-middle-east-war-caltex-esso-shell-spc",
+          "source": "AsiaOne",
+          "published_at": "2026-06-17T10:19:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY25IJt9PfnU6pwajRMBxAmd3zSx0E_eyYsUeTHAKhawEZbasNldeJILb32Yg"
+        },
+        {
+          "title": "Petrol prices in Singapore continue to drop as Esso leads reduction, Money News",
+          "url": "https://www.asiaone.com/money/petrol-diesel-pump-prices-june-22-middle-east-war-esso",
+          "source": "AsiaOne",
+          "published_at": "2026-06-22T11:35:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGvXN9thkmqnk6SUYKYPCUBxPsXYuvgdx56fECfIVoyrNx9pUaEUrH_M6i06k"
+        },
+        {
+          "title": "Petrol prices in Singapore continue to drop as Esso leads reduction",
+          "url": "https://www.asiaone.com/singapore/petrol-diesel-pump-prices-june-22-middle-east-war-esso",
+          "source": "AsiaOne",
+          "published_at": "2026-06-22T11:35:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGvXN9thkmqnk6SUYKYPCUBxPsXYuvgdx56fECfIVoyrNx9pUaEUrH_M6i06k"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "icai nic",
+      "approx_traffic": 200,
+      "started_at": "2026-06-24T05:10:00+00:00",
+      "related_queries": [
+        "icai nic"
+      ],
+      "news": [
+        {
+          "title": "CA Inter May Result 2026 LIVE: Check Download Link @icai.org, Scorecard, Toppers & Pass Percentage",
+          "url": "https://www.shiksha.com/news/accounting-commerce-ca-intermediate-may-2026-result-live-updates-toppers-list-pass-percentage-blogId-233927",
+          "source": "Shiksha.com",
+          "published_at": "2026-06-24T04:31:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQb6oY5nQMGcb8ohxreSQ1NDZ_7mF5_15Cq5NEFLs-bznIofSxDrbWSlegcbpg"
+        },
+        {
+          "title": "ICAI CA Intermediate Result 2026 LIVE Updates: Result Out At 11 Am, Check Link Here",
+          "url": "https://www.ndtv.com/education/icai-ca-intermediate-result-2026-live-updates-ca-inter-result-scorecard-direct-link-11678803",
+          "source": "NDTV",
+          "published_at": "2026-06-24T04:26:55+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXT8fCVDDGINFBFcknZZxpzs_8MPG08g4esfr85jt3XO7Q-aW7R7ZeMTEKZ3I"
+        },
+        {
+          "title": "ICAI CA Inter Result May 2026 LIVE Updates: Scorecards today at caresults.icai.org",
+          "url": "https://indianexpress.com/article/education/icai-ca-inter-result-may-2026-live-updates-scorecards-out-caresults-icai-org-10750781/",
+          "source": "The Indian Express",
+          "published_at": "2026-06-24T01:51:09+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfJndl5Xn6r-3GJNhAoZ2XMfudONBJgBjs3Bv7F2q0M4Y7R0HbBZzIjH7dFaU"
+        },
+        {
+          "title": "ICAI CA Intermediate May 2026 results to be out today: Check steps to download scorecards",
+          "url": "https://timesofindia.indiatimes.com/education/news/icai-ca-intermediate-may-2026-results-to-be-out-today-check-steps-to-download-scorecards/articleshow/131953041.cms",
+          "source": "The Times of India",
+          "published_at": "2026-06-24T02:33:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJKO5Jvxys2iwfCAEIw44O1mxrjwytGH6J9CH_e4tsCDjlmcXK1xOMNO3Sesc"
+        },
+        {
+          "title": "CA Intermediate Result Trends: Pass Percentage Analysis of Last 10 Years",
+          "url": "https://www.pw.live/ca/exams/ca-intermediate-result-trends-pass-percentage-analysis-of-last-10-years",
+          "source": "PW",
+          "published_at": "2026-06-23T12:47:17+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTW0PAKOhWWWW0StM5fPXowpWrnNfWsg8PBCmFLZu9I_liKSh3kdQzpjKADxdk"
+        },
+        {
+          "title": "Toppers, Marksheet & Pass Percentage of CA Intermediate May 2026 Exams",
+          "url": "https://www.caclubindia.com/news/toppers-marksheet-pass-percentage-of-ca-intermediate-may-2026-exams-26614.asp",
+          "source": "CAclubindia",
+          "published_at": "2026-06-24T05:04:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTt8X9LMwPdFKooVJ52jJgN92-l5o6NLdWM6-D_bs2VEmko8tu3S6CZJJmVptQ"
+        },
+        {
+          "title": "ICAI CA final merit list 2026: Noor Singla is the topper; know how to download toppers list PDF",
+          "url": "https://www.indiatvnews.com/education/exam-results/icai-ca-merit-list-2026-now-available-at-caresults-icai-org-steps-to-download-topper-list-pdf-2026-06-18-1045207",
+          "source": "India TV News",
+          "published_at": "2026-06-18T05:40:58+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtLCWikkazhXFbn7ijKng19jwJ06ursu1_FirghZpRs8UDcF0Y90bTwxwsq8"
+        },
+        {
+          "title": "CA Inter Result May 2026: Date, time, how to check scorecard and other key details",
+          "url": "https://m.economictimes.com/news/new-updates/ca-inter-result-may-2026-date-time-how-to-check-scorecard-and-other-key-details/articleshow/131952794.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-06-24T02:09:52+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoH24RqtxXmR_7DZMMl3Qxt3QadEFIv9TZBlLDdFdg6_GS-xc45NHlxA88AM"
+        },
+        {
+          "title": "ICAI CA Inter May Result 2026: How to download scorecards from caresults.icai.org",
+          "url": "https://indianexpress.com/article/education/icai-ca-intermediate-results-2026-how-to-check-download-marksheets-caresults-icai-org-10751677/",
+          "source": "The Indian Express",
+          "published_at": "2026-06-24T04:45:23+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJKf4ih4EE0fhCr0hcupDSa2WIEB-sie3eMhmMOkEfJil3zlvfE0UiQOvpEcw"
+        },
+        {
+          "title": "ICAI CA Inter Result May 2026 Live: CA Inter Results today @ caresults.icai.org; direct link here",
+          "url": "https://www.moneycontrol.com/education/icai-ca-inter-result-may-2026-live-updates-ca-inter-results-at-caresults-icai-org-toppers-pass-percent-direct-link-liveblog-13957150.html",
+          "source": "Moneycontrol.com",
+          "published_at": "2026-06-24T04:11:48+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDIh5LDFu8RWS_nSiiG7FLYzvikwCvpbjUNsiu42oo1MeWrzC3i4Ht_FtAAAY"
+        }
+      ]
+    }
+  ]
+}
