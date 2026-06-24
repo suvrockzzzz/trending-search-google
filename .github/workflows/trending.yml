@@ -1,0 +1,90 @@
+name: Trending Topics Fetcher
+
+# Runs the fetcher every 2 days and commits the dated JSON. GitHub-hosted
+# runners have open outbound internet (unlike the Claude cloud sandbox, whose
+# egress proxy blocks trends.google.com), so the Google Trends call succeeds
+# here. Pushing uses the built-in GITHUB_TOKEN — no PAT or integration needed.
+on:
+  schedule:
+    # 18:30 UTC every 2nd day = 12:00 AM IST. Note: cron's */2 on day-of-month
+    # resets at month boundaries, so the 31st->1st gap is 1 day (standard
+    # cron approximation of "every two days").
+    - cron: "30 18 */2 * *"
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write # commit & push the JSON
+  issues: write # open a tracking issue on failure
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch trending topics
+        id: fetch
+        run: |
+          set +e
+          python3 trending.py 2> err.log
+          code=$?
+          cat err.log
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          {
+            echo 'stderr<<__ERR_EOF__'
+            cat err.log
+            echo '__ERR_EOF__'
+          } >> "$GITHUB_OUTPUT"
+          exit $code
+
+      - name: Commit & push JSON
+        if: success()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add output/
+          if git diff --staged --quiet; then
+            echo "No new/changed trending file to commit."
+          else
+            date=$(date -u +%Y-%m-%d)
+            git commit -m "Trending topics for $date"
+            git push
+          fi
+
+      - name: Open issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ERR: ${{ steps.fetch.outputs.stderr }}
+          CODE: ${{ steps.fetch.outputs.exit_code }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          date=$(date -u +%Y-%m-%d)
+          now=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          title="Trending fetch failed — $date"
+          body=$(cat <<EOF
+          The scheduled trending fetch failed at **$now**.
+
+          - **Step:** \`python3 trending.py\`
+          - **Exit code:** \`${CODE:-unknown}\`
+          - **Run log:** $RUN_URL
+
+          **Error output:**
+          \`\`\`
+          ${ERR:-(no stderr captured)}
+          \`\`\`
+          EOF
+          )
+          # De-dupe: comment on today's open issue if it already exists.
+          existing=$(gh issue list --state open --search "Trending fetch failed in:title" \
+            --json number,title --jq ".[] | select(.title==\"$title\") | .number" | head -n1)
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" --body "$body"
+          else
+            gh issue create --title "$title" --body "$body"
+          fi

@@ -38,28 +38,34 @@ A scheduled agent runs this fetcher **every two days** and commits the fresh
 date-stamped JSON, so `output/` builds up a dated history of trending topics
 with no manual runs.
 
-### ✅ Cloud agent scheduled
+### ✅ GitHub Actions workflow
 
-A recurring **Claude Code cloud routine** runs the project on a schedule — no
-local machine required.
+A scheduled **GitHub Actions** workflow ([.github/workflows/trending.yml](.github/workflows/trending.yml))
+runs the fetcher on a cron schedule — no local machine required.
 
 | Setting | Value |
 |---------|-------|
-| Name | Trending Topics Fetcher (every 2 days) |
 | Schedule | `30 18 */2 * *` → **12:00 AM IST**, every 2nd day |
-| Model | `claude-sonnet-4-6` |
-| Repo | `gitlab.com/suvampaul/create-video-using-ai` |
+| Runner | `ubuntu-latest` (open outbound internet) |
+| Auth | built-in `GITHUB_TOKEN` (no PAT or integration) |
 
-On each run the agent does a fresh checkout, runs `python3 trending.py`, then
+On each run the workflow checks out the repo, runs `python3 trending.py`, then
 **commits & pushes** the new `output/trending-YYYY-MM-DD.json` back to `main` —
-accumulating a dated history in the repo. It reports the filename, the `count`,
-and the top 5 topics, and won't commit a failed/empty run.
+accumulating a dated history in the repo. It won't commit a failed/empty run;
+instead it **opens (or comments on) a GitHub issue** titled
+`Trending fetch failed — <date>` with the exit code and full error output.
+
+> **Why not a Claude cloud routine?** The Claude Code cloud sandbox routes
+> outbound traffic through an egress proxy that blocks `trends.google.com`
+> (the fetch fails with `Tunnel connection failed: 403 Forbidden`). GitHub's
+> runners have open internet, so the job lives here instead.
 
 > **Note on "every two days":** cron's `*/2` on day-of-month resets at month
 > boundaries, so the gap between the 31st and the 1st is one day rather than two
 > — the standard cron approximation.
 
-Manage the routine at <https://claude.ai/code/routines>.
+You can also trigger it manually from the repo's **Actions** tab
+("Run workflow").
 
 Examples:
 
