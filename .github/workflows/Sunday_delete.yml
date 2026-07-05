@@ -1,0 +1,46 @@
+name: Prune old trending JSON
+
+# Every Sunday keep only the newest output/trending-*.json and delete the rest,
+# so output/ holds just the latest snapshot instead of accumulating history.
+on:
+  schedule:
+    # 18:20 UTC Sunday = 23:50 IST Sunday (IST = UTC+5:30).
+    - cron: "20 18 * * 0"
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+
+permissions:
+  contents: write # commit & push the deletions
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Keep latest JSON, delete the rest
+        run: |
+          # Collect JSON files, sorted by name (date-stamped => chronological).
+          mapfile -t files < <(ls -1 output/*.json 2>/dev/null | sort)
+          n=${#files[@]}
+          if [ "$n" -le 1 ]; then
+            echo "Nothing to prune ($n JSON file(s) in output/)."
+            exit 0
+          fi
+
+          latest="${files[$((n - 1))]}"
+          echo "Keeping latest: $latest"
+
+          for f in "${files[@]}"; do
+            [ "$f" = "$latest" ] && continue
+            echo "Deleting: $f"
+            git rm --quiet "$f"
+          done
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if git diff --staged --quiet; then
+            echo "No files removed."
+          else
+            git commit -m "Prune old trending JSON, keep $(basename "$latest")"
+            git push
+          fi
