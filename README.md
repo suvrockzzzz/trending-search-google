@@ -67,6 +67,23 @@ instead it **opens (or comments on) a GitHub issue** titled
 You can also trigger it manually from the repo's **Actions** tab
 ("Run workflow").
 
+### 🧹 Weekly cleanup workflow
+
+A second **GitHub Actions** workflow ([.github/workflows/Sunday_delete.yml](.github/workflows/Sunday_delete.yml))
+prunes the accumulated history so `output/` keeps only the latest snapshot.
+
+| Setting | Value |
+|---------|-------|
+| Schedule | `20 18 * * 0` → **every Sunday 23:50 IST** (18:20 UTC) |
+| Runner | `ubuntu-latest` |
+| Auth | built-in `GITHUB_TOKEN` |
+
+On each run it keeps only the newest `output/trending-*.json` (the filenames are
+date-stamped, so they sort chronologically) and **deletes every other JSON file
+in `output/`**, committing the removal back to `main`. If there's only one file
+(or none), it does nothing. It can also be triggered manually from the
+**Actions** tab.
+
 Examples:
 
 ```bash
