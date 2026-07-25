@@ -1,0 +1,522 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-07-25T21:38:19.071672+00:00",
+  "window_days": 4,
+  "count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "liverpool vs sunderland",
+      "approx_traffic": 2000,
+      "started_at": "2026-07-25T21:10:00+00:00",
+      "related_queries": [
+        "liverpool vs sunderland"
+      ],
+      "news": [
+        {
+          "title": "Liverpool vs Sunderland: Club Friendlies stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c0qv004d155t",
+          "source": "BBC",
+          "published_at": "2026-07-25T20:59:16+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhVF7k6pe4So0WGjLgSvc4Z2zcc6vVdYevxL03RF2orFce470OlQEMyFAEJWM"
+        },
+        {
+          "title": "Matchday photos: Liverpool take a team walk in Nashville",
+          "url": "https://www.liverpoolfc.com/news/matchday-photos-liverpool-take-team-walk-nashville",
+          "source": "Liverpool FC",
+          "published_at": "2026-07-25T17:51:26+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbBpGb2dCBF-36Yy2ypPqYHz3Rtk01esgTwhMj3XGE4cMGYUY9dRzffSUVkyA"
+        },
+        {
+          "title": "Liverpool vs Sunderland - Prediction, where to watch, kick-off time and line-ups 25-07-2026",
+          "url": "https://onefootball.com/en/betting/predictions/liverpool-vs-sunderland-25-07-2026",
+          "source": "OneFootball",
+          "published_at": "2026-07-25T16:14:44+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOv7rzGdaixCABX5InZousrv01nkYYAxMBwfuQyHNPARhY2EMrbmGnVcRS3mI"
+        },
+        {
+          "title": "Liverpool vs Sunderland predictions: A slow start to pre-season",
+          "url": "https://www.goal.com/en-in/betting/tips/liverpool-vs-sunderland-predictions-26-07-2026/A%3Ablt6a059259cfcc7aa3",
+          "source": "Goal.com",
+          "published_at": "2026-07-24T14:58:21+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVANJYPIpd6j0NoTI7A0_foejmOWBE9eDb-R7cj-2_9i2Y8QGTmeo4zMotj-g"
+        },
+        {
+          "title": "Fan Focus: What Can Sunderland Expect From Andoni Iraola’s Liverpool Side?",
+          "url": "https://rokerreport.sbnation.com/fan-focus/146019/fan-focus-what-can-sunderland-expect-from-andoni-iraolas-liverpool-side",
+          "source": "Roker Report",
+          "published_at": "2026-07-25T18:10:47+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQrt4VGnTtBUBiqj8tcMT60nwuJifeo1_mqKq7-HMMe4KlF0OAGF5L96_nXHg"
+        },
+        {
+          "title": "Liverpool XI vs Sunderland: Jacquet debut and confirmed team news",
+          "url": "https://www.standard.co.uk/sport/football/liverpool-fc-xi-vs-sunderland-jacquet-debut-predicted-lineup-confirmed-team-news-preseason-friendly-2026-today-b1291252.html",
+          "source": "London Evening Standard",
+          "published_at": "2026-07-25T20:24:23+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4XIT-3AffW1TstTBZsuATSDRu9RcygjyR5zrpUBPzRH3do--cpqbAnrWIR94"
+        },
+        {
+          "title": "How to Watch Liverpool vs. Sunderland on TV, Live Stream for Free",
+          "url": "https://www.si.com/soccer/how-to-watch-liverpool-vs-sunderland-tv-live-stream-free",
+          "source": "Sports Illustrated",
+          "published_at": "2026-07-25T18:00:04+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKJ3kFm9ah2U2ZQex5NjyI8i15lXdjFwDSvJZG2r1wgnnCKshNUJsmkeJBPJE"
+        },
+        {
+          "title": "Liverpool squad land in Nashville ahead of friendly with Sunderland",
+          "url": "https://www.liverpoolfc.com/news/liverpool-squad-land-nashville-ahead-friendly-sunderland",
+          "source": "Liverpool FC",
+          "published_at": "2026-07-25T01:04:37+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYdtmjhJlsxCnomcPh_mwpBkEBs3mrHWZhIGTdUskomqzRSid4FURXBBh3Z6U"
+        },
+        {
+          "title": "Liverpool vs Sunderland Live Streaming: Where To Watch Liverpool's First Pre-Season Friendly In India",
+          "url": "https://www.ndtvprofit.com/sports/liverpool-vs-sunderland-live-streaming-where-to-watch-liverpools-first-pre-season-friendly-in-india-11820653",
+          "source": "NDTV Profit",
+          "published_at": "2026-07-25T18:30:10+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6a-0YhzGq6A9aKOrEazMJslvvOYAOReAV_PzuxrHE0C_-vXYTzI6RohdVJtg"
+        },
+        {
+          "title": "Liverpool XI vs Sunderland: Confirmed team news, predicted lineup and injury latest for friendly",
+          "url": "https://www.standard.co.uk/sport/football/liverpool-xi-vs-sunderland-confirmed-team-news-predicted-lineup-injury-latest-friendly-b1291252.html",
+          "source": "London Evening Standard",
+          "published_at": "2026-07-25T07:14:28+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxYFb8m2AlaRPzIQeF3KeGDK_HoHW4OtbgyCIhjnDrMHcLVCbqo37D4Yzm7xw"
+        },
+        {
+          "title": "Liverpool handed major Premier League prediction ahead of Andoni Iraola’s first season",
+          "url": "https://uk.sports.yahoo.com/news/liverpool-handed-major-premier-league-202307948.html",
+          "source": "Yahoo Sports UK",
+          "published_at": "2026-07-25T20:23:07+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8sN74SxPKTXtKHsDDI3X5V52R9sGlCKMmmCkIhe3N3gUykANSHjP3MMzPHts"
+        },
+        {
+          "title": "Why Liverpool can win the Premier League ahead of Arsenal and Man City despite Andoni Iraola facing transfer uncertainty",
+          "url": "https://www.sportsmole.co.uk/football/liverpool/title-race/feature/why-reds-can-win-the-premier-league-despite-iraolas-transfer-uncertainty_601827.html",
+          "source": "Sports Mole",
+          "published_at": "2026-07-25T16:03:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFti-soFFUjOWAFA75z8DB5WBKF2jbvYE12cmkPPLDvtTqNGPsdZBee-qeVto"
+        },
+        {
+          "title": "Liverpool betting odds: Reds 5/1 to win record 21st title",
+          "url": "https://www.telegraph.co.uk/betting/football/liverpool-premier-league-title-odds/",
+          "source": "The Telegraph",
+          "published_at": "2026-07-22T15:50:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXMAY4XY07TxcniX1IZn6q1pDHY6DwChh5MAcExNdZFsgNJwsWAKAmqZBWOlo"
+        },
+        {
+          "title": "What are Liverpool’s Chances of Winning the Premier League in 2026/27?",
+          "url": "https://onefootball.com/pt-br/noticias/what-are-liverpools-chances-of-winning-the-premier-league-in-202627-43183253",
+          "source": "OneFootball",
+          "published_at": "2026-07-25T07:19:56+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIDcDasQQfApzw76RZhcRpLgeFc53yoLC_TCgZre2XP3VgDlw4Juqa5t7wiT0"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "santos vs chapecoense",
+      "approx_traffic": 1000,
+      "started_at": "2026-07-25T20:50:00+00:00",
+      "related_queries": [
+        "santos vs chapecoense"
+      ],
+      "news": [
+        {
+          "title": "Com Neymar, Santos treina de olho no duelo contra a Chapecoense",
+          "url": "https://onefootball.com/en/video/com-neymar-santos-treina-de-olho-no-duelo-contra-a-chapecoense-43180212",
+          "source": "OneFootball",
+          "published_at": "2026-07-24T11:30:19+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGDj0kwni0D5I0QKYAkA5u86FiqJmezqzNDiNlb13Cs-4sA3pAPAwN5kHBrk8"
+        },
+        {
+          "title": "Santos Lineup vs. Chapecoense- Is Neymar Playing Today?",
+          "url": "https://athlonsports.com/soccer/santos-lineup-vs-chapecoense-is-neymar-playing-today",
+          "source": "Athlon Sports",
+          "published_at": "2026-07-25T19:30:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgyN1id-1DgmitwSaMod4aDq4xV0wdS-KOzwNLBKEpdy5lBadW8u9PpQK_mx4"
+        },
+        {
+          "title": "Santos hand Neymar and travelling squad a day off after Venezuela delays",
+          "url": "https://onefootball.com/fr/news/santos-hand-neymar-and-travelling-squad-a-day-off-after-venezuela-delays-43178464",
+          "source": "OneFootball",
+          "published_at": "2026-07-23T23:00:07+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwhe_BfdgtFa9M5VKRfKx2hRjkNdkoa6X0yxOUGSpDhN9-QCgyWcYONaui2ZM"
+        },
+        {
+          "title": "Neymar returns to Santos with questions hanging over his future",
+          "url": "https://www.rfi.fr/en/sports/20260717-neymar-returns-to-santos-with-questions-hanging-over-his-future",
+          "source": "RFI",
+          "published_at": "2026-07-17T15:34:10+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJh683naDDEjxvIzntTgnZGvhuZCu12Zzw-TuGIXguUcybaMjCZxwfUhtvB-A"
+        },
+        {
+          "title": "Watch: Neymar among the goals! Brazilian superstar already back in training with Santos after miserable World Cup blighted by injury questions",
+          "url": "https://www.yardbarker.com/soccer/articles/watch_neymar_among_the_goals_brazilian_superstar_already_back_in_training_with_santos_after_miserable_world_cup_blighted_by_injury_questions/s1_17790_44086290",
+          "source": "Yardbarker",
+          "published_at": "2026-07-21T18:47:26+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLM_HbtQUHH0boMrya-uXgJFUfrneH960OMTaOQMMxi-bVW-iqH00FY1joPSw"
+        },
+        {
+          "title": "Cuca confirms Neymar to return for Santos against Chapecoense",
+          "url": "https://onefootball.com/en/news/cuca-confirms-neymar-to-return-for-santos-against-chapecoense-43174557",
+          "source": "OneFootball",
+          "published_at": "2026-07-23T05:48:20+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqCZu2hAuN3x6Vuz1o8V6lqesO6T2khowPPpMcgMkB87Im-dS1Q5hXtF5OnU"
+        },
+        {
+          "title": "Neymar trains freely at Santos’ CT Rei Pelé after World Cup return",
+          "url": "https://onefootball.com/en/news/neymar-trains-freely-at-santos-ct-rei-pele-after-world-cup-return-43158913",
+          "source": "OneFootball",
+          "published_at": "2026-07-19T15:07:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWqCZu2hAuN3x6Vuz1o8V6lqesO6T2khowPPpMcgMkB87Im-dS1Q5hXtF5OnU"
+        },
+        {
+          "title": "Cuca confirms Neymar for Chapecoense and explains Venezuela absence",
+          "url": "https://onefootball.com/en/news/cuca-confirms-neymar-for-chapecoense-and-explains-venezuela-absence-43175435",
+          "source": "OneFootball",
+          "published_at": "2026-07-23T09:59:33+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkIN1XIdm_DoyNkxckvqDNyscgp1rExuXxuukl-EUvnyAgXHjX8M0hqwuMxx4"
+        },
+        {
+          "title": "Neymar reports back to Santos, undergoes tests at CT Rei Pelé",
+          "url": "https://onefootball.com/en/news/neymar-reports-back-to-santos-undergoes-tests-at-ct-rei-pele-43156397",
+          "source": "OneFootball",
+          "published_at": "2026-07-18T20:12:18+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr-oJGb_5UeDQZH_AO0mQpbmQNJxh0095wejkGXEnQH65h_wNingVEXC7-fVI"
+        },
+        {
+          "title": "Neymar returns to Santos after World Cup, starts gym work",
+          "url": "https://onefootball.com/en/news/neymar-returns-to-santos-after-world-cup-starts-gym-work-43156159",
+          "source": "OneFootball",
+          "published_at": "2026-07-18T18:50:12+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr-oJGb_5UeDQZH_AO0mQpbmQNJxh0095wejkGXEnQH65h_wNingVEXC7-fVI"
+        },
+        {
+          "title": "Watch Santos FC vs Chapecoense AF Serie A game LIVE: Online streams, TV channel, early teams news, start time",
+          "url": "https://www.goal.com/en-us/news/watch-santos-fc-v-chapecoense-af-live-stream-online-tv-channel/blt2a426d33eb0d10ef",
+          "source": "Goal.com",
+          "published_at": "2026-07-25T13:59:12+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRvYTelkmC2MYLjlvnpM5dnwJWfJ_eu4dpGxcFirhce0vyqj3K_KYtjTywalE"
+        },
+        {
+          "title": "📋 Neymar starts? Santos and Chapecoense line-ups set at Vila",
+          "url": "https://ca.sports.yahoo.com/news/neymar-starts-santos-chapecoense-line-203200391.html",
+          "source": "Yahoo Sports Canada",
+          "published_at": "2026-07-25T20:32:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-gn-z28cbNBywRPFGCPxwrzXKK2owF-TNLe9dpd3klXSvbAtdF0HGEbBAgy8"
+        },
+        {
+          "title": "Santos vs Chapecoense: How to watch, Live Stream, TV Channel and Time for a 2026 Brasileirao match on July ...",
+          "url": "https://bolavip.com/en/soccer/santos-vs-chapecoense-how-to-watch-live-stream-tv-channel-and-time-for-a-2026-brasileirao-match-on-july-25-2026",
+          "source": "Bolavip US",
+          "published_at": "2026-07-25T17:30:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHE4x1GzXeJ1CXeGWvCPmt7Uw_GCHhoy1a5CZArgChrxEe94-CVBksixLs1dM"
+        },
+        {
+          "title": "Santos v Chapecoense: survival push meets basement battle",
+          "url": "https://onefootball.com/en/news/santos-v-chapecoense-survival-push-meets-basement-battle-43182602",
+          "source": "OneFootball",
+          "published_at": "2026-07-24T21:36:07+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6f9wXdT5O7GWS4Qaq6KC7x8mzGd1xLH7K5viUlSk6hGcWMV1L5RGEf2GCTEQ"
+        },
+        {
+          "title": "Santos vs Chapecoense prediction: teams form analysis, possible lineups on July 26, 2026",
+          "url": "https://ratingbet.com/predictions/santos-vs-chapecoense-prediction-teams-form-analysis-possible-lineups-on-july-26-2026/",
+          "source": "RatingBet",
+          "published_at": "2026-07-24T18:21:01+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe5OD4WpUxYVgo2WqVPRrtTLdOSwLQ8kskym5JYY5op4Yagmom7MJhaT-ehyc"
+        },
+        {
+          "title": "How to watch Santos vs Chapecoense match in the USA: Live Stream and TV for 2026 Brasileirao",
+          "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-santos-vs-chapecoense-match-in-the-usa-live-stream-and-tv-for-2026-brasileirao/",
+          "source": "World Soccer Talk",
+          "published_at": "2026-07-25T17:30:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTxhqquhwu7MhkD99jQYqOcuY2etXH4C1nj6WmNhDz8q1UY5jkoYrY6giS7zk"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "अपरा मेहता",
+      "approx_traffic": 100,
+      "started_at": "2026-07-25T20:50:00+00:00",
+      "related_queries": [
+        "अपरा मेहता"
+      ],
+      "news": [
+        {
+          "title": "23 साल बाद पति ने तोड़ा रिश्ता, 65 साल की एक्ट्रेस ने क्यों नहीं रचाई दूसरी शादी? सालों बाद तोड़ी चुप्पी",
+          "url": "https://www.aajtak.in/entertainment/television/story/65-years-old-apara-mehta-on-second-marriage-separated-with-husband-23-years-ago-living-alone-tmovf-dskc-2608737-2026-07-25",
+          "source": "AajTak",
+          "published_at": "2026-07-25T05:50:04+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8C5ozB7573IBEGBIIJ1T0qu4hFqfIlxv33tD-eccTC_JR3e-BTzjO-HwgO2s"
+        },
+        {
+          "title": "कौन हैं दर्शन जरीवाला? 'बदसूरत' कहकर वेडिंग एनिवर्सरी पर पत्नी अपरा मेहता को छोड़ा, 23 साल बाद छलका दर्द",
+          "url": "https://www.indiatv.in/entertainment/tv/who-is-darshan-jariwala-left-wife-apara-mehta-saying-you-are-the-ugliest-women-actress-reveals-after-23-years-2026-07-25-1233416",
+          "source": "India TV Hindi",
+          "published_at": "2026-07-25T16:54:11+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRGHnxsBFz_-z3c12u8EPwqpmRfocrKRpHYeZxbh9m8u-6XKelAZmxz3LHAPU"
+        },
+        {
+          "title": "'बदसूरत हो तुम...', Ranbir Kapoor के रील 'पिता' ने 'क्योंकि सास भी कभी बहू' एक्ट्रेस से तोड़ी थी 23 साल की शादी",
+          "url": "https://www.jagran.com/entertainment/bollywood-apara-mehta-reveals-husband-darshan-jariwala-called-her-ugly-and-left-their-house-40318568.html",
+          "source": "Jagran",
+          "published_at": "2026-07-25T08:34:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQI6xmf2XgkYDq_s3RbQ9Ptz39TDrA-nm7LfZKcNXUNmaAWtXPeztEycyDysuQ"
+        },
+        {
+          "title": "'तुम सबसे बदसूरत औरत हो', वेडिंग एनिवर्सरी पर अपरा मेहता से पति दर्शन ने कही थी ये बात, बयां किया तलाक का द...",
+          "url": "https://hindi.news18.com/amp/news/entertainment/tv-apara-mehta-opens-up-about-painful-separation-with-darshan-jariwala-said-you-are-ugliest-woman-10688069.html",
+          "source": "News18 Hindi",
+          "published_at": "2026-07-25T04:54:24+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZiYCT5aJicgav72fmXjqVZar5Xk59E7xp2wxMf--LK6lZeYMyi_xqsXMwnH8"
+        },
+        {
+          "title": "'तुम सबसे बदसूरत', अपरा मेहता को पति दर्शन जरीवाला ने किया था बेइज्जत! शादी तोड़ घर छोड़कर चले गए थे एक्टर",
+          "url": "https://navbharattimes.indiatimes.com/tv/news/apara-mehta-reveals-why-she-and-husband-darshan-jariwala-separated-23-years-ago-but-are-not-divorced-yet/articleshow/132611441.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-07-24T17:51:21+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHAf1rWKydEbF3op2hIFJ9-_jfPpuFC3wnAQY-C1AVNY8uFmzk6FuWsnmqT3E"
+        },
+        {
+          "title": "‘तुम सबसे बदसूरत औरत हो’, अपरा मेहता ने दर्शन जरीवाला से शादी टूटने की बताई वजह, सालों बाद खोले राज",
+          "url": "https://www.jansatta.com/entertainment/apara-mehta-reveals-her-separation-reason-with-darshan-jariwala-you-are-the-ugliest-women/4633827/",
+          "source": "Jansatta",
+          "published_at": "2026-07-25T08:22:33+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEj8Pq72-ACZhQgTQWuECofgjMsciBulK1PlCPdsq9YdioxVbba8D5BbmQdAw"
+        },
+        {
+          "title": "कौन हैं टीवी एक्ट्रेस अपरा के पति दर्शन, वेडिंग एनिवर्सरी पर पति ने कहा था 'तुम सबसे बदसूरत', 23 साल से अलग, फिर भी नहीं लिया तलाक",
+          "url": "https://ndtv.in/television/who-is-apara-mehta-husband-darshan-jariwala-called-wife-ugliest-women-and-fallen-out-of-love-before-separation-not-divorced-in-23-years-11819855",
+          "source": "NDTV India",
+          "published_at": "2026-07-25T07:23:51+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HPm0oh7LYJ-XYSHxbEQwpKRV8M1zOSo0KMPIX_MzZTs2XqDvEPVXCRMg1c0"
+        },
+        {
+          "title": "तुम सबसे बदसूरत औरत हो... ये कहकर पति दर्शन जरीवाला ने छोड़ा अपरा मेहता का साथ, 44",
+          "url": "https://www.abplive.com/entertainment/television/tv-actress-apara-mehta-on-her-separation-with-husband-darshan-jariwala-heart-break-marriage-love-story-3165355",
+          "source": "ABP News",
+          "published_at": "2026-07-25T08:39:47+00:00",
+          "picture": null
+        },
+        {
+          "title": "'बदसूरत हो तुम', ये कहकर पति ने तोड़ी शादी, मशहूर एक्ट्रेस का छलका दर्द",
+          "url": "https://www.aajtak.in/entertainment/television/story/kyunki-saas-bhi-actress-apara-mehta-opens-about-living-seperate-with-darshan-jariwala-marriage-problems-tmovj-dskc-2608596-2026-07-25",
+          "source": "AajTak",
+          "published_at": "2026-07-25T01:46:02+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTM-3IxeG8Y5GhnR0tLe7VmPrxTUC1uAHOmd-GVNvBDRbPbKTJjBnp94osW6VI"
+        },
+        {
+          "title": "तुम मेरी जिंदगी की सबसे बदसूरत औरत हो... अपरा मेहता ने सुनाया पति दर्शन जरीवाला से अलगाव का दर्द",
+          "url": "https://hindi.webdunia.com/bollywood-gossip/apara-mehta-reveals-painful-separation-from-husband-darshan-jariwala-after-23-years-apart-126072500014_1.html",
+          "source": "Webdunia",
+          "published_at": "2026-07-25T06:06:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-YKjKrFMFG6nnktcVgGieilejAyMgDh6DjjMfYJ9nmUG0b2TXuqEtKxKIobE"
+        },
+        {
+          "title": "पति ने कहा- तुम दुनिया की सबसे बदसूरत औरत हो: अपारा मेहता ने तलाक पर की बात; भीड़ की बदसलूकी और सिगरेट से ज...",
+          "url": "https://www.bhaskar.com/g/entertainment/bollywood/news/apara-mehta-divorce-controversy-personal-life-statement-138536472.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-07-25T10:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSHX3FD1aLx03595pWwE_0ZEaxymMWf9uyGs_gSPu97QUW3_t90GfIcvHfBMA"
+        },
+        {
+          "title": "'मुझे कई जगह छुआ', 'क्योंकि सास भी...' एक्ट्रेस संग भीड़ में हुई थी धक्का-मुक्की, बोलीं- मेरे जलती हुई सिगरेट लगाई",
+          "url": "https://www.aajtak.in/entertainment/television/story/kyunki-saas-bhi-kabhi-bahu-thi-apara-mehta-mobbed-recalls-people-touched-pushed-her-inappropriately-tmovf-dskc-2608781-2026-07-25",
+          "source": "AajTak",
+          "published_at": "2026-07-25T06:51:54+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ85u33lIxLJ73pNmXOEH7l-5ZEw7xJgEXg4O8IcBoaemaWGsluhF1_7yYlLA8"
+        },
+        {
+          "title": "'मुझे हर जगह छू रहे थे लोग', KSBKBT फेम अपरा मेहता को देख जब बेकाबू हुई भीड़, छीने गहने, सिगरेट से भी जलाया...",
+          "url": "https://hindi.news18.com/photogallery/entertainment/tv-kyunki-saas-bhi-kabhi-bahu-thi-fame-actress-apara-mehta-recall-when-she-mobbed-in-kolkata-fans-burned-her-with-cigarette-10688718.html",
+          "source": "News18 Hindi",
+          "published_at": "2026-07-25T08:26:25+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPBfgzVWgCYqkoCbZiLSI42J9mdHgrKxfRJ4FS79KaAVTVCQymMJ2R_DOPu4I"
+        },
+        {
+          "title": "जब भीड़ ने क्योंकि सास भी कभी बहू फेम एक्ट्रेस को घेर लिया था; 'सिगरेट से जला दिया था'",
+          "url": "https://www.livehindustan.com/entertainment/tv/kyunki-saas-bhi-kabhi-bahu-thi-fame-actress-apara-mehta-recalls-fans-burning-her-with-cigarettes-201784992650989.html",
+          "source": "Hindustan",
+          "published_at": "2026-07-25T16:05:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe7Ns9ReOWthOxu7uOeLYr6dzskiiz2MyNB_hntmzpNzQTQnKO2xmknXuV3Tc"
+        },
+        {
+          "title": "'क्योंकि सास भी' की अपरा मेहता बोलीं- हर कोई मुझे छू रहा था, लोगों ने सिगरेट से जला दिया, बेकाबू हो गई भीड़",
+          "url": "https://navbharattimes.indiatimes.com/tv/tv-masala/kyunki-saas-bhi-kabhi-bahu-thi-actress-apara-mehta-says-everyone-was-touching-me-people-burned-with-cigarettes/articleshow/132619334.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-07-25T05:37:28+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4lVfbbxt8_fhNTqBZ2gZrs7beYbAzb9lj5-MDpoOrootWrt-M6BBe80pW0K0"
+        },
+        {
+          "title": "फैंस से परेशान हुई थीं अपरा मेहता, कहा- मुझे सिगरेट से जलाया गया…लोग अंगूठी भी खिंचने लगे",
+          "url": "https://www.naidunia.com/entertainment/news-apara-mehta-recalls-fan-frenzy-kyunki-saas-bhi-kabhi-bahu-thi-burned-with-cigarette-8453644",
+          "source": "Nai Dunia",
+          "published_at": "2026-07-25T12:27:42+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnqy5tjFlXiEtaVMmXnfyIPEA5Op6hbRystrsdUoyvqflu_ppcb9O0tmeVK8U"
+        },
+        {
+          "title": "'फैंस ने मुझे सिगरेट से जलाया, मेरी डायमंड रिंग खींची’, 'क्योंकि सास भी कभी बहू थी' फेम एक्ट्रेस का चौंकाने वाला खुलासा",
+          "url": "https://ndtv.in/television/apra-mehta-says-fans-burned-me-with-cigarettes-and-snatched-my-diamond-ring-11819999",
+          "source": "NDTV India",
+          "published_at": "2026-07-25T08:19:54+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReWjSR6SiLz-6SLdzKcF4NJgE1CEKyDyhO7y0Z2yK4ogPE5JNUC-vyflz6sUs"
+        },
+        {
+          "title": "'Kyunki Saas Bhi Kabhi Bahu Thi' की एक्ट्रेस अपरा मेहता का चौंकाने वाला खुलासा, फैंस ने सिगरेट से जला दिया था हाथ!",
+          "url": "https://mayapuri.com/photos/taza-khabar/shocking-revelation-by-kyunki-saas-bhi-kabhi-bahu-thi-actress-apara-mehta-fans-burned-her-hand-with-a-cigarette-12197496",
+          "source": "mayapuri.com",
+          "published_at": "2026-07-25T14:52:01+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiMsz7WW5zepzhE51Sl5KiHmRB7wWxfTDVJemtmDbUmnuw5jgVrFfaVslCUq0"
+        },
+        {
+          "title": "क्योंकि…की अपरा मेहता ने शेयर किया फैंस से जुड़ा किस्सा, बोलीं-हर किसी ने मुझे हर जगह छुआ, फैन ने सिगरेट से जलाया",
+          "url": "https://www.livehindustan.com/entertainment/tv/kyunki-saas-bhi-kabhi-bahu-thi-actress-apara-mehta-recalls-how-fan-burned-her-with-cigaratte-touche-her-everywhere-201784955507418.html",
+          "source": "Hindustan",
+          "published_at": "2026-07-25T05:14:04+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-wu_d4P4D72Gs124d24CNY0IUBBLd47mla7TGT4wh5b4K1mOIWkY-bjg7bos"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "stranger things",
+      "approx_traffic": 100,
+      "started_at": "2026-07-25T21:00:00+00:00",
+      "related_queries": [
+        "stranger things"
+      ],
+      "news": [
+        {
+          "title": "Stranger Things: The First Shadow Will Become a Graphic Novel",
+          "url": "https://playbill.com/article/stranger-things-the-first-shadow-will-become-a-graphic-novel",
+          "source": "Playbill",
+          "published_at": "2026-07-24T16:56:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDSKKH-QZ4Oagy0Dq-M4cTPgbJRR4uav-g63M3k6-GzFqTCcCvbfiBx8W1_54"
+        },
+        {
+          "title": "Netflix’s 'Stranger Things' Officially Returns With Surprise New Release",
+          "url": "https://collider.com/netflix-stranger-things-the-first-shadow-graphic-novel-release-date-january-2027/",
+          "source": "Collider",
+          "published_at": "2026-07-24T16:22:45+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRo2kvsGx-nwjSM-Hjej1LxtWGeyu_Bp_iynhiVi9zackWcflryzHUEJqpFFxw"
+        },
+        {
+          "title": "Dark Horse Adapting STRANGER THINGS: THE FIRST SHADOW for Graphic Novel Release",
+          "url": "https://getyourcomicon.co.uk/blog/2026/07/25/dark-horse-adapting-stranger-things-the-first-shadow-for-graphic-novel-release/",
+          "source": "Get Your Comic On",
+          "published_at": "2026-07-25T10:06:31+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSunpFb_AbIEhNiPpHxQe8g8jBDIIvuUgFQ1gShBl9HebvvyNvHgK9hI7Lhtjo"
+        },
+        {
+          "title": "Stranger Things Fans Can Finally Experience First Shadow Prequel Without Seeing the Play",
+          "url": "https://www.yahoo.com/entertainment/tv/articles/stranger-things-fans-finally-experience-192721820.html",
+          "source": "Yahoo",
+          "published_at": "2026-07-24T19:27:21+00:00",
+          "picture": null
+        },
+        {
+          "title": "Stranger Things: The First Shadow graphic novel adaptation announced by Dark Horse",
+          "url": "https://www.flickeringmyth.com/stranger-things-the-first-shadow-graphic-novel-adaptation-announced-by-dark-horse/",
+          "source": "Flickering Myth",
+          "published_at": "2026-07-25T20:31:41+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRV7SIHE4yvY1UNgXG3CdsborLRMK2f0LxZ2oVg3HBejgWzpm5TSRiFddBwNzw"
+        },
+        {
+          "title": "'Stranger Things: The First Shadow' Graphic Novel Adapts The Stage Play For Dark Horse Comics",
+          "url": "https://comicbookclublive.com/2026/07/24/stranger-things-the-first-shadow-graphic-novel-adapts-the-stage-play-for-dark-horse-comics/",
+          "source": "Comic Book Club",
+          "published_at": "2026-07-24T16:11:34+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxVtWnZQ68wGRX0V4NALxhLYdU8mAlxxbr1RBiHOs91aG8bE8hmOIk2NOFjDA"
+        },
+        {
+          "title": "STRANGER THINGS: THE FIRST SHADOW Graphic Novel to Be Released by Dark Horse Books",
+          "url": "https://www.broadwayworld.com/article/STRANGER-THINGS-THE-FIRST-SHADOW-Graphic-Novel-to-Be-Released-by-Dark-Horse-Books-20260724",
+          "source": "BroadwayWorld",
+          "published_at": "2026-07-24T18:16:48+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROW5rFoYhtYQoBJA_k3UxYpvt-YFTfo5PBoedemcpU0bcj7xf5yke5Rfezxd4"
+        },
+        {
+          "title": "Stranger Things’ Vecna arcade game is out now: a Raw Thrills redemption machine",
+          "url": "https://en.softonic.com/articles/stranger-things-vecna-arcade-game-is-out-now-a-raw-thrills-redemption-machine",
+          "source": "Softonic",
+          "published_at": "2026-07-23T10:17:41+00:00",
+          "picture": null
+        },
+        {
+          "title": "Confirmed: Stranger Things Returns With a New Spinoff",
+          "url": "https://www.cbr.com/stranger-things-the-other-side-spinoff-comic-webtoon-reformat/",
+          "source": "Comic Book Resources",
+          "published_at": "2026-07-23T20:01:14+00:00",
+          "picture": null
+        },
+        {
+          "title": "Stranger Things' New Vecna Spinoff Is Very Different To The Main Series",
+          "url": "https://screenrant.com/stranger-things-vecna-arcade-spinoff-reactions/",
+          "source": "ScreenRant",
+          "published_at": "2026-07-23T04:00:15+00:00",
+          "picture": null
+        },
+        {
+          "title": "The Wait Is Over: Stranger Things Just Returned With A Will Spinoff Series, And It's Already #1",
+          "url": "https://screenrant.com/stranger-things-webtoon-horror-will-spinoff/",
+          "source": "ScreenRant",
+          "published_at": "2026-07-21T19:00:16+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSMDFDwHVrJ5pY2oEMgB5O9CUbUZvNJ7mKL5AByH6vJeevz5-UO2-ulUnTpH4"
+        },
+        {
+          "title": "David Harbour on the End of ‘Stranger Things,’ Emmy-Nominated ‘Dtf St. Louis’ and Upcoming Reunion With Millie Bobby Brown",
+          "url": "https://www.imdb.com/es-es/news/ni65942003/?ref_=nwc_art_perm",
+          "source": "IMDb",
+          "published_at": "2026-07-24T04:59:05+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6hlVZLX01N0Zy1Kn5Sm57sg5amDPy8TUKe6pRTsAiTA_ZPm79JCuzJMqKhxY"
+        },
+        {
+          "title": "David Harbour feared his mental health issues were related to his money troubles",
+          "url": "https://uk.news.yahoo.com/david-harbour-feared-mental-health-113000138.html",
+          "source": "Yahoo News UK",
+          "published_at": "2026-07-24T11:30:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQNiucSN9xWybQYndzi82YNOVYb9eknnD7IFLpMdarwf2s3Ox2jcJsgSKLAps"
+        },
+        {
+          "title": "David Harbour teases new Netflix thriller with Stranger Things co-star Millie Bobby Brown",
+          "url": "https://www.manchestereveningnews.co.uk/news/tv/david-harbour-teases-new-netflix-34346837",
+          "source": "Manchester Evening News",
+          "published_at": "2026-07-24T14:35:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCTqdR7sEo0yGstQmddk3Zhk6DA9ZbRsG2tTYauD50-xdaq5KsNZ5KJU920tM"
+        },
+        {
+          "title": "David Harbour teases \"really quite brilliant\" new Netflix spy thriller with Millie Bobby Brown",
+          "url": "https://www.digitalspy.com/tv/a73253366/david-harbour-teases-netflix-spy-thriller-millie-bobby-brown/",
+          "source": "Digital Spy",
+          "published_at": "2026-07-24T09:52:11+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8rivQKpFzw5XANn-JrTWP5XnnLfbHsgDumio-o4_PH7oYeJfa68ocbi-NV88"
+        },
+        {
+          "title": "'Stranger Things' star David Harbor opens up about his severe mental health struggles",
+          "url": "https://www.thenews.com.pk/latest/1410076-stranger-things-star-david-harbor-opens-up-about-his-severe-mental-health-struggles",
+          "source": "The News International",
+          "published_at": "2026-07-24T09:02:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCJp3dxJ4SabBYS0bDxC_TQ2T9QX3Yo5_X6GfE2K27ekpEtidnPtfPZYqMykk"
+        },
+        {
+          "title": "David Harbour opens up about mental illness",
+          "url": "https://uk.news.yahoo.com/david-harbour-opens-mental-illness-060000908.html",
+          "source": "Yahoo News UK",
+          "published_at": "2026-07-24T06:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRED5FKCWGbFgqQwSLd-PUKDdOlHe1S1iHFRZgsdPHqL7qoaeRUDb_iCWv6ySU"
+        },
+        {
+          "title": "David Harbour on the End of ‘Stranger Things,’ Emmy-Nominated ‘DTF St. Louis’ and Upcoming Reunion With Millie Bobby Brown",
+          "url": "https://uk.news.yahoo.com/david-harbour-end-stranger-things-224011459.html",
+          "source": "Yahoo News UK",
+          "published_at": "2026-07-23T22:40:11+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_U2ILi2zEhi-lbvCe5s3vz4THx_TuaSSRNFSuX_IHcnGJvz96PO-gDHdY7LQ"
+        }
+      ]
+    }
+  ]
+}
