@@ -1,0 +1,62 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-08-03T20:13:07.970503+00:00",
+  "window_days": 4,
+  "count": 1,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "world's tallest buildings",
+      "approx_traffic": 200,
+      "started_at": "2026-08-03T20:00:00+00:00",
+      "related_queries": [
+        "world's tallest buildings"
+      ],
+      "news": [
+        {
+          "title": "The 10 tallest skyscrapers in the world",
+          "url": "https://www.salonemilano.it/en/articles/10-tallest-skyscrapers-world-2026",
+          "source": "Salone del Mobile Milano",
+          "published_at": "2026-07-30T07:50:24+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf-saZD28_aUprbkZdf6q5pFdraUrGMOCHt0_Ds70SxyI9Ocp4hUtUcpWbfik"
+        },
+        {
+          "title": "World's Tallest Buildings In 2026: From Burj Khalifa To CITIC Tower, Here's The Complete List",
+          "url": "https://www.ndtvprofit.com/world/worlds-tallest-buildings-in-2026-from-burj-khalifa-to-jeddah-tower-heres-the-complete-list-11858673",
+          "source": "NDTV Profit",
+          "published_at": "2026-08-03T08:29:56+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdihT0nNhkVs_GuPEL_BBHZKjwloWNjU3a_NzXb19narTNP5EEKvZcx2xisDM"
+        },
+        {
+          "title": "Vertical Hubris: The Cold Economics and Structural Realities Behind the World's Tallest Towers",
+          "url": "https://weddings.lavenderhotels.co.uk/vertical-hubris-cold-economics-structural-realities-worlds-tallest-towers",
+          "source": "Lavender Hotel",
+          "published_at": "2026-08-03T05:28:17+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDZhtxtxjUGLoflB_bLcPw-E76OM5_0r5rVPyqupkrQcd2Y3JidfjPmxcFhkQ"
+        },
+        {
+          "title": "World's Tallest Buildings in 2026: Top 20 Skyscrapers",
+          "url": "https://www.indianeagle.com/traveldiary/tallest-buildings-in-the-world-2/",
+          "source": "IndianEagle",
+          "published_at": "2026-08-03T11:29:52+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3t_voxsac3kFkD4BI2IYbVQ8GeNINlcvQftyNnVSaEM8HYAFgmRO--eO5txI"
+        },
+        {
+          "title": "Burj Khalifa To Shanghai Tower: These Are 5 Of The Tallest Buildings In The World",
+          "url": "https://www.news18.com/photogallery/lifestyle/travel/burj-khalifa-to-shanghai-tower-these-are-5-of-the-worlds-tallest-buildings-in-the-world-10247898.html",
+          "source": "News18",
+          "published_at": "2026-08-02T10:44:34+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR6_DAQiq64m1oYZUhNR54f0-ZGbMxuaAFQPm8hC1ThI-mp16jI-_Be0xL9yY"
+        },
+        {
+          "title": "World’s tallest buildings: Burj Khalifa leads with 828 meters",
+          "url": "https://eciks.org/17299-worlds-tallest-buildings-burj-khalifa",
+          "source": "eciks.org",
+          "published_at": "2026-07-30T18:50:58+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOt2g4T1MIsUuH_oGS6_gCFz1wxMz4aWZPqCVRccFwxUSGIuGitGC1Twfouks"
+        }
+      ]
+    }
+  ]
+}
