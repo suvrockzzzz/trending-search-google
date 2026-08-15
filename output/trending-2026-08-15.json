@@ -1,0 +1,1147 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-08-15T18:56:57.657643+00:00",
+  "window_days": 4,
+  "count": 6,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "novak djokovic",
+      "approx_traffic": 2000,
+      "started_at": "2026-08-15T18:10:00+00:00",
+      "related_queries": [
+        "novak djokovic"
+      ],
+      "news": [
+        {
+          "title": "Saturday's play suspended in Cincinnati due to rain, Djokovic delayed",
+          "url": "https://www.atptour.com/en/news/cincinnati-2026-rain-delay-saturday",
+          "source": "ATP Tour",
+          "published_at": "2026-08-15T16:39:14+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIEq4r9E9q14tyJf7aOtN-weNM1r_GYVODOu68TA161CjKQaGrj4jMPkKKgTc"
+        },
+        {
+          "title": "Cincinnati Open weather radar: Play suspended due to rain in Mason, Ohio | Hindustan Times",
+          "url": "https://www.hindustantimes.com/sports/us-sports/cincinnati-open-weather-radar-play-suspended-due-to-rain-in-mason-ohio-101786812293769.html",
+          "source": "Hindustan Times",
+          "published_at": "2026-08-15T16:53:53+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuXqoYWXcv6Or-e5Kq3Q-9FuCbQ5hPKBbTjgDSehxbO8RYcRoEQ99-abwy8-E"
+        },
+        {
+          "title": "Seven Cincinnati Open matches suspended at same time as players dragged off court",
+          "url": "https://www.express.co.uk/sport/tennis/2239499/seven-cincinnati-open-matches-suspended",
+          "source": "Daily Express",
+          "published_at": "2026-08-15T16:20:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO871e40DkO-wmpBZF4kFWQaHhunjIuP2hAAMF-NIHwzmRLuN4IRfpNvkL1ow"
+        },
+        {
+          "title": "Cincinnati Open gets under way with high hopes for record attendance after drenching rain: PHOTOS",
+          "url": "https://www.bizjournals.com/cincinnati/news/2026/08/14/tennis-open-attendance-rain-weather-injuries.html",
+          "source": "The Business Journals",
+          "published_at": "2026-08-14T18:42:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlkQEeJIsv1Ohn1wBIt6mWpD1viS1iNosNci_aodZXv5GEq03aY9F_g0dqWpY"
+        },
+        {
+          "title": "Want to stream the Cincinnati Open? Here are the apps and channels you'll need",
+          "url": "https://www.businessinsider.com/guides/streaming/where-to-watch-cincinnati-open-tennis-2026",
+          "source": "Business Insider",
+          "published_at": "2026-08-15T12:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtoArue824uMvpm6xQeboqgRF2CiwODsWH6PmZAo7ZYEc7_aXaYCw50rDoZA"
+        },
+        {
+          "title": "Follow live | ATP, WTA 2nd round results at the 2026 Cincinnati Open",
+          "url": "https://www.cincinnati.com/story/sports/tennis/2026/08/15/live-2nd-round-results-2026-cincinnati-open/91313311007/",
+          "source": "Cincinnati Enquirer",
+          "published_at": "2026-08-15T17:58:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_Occ6rtuz-LX2vGKFYPNKZtc2wxlAUuS3xeBHDIfvdjIWvPO6a4VNHcqLekc"
+        },
+        {
+          "title": "Cincinnati Open Draws and Order of Play for Saturday, August 15, 2026",
+          "url": "https://10sballs.com/2026/08/14/cincinnati-open-draws-and-order-of-play-for-saturday-august-15-2026/",
+          "source": "10sBalls.com",
+          "published_at": "2026-08-15T01:19:37+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzcqRjCBxlboi-wPkVP_6dYf9Bywn6PxThtLYqdnAcQI_SfER8tV2fM-Drf-o"
+        },
+        {
+          "title": "Watch Cincinnati Open (First Round)",
+          "url": "https://www.disneyplus.com/en-bo/browse/entity-d359a828-55e3-40ab-86a0-099286da277d",
+          "source": "Disney Plus",
+          "published_at": "2026-08-14T05:43:32+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9LoWCcVteFMCDuqN0tGf6po6OZdoEe_XPmnQ8VqEyH83O_VzemuShNATovtQ"
+        },
+        {
+          "title": "Follow live | Day 5 of Cincinnati Open in a weather delay in Mason",
+          "url": "https://sports.yahoo.com/articles/live-atp-wta-2nd-round-135454820.html",
+          "source": "Yahoo Sports",
+          "published_at": "2026-08-15T13:54:54+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS78SBAERmpfeavovU3N_CM4ChvBfNsIheDHImkICLbqiT2Q_NkKDm2WiwHKlI"
+        },
+        {
+          "title": "Tennis - Cincinnati Open 2026: Order of play, all live results and scores from ATP and WTA 1000 event - Full list",
+          "url": "https://www.olympics.com/en/news/tennis-cincinnati-open-2026-atp-wta-order-of-play-live-results-scores",
+          "source": "Olympics",
+          "published_at": "2026-08-14T18:36:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVY5fEd-NzpnrhySO7N7DsXeyD-Qc6SPg-MorfYEogzQU1Di8g2yR85ujaryg"
+        },
+        {
+          "title": "Novak Djokovic admits he 'underestimated' family's sacrifice during iconic career",
+          "url": "https://www.tennisworldusa.org/tennis/news/Novak_Djokovic/168794/novak-djokovic-admits-he-underestimated-family-s-sacrifice-during-iconic-career/",
+          "source": "Tennis World USA",
+          "published_at": "2026-08-15T15:33:18+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT35BxYedtowR-ycFqaMUD9dNpCwQW89Cdii20lQe7MHRuuVld_r6ngZPeUqbU"
+        },
+        {
+          "title": "Resilience, Family & the Real Me",
+          "url": "https://www.pressreader.com/usa/people-usa/20260824/281895895069176",
+          "source": "PressReader",
+          "published_at": "2026-08-14T08:33:59+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOotS75XL_YLOmfQWHcWbcKH9hnmjHj-_zhBrVKpyDsy97vy0jMgCyTnoroRQ"
+        },
+        {
+          "title": "“I don’t want to have that kind of one-dimensional role anymore”: Novak Djokovic admits family now plays a bigger role in his career decisions",
+          "url": "https://tennisuptodate.com/atp/i-dont-want-to-have-that-kind-of-one-dimensional-role-anymore-novak-djokovic-admits-family-now-plays-a-bigger-role-in-his-career-decisions",
+          "source": "Tennisuptodate.com",
+          "published_at": "2026-08-15T06:13:54+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTILFnoNHPGwexuyKbNbIzn1tDNDQUCYMA_HqUTFVbEIb2HP6GxqN1OjmhzYQU"
+        },
+        {
+          "title": "“THE GRBOVIĆS MADE MY CHILDHOOD BETTER”: Đoković at film premiere on Lovćen recalls his early beginnings and sends an emotional message! (PHOTO)",
+          "url": "https://serbiantimes.info/en/the-grbovics-made-my-childhood-better-dokovic-at-film-premiere-on-lovcen-recalls-his-early-beginnings-and-sends-an-emotional-message-photo/",
+          "source": "Serbiantimes.info",
+          "published_at": "2026-08-13T12:49:07+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGOyn_LENxcjmnTCB8Z-wcOJ92ahKGaMaiw_BCKCuagj5eX3-mCN6HH3fV3ts"
+        },
+        {
+          "title": "Novak Djokovic has made a big change to his preparation ahead of the US Open this year, ‘I like that’",
+          "url": "https://tennishead.net/novak-djokovic-has-made-a-big-change-to-his-preparation-ahead-of-the-us-open-this-year-i-like-that/",
+          "source": "Tennishead",
+          "published_at": "2026-08-15T07:00:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6h7LdP_zqKEpyU5bZm4TPgtyACr_uG_l5Y0FxvADdWQDaZRKtNDX8-92OGyQ"
+        },
+        {
+          "title": "‘It’s Not Like That Anymore’ – Novak Djokovic Gets Honest About His Family’s Sacrifices As His Priorities Shift",
+          "url": "https://sports.yahoo.com/articles/not-anymore-novak-djokovic-gets-033634860.html",
+          "source": "Yahoo Sports",
+          "published_at": "2026-08-15T03:36:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ242bTQOs9ZLiJ3AMZiodlLqLs9kAb-dVokPCt-jCisj2H7wQp368XAszcRSA"
+        },
+        {
+          "title": "Why I hope Novak Djokovic gets the applause he deserves as new documentary arrives",
+          "url": "https://www.radiotimes.com/tv/documentaries/novak-djokovic-jason-hehir-prime-video-comment/",
+          "source": "Radio Times",
+          "published_at": "2026-08-10T16:16:15+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTN-WEeM20e_TKV5RDY5nuZSZ0_gauf3ARp_ESTYCIaD8KH_tTgnEjIGf1bRzw"
+        },
+        {
+          "title": "Novak Djokovic Admits Tennis No Longer Comes Before Family",
+          "url": "https://blog.hollywoodbets.net/tennis/novak-djokovic-admits-tennis-no-longer-comes-before-family/",
+          "source": "Hollywoodbets Blog",
+          "published_at": "2026-08-15T15:12:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9IbvAVMAsRIUcuHiXcY3ftaGoTqrdUdQUX7DWsYSZS5wAMTP4C-6Akxww_Uk"
+        },
+        {
+          "title": "Novak Djokovic shares special family moments before Wolf in Winter premiere",
+          "url": "https://www.tennisworldusa.org/tennis/news/Novak_Djokovic/168738/novak-djokovic-shares-special-family-moments-before-wolf-in-winter-premiere/",
+          "source": "Tennis World USA",
+          "published_at": "2026-08-13T09:30:54+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbleC3vQSE5LRIuO8Cj-Lb8qyBi2uUcIf6EkCoQGkZukOfheH_T5jdyrU2tII"
+        },
+        {
+          "title": "Novak Djokovic admits tennis no longer comes before family",
+          "url": "https://www.sabcsport.com/main-domain/news/novak-djokovic-admits-tennis-no-longer-comes-before-family",
+          "source": "SABC Sport",
+          "published_at": "2026-08-15T10:14:04+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC9WQltI2xe0H8JrCKp93i4KWAXqjw0dQhK7ptB3-EnDc3o9Gn-a5AcBU42aE"
+        },
+        {
+          "title": "Kim Clijsters pushes back on Novak Djokovic's tennis format change proposal",
+          "url": "https://www.tennisworldusa.org/tennis/news/Novak_Djokovic/168644/kim-clijsters-pushes-back-on-novak-djokovic-s-tennis-format-change-proposal/",
+          "source": "Tennis World USA",
+          "published_at": "2026-08-10T10:25:21+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxXVsRPYJfZldVIdKlr_wa9NuEUCvL3xPqT3uEApRedBaXO7S81yrEnqg33NE"
+        },
+        {
+          "title": "Novak Djokovic Wants Radical Tennis Rule Change Ahead of US Open - It's Being Savaged",
+          "url": "https://www.givemesport.com/novak-djokovic-proposes-major-change-to-tennis-ahead-of-us-open/",
+          "source": "GiveMeSport",
+          "published_at": "2026-08-15T15:54:03+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0-gSlvBgHdeEH6qMnRxj2eyxoCmA68we301Kajm7YDkQLLOz_AnPSS5LrFqQ"
+        },
+        {
+          "title": "Julien Benneteau Slams Novak Djokovic's Short-Match Plan: 'Fifteen-Minute Sets, Is That Really What We Want?'",
+          "url": "https://en.tennistemple.com/actu/julien-benneteau-slams-novak-djokovics-short-match/rqH4",
+          "source": "TennisTemple",
+          "published_at": "2026-08-10T18:03:16+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5OB_N50AX9_kAIHGBsdD4UIjI0zRykyuXW7qJ1Zj-vHbG9KU0_9eH8sEDaBY"
+        },
+        {
+          "title": "Shelton supports Djokovic's revolution in tennis: \"I would like to play in that format\"",
+          "url": "https://www.puntodebreak.com/en/2026/08/06/shelton-supports-djokovics-revolution-in-tennis-i-would-like-to-play-in-that-format",
+          "source": "Puntodebreak",
+          "published_at": "2026-08-06T07:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOl9eCEE4l5p-L2I8U2hiYc-IxsLOnd6v5n3uO04bu-E3K5RooKQ-0vIaehqY"
+        },
+        {
+          "title": "Novak Djokovic's recent ideas labelled 'nonsense' but former world No 1",
+          "url": "https://www.tennis365.com/tennis-news/novak-djokovic-fierce-backlash-plans-change-tennis",
+          "source": "Tennis365",
+          "published_at": "2026-08-15T08:10:31+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQls4ZnHs1fy1X475xHCpQd4EGXQmy2lfs5dQQBmAFirBYTiwNyqbVpYCxNjI4"
+        },
+        {
+          "title": "Novak Djokovic criticised for his proposed rule change for tennis, ‘it’s absurd, it’s nonsense’",
+          "url": "https://tennishead.net/novak-djokovic-criticised-for-his-proposed-rule-change-for-tennis-its-absurd-its-nonsense/",
+          "source": "Tennishead",
+          "published_at": "2026-08-15T15:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsSN1qkavX4N7UyK7QNuxkkJpWXEsEgJ-U6xKePTbOff2PxIvV28LYWAZyRxk"
+        },
+        {
+          "title": "Novak Djokovic tennis rule change proposal called out by Grand Slam winners",
+          "url": "https://www.express.co.uk/sport/tennis/2238391/Novak-Djokovic-Tennis-Rule-Change-Wimbledon",
+          "source": "Daily Express",
+          "published_at": "2026-08-12T09:17:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDS-EfsDQLxi8ArkGpbJfAHZcYlDKNDnArZGGPTKjOQNewsrg1ePQKxcvuHE"
+        },
+        {
+          "title": "Novak Djokovic's 'absurd' proposed rule change slammed by tennis icon before Cincinnati Open",
+          "url": "https://www.sportbible.com/tennis/novak-djokovic-cincinnati-open-rule-change-proposal-080061-20260815",
+          "source": "SPORTbible",
+          "published_at": "2026-08-15T11:50:12+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgFNxEHgOEFIlbUBrb1llqCTe6HML1K4TKcNPZ6mvkJMlzEAfHFmLIq4QiFJI"
+        },
+        {
+          "title": "Yevgeny Kafelnikov tears into Novak Djokovic's proposal: 'It's absurd'",
+          "url": "https://www.tennisworldusa.org/tennis/news/Novak_Djokovic/168781/yevgeny-kafelnikov-tears-into-novak-djokovic-s-proposal-it-s-absurd-/",
+          "source": "Tennis World USA",
+          "published_at": "2026-08-14T20:48:03+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScUobqXJMuLSqXXXP60fwqTDrxuI3Zdv7C-N40TwcaX4syaIOsCcFU4ukcGaY"
+        },
+        {
+          "title": "Julien Benneteau rejects Novak Djokovic's tennis revolution - That makes no sense!",
+          "url": "https://www.tennisworldusa.org/tennis/news/Novak_Djokovic/168668/julien-benneteau-rejects-novak-djokovic-s-tennis-revolution-that-makes-no-sense/",
+          "source": "Tennis World USA",
+          "published_at": "2026-08-11T00:10:28+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVGawl1aaXe7bGWLN0o0eOVUIa66Ltz8MlkJMpcSJnkV8vrQNBYwp4LcEJo4Q"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "emraan hashmi",
+      "approx_traffic": 1000,
+      "started_at": "2026-08-15T18:10:00+00:00",
+      "related_queries": [
+        "emraan hashmi",
+        "puran gabbi"
+      ],
+      "news": [
+        {
+          "title": "‘Awarapan 2’ movie review: Emraan Hashmi’s faded sequel doesn’t rise from the riches of its past",
+          "url": "https://www.thehindu.com/entertainment/movies/awarapan-2-movie-review-emraan-hashmis-faded-sequel-doesnt-rise-from-the-riches-of-its-past/article71344732.ece",
+          "source": "The Hindu",
+          "published_at": "2026-08-14T09:15:45+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIML5H8gqL7Meb2Mqj2tSmfR0FMwO2gMQvTpfkTolgzVQfkCz5qv55V02Il38"
+        },
+        {
+          "title": "Emraan Hashmi’s ‘Awarapan 2’ miles ahead of Sunny Deol’s ‘Batwara 1947’ on Day 1",
+          "url": "https://www.telegraphindia.com/entertainment/emraan-hashmis-awarapan-2-miles-ahead-of-sunny-deols-batwara-1947-on-day-1/cid/2175070",
+          "source": "Telegraph India",
+          "published_at": "2026-08-15T03:52:06+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgqJtGp1N1Wnd8A_UPLTnoLuDSEcnhQbO4XA5bboOSK3R-03KcSKuDK09gvsw"
+        },
+        {
+          "title": "Awarapan 2 Review: An Out-An-Out Emraan Hashmi Show Driven By Nostalgia, But That's All",
+          "url": "https://www.ndtv.com/entertainment/awarapan-2-review-an-out-an-out-emraan-hashmi-show-driven-by-nostalgia-but-thats-all-2-5-stars-11909225",
+          "source": "NDTV",
+          "published_at": "2026-08-14T09:41:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzZDtj4NLzwaxTGsx38viJLOt5fBYXhzUmSc92ZIk4ADNNftFPQJlGyKDi-KI"
+        },
+        {
+          "title": "'Awarapan 2' OTT release: When and where to stream Emraan Hashmi and Disha Patani starrer sequel online a",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/awarapan-2-ott-release-when-and-where-to-stream-emraan-hashmi-and-disha-patani-starrer-sequel-online-after-its-theatrical-release/articleshow/133260026.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-15T09:59:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd3YggaDVtChLsFJB0uA9l6EyoCkAW1vLu5BH5GRqN5tOTa0Bifo_9G5VAUTY"
+        },
+        {
+          "title": "Awarapan 2 Box Office Collection Day 1 Update: Emraan Hashmi teases Awarapan 3 as film nears Rs 50 cr",
+          "url": "https://indianexpress.com/article/entertainment/bollywood/awarapan-2-box-office-collection-day-1-live-updates-emraan-hashmi-film-rs-27-crore-worldwide-10833781/",
+          "source": "The Indian Express",
+          "published_at": "2026-08-15T13:06:24+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRp82qdkCnEBjIruYh4S4px0zibcYv2Gm-EJFnY50Vwxg4_L733QqIb3J6iHaM"
+        },
+        {
+          "title": "Disha Patani Starrer Awarapan 2 Releases in Theatres Today",
+          "url": "https://www.femina.in/beauty-pageants/miss-india/disha-patani-starrer-awarapan-2-releases-in-theatres-today/articleshow/155631484.cms",
+          "source": "Femina India",
+          "published_at": "2026-08-14T18:58:28+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKIzMZ5LJBxw4WGIKNyGs1eCFFtitDEgeafSQ7wL0VSJbAI17PkDQx-3hZO9k"
+        },
+        {
+          "title": "Emraan Hashmi's Awarapan 2 earns Rs 23.4 crore at box office",
+          "url": "https://www.rediff.com/news/commentary/2026/aug/15/emraan-hashmis-awarapan-2-earns-rs-23.4-crore-at-box-office/7006611ace1fc81397b2155db8a5cb6f",
+          "source": "Rediff",
+          "published_at": "2026-08-15T08:12:34+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdfDlXQ3bWN4_h9c-pnilivz7p3c8xpsadxfaW_BNnrIbKmD6ZoWyS3TInHcg"
+        },
+        {
+          "title": "Box Office Early Trends: Awarapan 2, Batwara 1947 and Spider Man biz soars on Independence Day in India",
+          "url": "https://www.pinkvilla.com/entertainment/box-office/box-office-early-trends-awarapan-2-batwara-1947-and-spider-man-biz-soars-on-independence-day-in-india-1404917",
+          "source": "Pinkvilla",
+          "published_at": "2026-08-15T11:30:45+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThHLwMQMfIeFHD57dHctYMMlkRV0qbPQftN6nT3UhY2tIza2DpOXe7q5u2biE"
+        },
+        {
+          "title": "'Awarapan 2' box office collection Day 2 [LIVE]: Emraan Hashmi film races past Rs 30 crore on first Satur",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-2-live-emraan-hashmi-and-disha-patani-film-eyes-rs-30-crore-milestone-amid-batwara-1947-clash-after-strong-independence-day-opening-and-global-haul-of-rs-28-crore/articleshow/133258857.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-15T08:15:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2XPEOl_pp5oJi_xmfLEQbveYqUwSK15lQKKDtsTFsP6vcI1QDi92wMajA8Qc"
+        },
+        {
+          "title": "Awarapan 2 Box Office Collection Day 1: Emraan Hashmi's Biggest Opener Earns Rs 28 Crore Worldwide",
+          "url": "https://www.ndtv.com/entertainment/awarapan-2-box-office-collection-day-1-emraan-hashmis-biggest-opener-earns-rs-28-crore-worldwide-11913064",
+          "source": "NDTV",
+          "published_at": "2026-08-15T04:27:04+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMnjzOElNT_F5vCWXnfMBOdZMIRlHo8WWoOyByVNztxaq_kTe-NQWtrq5LnGY"
+        },
+        {
+          "title": "Emraan Hashmi teases ‘Awarapan 3’ during ‘Awarapan 2’ theatre visit with Disha Patani as fans cheer: ‘Hop",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-teases-awarapan-3-during-awarapan-2-theatre-visit-with-disha-patani-as-fans-cheer-hopefully-awarapan-3-very-soon/articleshow/133258872.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-15T08:16:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTClOv_Ck_A3SGc21TdMaBSRa0V7mjDa2pcXFQReGUQmBkKFY-HHfuJ11G1GOk"
+        },
+        {
+          "title": "Awarapan franchise",
+          "url": "https://www.india.com/topic/awarapan-franchise/",
+          "source": "India.com",
+          "published_at": "2026-08-15T08:57:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMStA2TST-iuR6247cBWjthFJ3yM07lgArtFzLsZteYcJfjC0qX0IRQs10iuM"
+        },
+        {
+          "title": "Emraan Hashmi teases 'Awarapan 3' during 'Awarapan 2' promotion",
+          "url": "https://newsable.asianetnews.com/entertainment/emraan-hashmi-teases-awarapan-3-during-awarapan-2-promotion-articleshow-gkmcf3r",
+          "source": "Asianet Newsable",
+          "published_at": "2026-08-15T09:30:27+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX0OD9rhXrJwIIGbHbTVgEFyWyi_Ty4fRfGW7I4sVQ2AtCJ4uSjU3IvBqQtUk"
+        },
+        {
+          "title": "Hashmi hints 'Awarapan 3' amid strong 'Awarapan 2' bookings",
+          "url": "https://www.newsbytesapp.com/news/entertainment/hashmi-hints-awarapan-3-amid-strong-awarapan-2-bookings/tldr",
+          "source": "NewsBytes",
+          "published_at": "2026-08-15T07:53:50+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkdENaFmTBQyGRta3Jdt3Gi9PrKvzBbiLwEkqcCK3anvr_o_AAnttuBLG2-go"
+        },
+        {
+          "title": "Is Awarapan 3 Coming Soon? Emraan Hashmi Teases Fans After Sequel Opens Big",
+          "url": "https://openthemagazine.com/entertainment/is-awarapan-3-coming-soon-emraan-hashmi-teases-fans-after-sequel-opens-big",
+          "source": "Open Magazine",
+          "published_at": "2026-08-15T13:20:46+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHa-9D_PPMOfg7iQ-QAU6PFz7EaoLm9HQBx0VO78g_1vrpyqbEPBvDCl9P36c"
+        },
+        {
+          "title": "‘Awarapan 3’ On The Way? Emraan Hashmi Drops Hint During Theatre Visit With Disha Patani",
+          "url": "https://hindustanherald.in/awarapan-3-emraan-hashmi-hint-mumbai-screening/",
+          "source": "Hindustan Herald",
+          "published_at": "2026-08-15T10:08:12+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwJCpGeWs9TM0ZsbyI2Fgx8nkTeBzC0HNotpTaK9nHQLDI7wS8RAT1pCBZQR4"
+        },
+        {
+          "title": "Did Emraan Hashmi just hint at a third installment amid Awarapan 2's success?",
+          "url": "https://www.mid-day.com/entertainment/bollywood-news/article/awarapan-2-emraan-hashmi-hints-at-a-third-film-amid-sequel-success-23644977",
+          "source": "Mid-Day",
+          "published_at": "2026-08-15T14:28:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4-79vE9IJkt4G2Clen691qXxeefseo91pwMKdc-2qPrcO-JaqBHqFKuCjAtw"
+        },
+        {
+          "title": "Viral video: As Awarapan 2 crosses 50 crore in 2 days, Emraan Hashmi drops MAJOR HINT of Awarapan 3: 'We hope you...'",
+          "url": "https://www.dnaindia.com/bollywood/report-as-awarapan-2-crosses-50-crore-in-2-days-emraan-hashmi-drops-major-hint-of-awarapan-3-3218568",
+          "source": "DNA India",
+          "published_at": "2026-08-15T14:32:44+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKkxOjqLuMezXYepoBzG9MUE6bKTs8UQ2GTtjso_JdkfJraCWlXTbuiid_JhY"
+        },
+        {
+          "title": "Hopefully soon: Emraan Hashmi drops big hint on Awarapan 3",
+          "url": "https://www.indiatoday.in/amp/movies/bollywood/story/awarapan-3-emraan-hashmi-hints-sequel-soon-as-awarapan-2-opens-strongly-2971860-2026-08-15",
+          "source": "India Today",
+          "published_at": "2026-08-15T07:36:01+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlH0ZJOCwyrvKnVdPtNdnoPgPLpNex0yb0HYt9AipW2HQDFZ2mYZwQEodm1Iw"
+        },
+        {
+          "title": "Emraan Hashmi hints at Awarapan 3 during Mumbai screening: ‘Very soon’ | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/emraan-hashmi-hints-at-awarapan-3-during-mumbai-screening-disha-101786789698217.html",
+          "source": "Hindustan Times",
+          "published_at": "2026-08-15T12:25:52+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyQhVWpIjOBKCA9d8qtCt-txQhM3kMX53av7Ii9y2eNsv6ItNRvWQ8UhRP6kw"
+        },
+        {
+          "title": "Awarapan 2 actor Emraan Hashmi lives in Rs 16 crore Bandra home with minimalist interiors, earthy tones, w",
+          "url": "https://m.economictimes.com/news/new-updates/awarapan-2-actor-emraan-hashmi-lives-in-rs-16-crore-bandra-home-with-minimalist-interiors-earthy-tones-wooden-furniture-a-spacious-library-workout-area-and-a-balcony-offering-sweeping-city-views/articleshow/133258475.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-08-15T07:51:42+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM5gcn7PPC0LlcNb8LucJUoq3IvG34Ah_pVPGPrW_Mhf-Cww0Wk5khlvVAVf8"
+        },
+        {
+          "title": "Emraan Hashmi net worth: Rs 105 crore fee, luxury homes and cars - All about the ‘Awarapan 2’ actor's emp",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/emraan-hashmi-net-worth-inside-the-awarapan-2-actors-rs-105-crore-empire/articleshow/133141563.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-11T03:56:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ7upk_nBi1KI3VQDO5FcocDs29Jlf6jqyI1MWJiAm_2cTySkrhheZ5hO1BiQ"
+        },
+        {
+          "title": "Inside Awarapan 2 actor Emraan Hashmi's ₹16 crore Mumbai home | Tap to know more | Inshorts",
+          "url": "https://inshorts.com/en/news/inside-awarapan-2-actor-emraan-hashmi-s--16-crore-mumbai-home-1786015006274",
+          "source": "Inshorts",
+          "published_at": "2026-08-06T12:56:22+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROJagYahqpBs9ZPNFlAXHqMsobFX270St22wLHMUHskgRHCRcbAz7xi4clck0"
+        },
+        {
+          "title": "One home has a massive library, the other faces the sea: Inside Awarapan 2 actor Emraan Hashmi's Rs 16 crore Mumbai house, Goa penthouse, Lamborghini Huracan and Rs 105 crore net worth",
+          "url": "https://www.etnownews.com/et-now-luxe/one-home-has-a-massive-library-the-other-faces-the-sea-inside-awarapan-2-actor-emraan-hashmis-rs-16-crore-mumbai-house-goa-penthouse-lamborghini-huracan-and-rs-105-crore-net-worth-article-155330782",
+          "source": "ET Now",
+          "published_at": "2026-08-07T07:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZgGABdwm_32SiNDumWdcqPYs2JZpbCJGITtv3t4rw8mncBjVEQjCN2qI6Qiw"
+        },
+        {
+          "title": "Emraan Hashmi Net Worth: Rs 105 Crore Wealth, Goa Penthouse, Mumbai Home, Luxury Cars",
+          "url": "https://newsable.asianetnews.com/entertainment/emraan-hashmi-net-worth-rs-105-crore-wealth-goa-penthouse-mumbai-home-luxury-cars-articleshow-rtni4hb",
+          "source": "Asianet Newsable",
+          "published_at": "2026-08-11T14:06:57+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8zm13lSXX4p59H68dRznK4f3CwL2LVccfQ13U7YsoZWds0yYWGtZAQ5a49m8"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "al-nassr fc",
+      "approx_traffic": 200,
+      "started_at": "2026-08-15T18:20:00+00:00",
+      "related_queries": [
+        "al-nassr fc"
+      ],
+      "news": [
+        {
+          "title": "Departure is not the reason: Nawaf Al-Aqidi at risk of missing Al-Nassr's opener",
+          "url": "https://www.goal.com/en-in/news/departure-is-not-the-reason-nawaf-al-aqidi-at-risk-of-missing-al-nassr-s-opener/blt8f88fa015548a589",
+          "source": "Goal.com",
+          "published_at": "2026-08-14T15:31:39+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe6OdT0h8C3Y7kCT8zjPzjJBmzPMmrZiFle7FfTB9WNuzbq0K0KGXkrW3asNc"
+        },
+        {
+          "title": "Al-Nassr vs. Al-Fateh Lineups & Confirmed Team News for Saudi Pro League Opener",
+          "url": "https://athlonsports.com/soccer/al-nassr-vs-al-fateh-lineups-confirmed-team-news-for-saudi-pro-league-opener",
+          "source": "Athlon Sports",
+          "published_at": "2026-08-15T17:00:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqf8fpLlD5PTdzkD0rkS4tkirj6m2O3QexxvMQf-1jE30xOQTdYVWd11bpsak"
+        },
+        {
+          "title": "Al-Nassr v Al-Fateh: Expected line-ups, stats, preview and where to watch as Ronaldo starts countdown to 1,000 goals",
+          "url": "https://www.101greatgoals.com/match-previews/al-nassr-v-a-fateh-expected-line-ups-stats-previews-stream-where-to-watch-as-ronaldo-starts-countdown-to-1000-goals/",
+          "source": "101 Great Goals",
+          "published_at": "2026-08-15T16:15:41+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX4efosAFA7dCTQ7oIYlKujj7dxZVfv3aDovn5pUfCVa936RopwjzhwzbSF1o"
+        },
+        {
+          "title": "Al Nassr FC vs Al Fateh FC match lineup | Saudi Pro League · 15 Aug 2026",
+          "url": "https://www.ysscores.com/en/lineup/5969054/Al-Nassr-FC-vs-Al-Fateh-SC",
+          "source": "YSscores",
+          "published_at": "2026-08-15T17:05:02+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnadi4pFVi2ouGoRtTy2_2SzRylFqpXz3wV1__8qdKe0yZW8DjITDxYbnKE30"
+        },
+        {
+          "title": "Al Nassr vs Al Fateh Live Stream: How to Watch Saudi League",
+          "url": "https://www.fubo.tv/news/saudi-league-soccer/al-nassr-vs-al-fateh-live-stream-how-to-watch-saudi-league/",
+          "source": "Fubo",
+          "published_at": "2026-08-15T14:46:33+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxJ2oT5C3E4Fs4ycTPhSHjvgGbVIDUWzRLDt03KJIFkVIn_nh-Ye8Q_s_t_Pk"
+        },
+        {
+          "title": "Al-Nassr vs Al Fateh Results Today: Saudi Pro League Live Score, Updates, Stats",
+          "url": "https://heavy.com/sports/soccer/al-nassr-vs-al-fateh-results-today-saudi-pro-league-live-score-updates-stats/",
+          "source": "Heavy.com",
+          "published_at": "2026-08-15T17:06:42+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr3e9Dxs1Vb5je0R6viAzpujEh9rimH2gjvvt0o3QHZUFmg_RkH2_TNFtmbB8"
+        },
+        {
+          "title": "Al Nassr vs Al Fateh: How to watch, Live Stream, TV Channel and Time for Saudi Pro League game on August 15...",
+          "url": "https://bolavip.com/en/soccer/al-nassr-vs-al-fateh-how-to-watch-live-stream-tv-channel-and-time-for-saudi-pro-league-game-on-august-15-2026",
+          "source": "Bolavip US",
+          "published_at": "2026-08-15T11:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AsoWfeYNv0Es2XjLnmQqbagR9A6juXzR8INd-CXDdKi31TvrVXGXht2P-60"
+        },
+        {
+          "title": "Al-Nassr 0-0 Al Fateh LIVE Score Updates: Everything set for kickoff",
+          "url": "https://www.vavel.com/en-us/soccer/2026/08/15/1268005-al-nassr-vs-al-fateh-live-score-saudi-pro-league.html",
+          "source": "VAVEL.com",
+          "published_at": "2026-08-15T15:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb7-CKpmSdbXeePcBg-y7rkWVuuXsQxogb64nHIkyJ1kYbj3RAjjW3nAAeiS0"
+        },
+        {
+          "title": "Al-Nassr Vs Al Fateh, Saudi Pro League 2026-27: Preview, When And Where To Watch?",
+          "url": "https://www.outlookindia.com/sports/football/al-nassr-vs-al-fateh-live-streaming-saudi-pro-league-2026-27-riyadh-preview-when-where-to-watch",
+          "source": "Outlook India",
+          "published_at": "2026-08-14T13:17:03+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SFV_flMFoW86b4h5DXv1TJblkxTx2MdpVZ3SccCNmHlLI2sH1KHLKGXutAc"
+        },
+        {
+          "title": "How & Where to Watch Al Nassr vs. Al Fateh FC? Start Time, Live Streaming and TV Channels",
+          "url": "https://www.yardbarker.com/soccer/articles/how_where_to_watch_al_nassr_vs_al_fateh_fc_start_time_live_streaming_and_tv_channels/s1_17615_44178678",
+          "source": "Yardbarker",
+          "published_at": "2026-08-15T17:10:54+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNN7GhKpRq_3p5r6AHq651xHoKFtcwhY6RzW-UCKKAe6H6JU1rUoBnkNGiMY"
+        },
+        {
+          "title": "By video: Al-Nassr fans surprise their new star with a special welcome",
+          "url": "https://www.goal.com/en-in/news/by-video-al-nassr-fans-surprise-their-new-star-with-a-special-welcome/bltfd7a42b8ca3aebd5",
+          "source": "Goal.com",
+          "published_at": "2026-08-15T18:39:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZU_RohJYhC3JlIBPifi1i6-8Ha-6EIangpfJ1CwVJ3n27Oh3WuiJsGraHbBE"
+        },
+        {
+          "title": "One of them turned down Al-Hilal and Al-Ittihad: financial crisis threatens Al-Nassr with losing its players for free",
+          "url": "https://www.livescore.com/en/news/football/more/one-of-them-turned-down-al-hilal-and-al-ittihad-financial-crisis-threatens-al-nassr-with-losing-its-players-for-free-goalcom/",
+          "source": "LiveScore",
+          "published_at": "2026-08-13T07:36:29+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREO4noLv23vvVV73xQYsLYOitA_99w6jf6zcFHSx6P2Y-ZNZZcIdJnD29PC_M"
+        },
+        {
+          "title": "Cristiano Ronaldo set to welcome first Al-Nassr summer signing as Samu Costa transfer announcement date eme...",
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-set-to-welcome-first-al-nassr-summer-signing-as-samu-costa-transfer-announcement-date-emerges/",
+          "source": "World Soccer Talk",
+          "published_at": "2026-08-08T23:37:47+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSifQS9swZSHCbPWFE2VwF3Szr-AfzYUUPS4z0QwmIkIGszXTV7eRBxVCovtFo"
+        },
+        {
+          "title": "Al Nassr sign Portugal’s Costa from Mallorca",
+          "url": "https://www.reuters.com/sports/soccer/al-nassr-sign-portugals-costa-mallorca-2026-08-09/",
+          "source": "Reuters",
+          "published_at": "2026-08-09T16:47:43+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8_DkP-iu4SwH1Gz2V9SfVLNqDME7-qkDOkSE2W88tUO84EAdLU7Y8-mgVb7w"
+        },
+        {
+          "title": "Al-Nassr address financial crisis; now free to sign new players, report says",
+          "url": "https://www.arabnews.com/node/2653861/saudi-pro-league",
+          "source": "Arab News",
+          "published_at": "2026-08-08T08:21:50+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6MEr1SXRanKNKIL1NiVRQLHaqtIxINtewt2hDCnnLJbHtG5NTQVdP1ZiGlYQ"
+        },
+        {
+          "title": "Transfer: Costa joins Cristiano Ronaldo at Al Nassr",
+          "url": "https://dailypost.ng/2026/08/10/transfer-costa-joins-cristiano-ronaldo-at-al-nassr/",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-08-10T05:27:04+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwWuGyy8cmmk0tP_E4oyTUjnn-1neol6UP9dY0a8FaDfQh56BpHiZ3QKhX4NI"
+        },
+        {
+          "title": "Al-Nassr Hit by Financial Restrictions as Player Registrations Stall",
+          "url": "https://koorabreak.com/en/326398/",
+          "source": "كورة بريك",
+          "published_at": "2026-08-13T07:17:23+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxCtX_AP6abs6uallTx6Y1e-lAvEZ2AWuhS5Y7tU7_gCYFTIf-uFbRQcauccs"
+        },
+        {
+          "title": "Al-Nassr ‘could lose’ players for free amid financial crisis",
+          "url": "https://onefootball.com/en/news/al-nassr-could-lose-players-for-free-amid-financial-crisis-43269771",
+          "source": "OneFootball",
+          "published_at": "2026-08-13T09:05:23+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMg3-AdEkVmCa6kYgBIUjK0DapKvIJJxpQdJdPT-rXQ-_5IS7i7vx9RZwzQBE"
+        },
+        {
+          "title": "Three decisive measures: how did Al-Nassr overcome its financial crisis before the end of the transfer window?",
+          "url": "https://www.goal.com/en-in/news/three-decisive-measures-how-did-al-nassr-overcome-its-financial-crisis-before-the-end-of-the-transfer-window/blt68dfed815eaedea0",
+          "source": "Goal.com",
+          "published_at": "2026-08-07T21:19:08+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV2VYqkaGORDt0BR-RTai6k0jGoEmXxfhVhgsThHs27-bd7CIsQkzOHYmxg3w"
+        },
+        {
+          "title": "Samo Costa Joins Al Nassr for New Season Preparation",
+          "url": "https://www.ysscores.com/en/news/14016346/samo-costa-joins-al-nassr-for-new-season-preparation",
+          "source": "YSscores",
+          "published_at": "2026-08-07T07:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7005dzFM99wztpj688i6eQ3QRAjbNUY-W7LvEhwN-88d1uiGSCy3BgmNdGc4"
+        },
+        {
+          "title": "Cristiano Ronaldo 'ready' to play for Al Nassr as Ange Postecoglou welcomes star back after wedding",
+          "url": "https://www.espn.in/football/story/_/id/49609124/cristiano-ronaldo-ready-play-al-nassr-ange-postecoglou-welcomes-star-back-wedding",
+          "source": "ESPN India",
+          "published_at": "2026-08-14T13:21:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5iEbAhdK-bdsaavY6wjrWB2fzWx0mecfUJi5BSExXIIkGUqZjBizclJa9Xc4"
+        },
+        {
+          "title": "‘Back’: Cristiano Ronaldo returns to Al-Nassr training days after marrying Georgina Rodriguez",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/back-cristiano-ronaldo-returns-to-al-nassr-training-days-after-marrying-georgina-rodriguez/articleshow/133229596.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-14T05:12:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4MMtZU4oXWyzfUJnvpYnJNcNYLIcX1A-szWg0nox4RB-Sto3qYYQ7AdgvPwg"
+        },
+        {
+          "title": "A final decision: Ronaldo's status for the Al-Nassr and Al-Fateh match revealed",
+          "url": "https://www.goal.com/en/news/a-final-decision-ronaldo-s-status-for-the-al-nassr-and-al-fateh-match-revealed/blt6bb319264371f29c",
+          "source": "Goal.com",
+          "published_at": "2026-08-14T19:36:54+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgo6qcs52kiD5JaeUCb_BRLHRy8ZCgaISehA0dcHYVtu0uc1WydghNhb85xxQ"
+        },
+        {
+          "title": "Cristiano Ronaldo Debuts New Hairstyle in Photo, Video After Marriage to Georgina Rodríguez",
+          "url": "https://bleacherreport.com/articles/25471055-cristiano-ronaldo-debuts-new-hairstyle-photo-video-after-marriage-georgina-rodriguez",
+          "source": "Bleacher Report",
+          "published_at": "2026-08-14T16:24:54+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThKypSdROZqwisfdrp06Fy9jWtdm3T6GGHbuRtZGMbct_XnipATGe-NGc8BfI"
+        },
+        {
+          "title": "Cristiano Ronaldo rejoins football duties at Al Nassr with an eye-catching golden transformation",
+          "url": "https://www.firstpost.com/sports/football-news/cristiano-ronaldo-rejoins-football-duties-at-al-nassr-with-an-eye-catching-golden-transformation-14038120.html",
+          "source": "Firstpost",
+          "published_at": "2026-08-14T06:13:10+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQefEYwUe7lGaMLW9aRpeSRqSyrOxmGl406lLR1-n-_DC9H2gjZNPkPKlplgFw"
+        },
+        {
+          "title": "Ronaldo Returns To Al Nassr With A Fresh Look And The 1,000-Goal Milestone In Sight",
+          "url": "https://www.sportscapemagazine.com/blog/ronaldo-returns-to-al-nassr-with-a-fresh-look-and-the-1000-goal-milestone-in-sight",
+          "source": "Sportscape Magazine",
+          "published_at": "2026-08-13T19:32:33+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0jnEe3wvhdUTug4nYePKDofs41cV_9Q5Rrc46m9Rw0tMYuVNf_396UDEXoTA"
+        },
+        {
+          "title": "Newly married Cristiano Ronaldo debuts shocking new look",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/newly-married-cristiano-ronaldo-debuts-131408000.html",
+          "source": "Yahoo",
+          "published_at": "2026-08-14T13:14:08+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE19lmbLzgJpEY720UHQVKHjGPMdF8sdbkhmhQ-PuuD04ogXwlEMcJjJAnoTQ"
+        },
+        {
+          "title": "Is Cristiano Ronaldo playing today for Al Nassr vs Al Fateh in 2026-27 Saudi Pro League Matchday 1?",
+          "url": "https://bolavip.com/en/soccer/is-cristiano-ronaldo-playing-today-for-al-nassr-vs-al-fateh-in-2026-27-saudi-pro-league-matchday-1",
+          "source": "Bolavip US",
+          "published_at": "2026-08-15T12:35:43+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnsMbhIGR20iWf-YKZ104KgOsI2dT0-4u88SOApOR0Znk0KcSlNH7iiVUbzAE"
+        },
+        {
+          "title": "A final decision: Ronaldo's status for the Al-Nassr and Al-Fateh match revealed",
+          "url": "https://www.goal.com/en-in/news/a-final-decision-ronaldo-s-status-for-the-al-nassr-and-al-fateh-match-revealed/blt6bb319264371f29c",
+          "source": "Goal.com",
+          "published_at": "2026-08-14T19:31:55+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgo6qcs52kiD5JaeUCb_BRLHRy8ZCgaISehA0dcHYVtu0uc1WydghNhb85xxQ"
+        },
+        {
+          "title": "Cristiano Ronaldo back in training days after wedding",
+          "url": "https://www.rediff.com/sports/report/cristiano-ronaldo-quick-return-to-training-days-after-wedding/20260814.htm",
+          "source": "Rediff",
+          "published_at": "2026-08-14T03:48:22+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDy3h69GjufES_ZF-RUjrpKV2YzCDyC1G9JTmDtaop5ybjpzvnxT9rnJuvPno"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "alnassr",
+      "approx_traffic": 200,
+      "started_at": "2026-08-15T18:30:00+00:00",
+      "related_queries": [
+        "alnassr"
+      ],
+      "news": [
+        {
+          "title": "Cristiano Ronaldo 'ready' to play for Al Nassr as Ange Postecoglou welcomes star back after wedding",
+          "url": "https://www.espn.in/football/story/_/id/49609124/cristiano-ronaldo-ready-play-al-nassr-ange-postecoglou-welcomes-star-back-wedding",
+          "source": "ESPN India",
+          "published_at": "2026-08-14T13:21:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5iEbAhdK-bdsaavY6wjrWB2fzWx0mecfUJi5BSExXIIkGUqZjBizclJa9Xc4"
+        },
+        {
+          "title": "‘Back’: Cristiano Ronaldo returns to Al-Nassr training days after marrying Georgina Rodriguez",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/back-cristiano-ronaldo-returns-to-al-nassr-training-days-after-marrying-georgina-rodriguez/articleshow/133229596.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-14T05:12:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4MMtZU4oXWyzfUJnvpYnJNcNYLIcX1A-szWg0nox4RB-Sto3qYYQ7AdgvPwg"
+        },
+        {
+          "title": "A final decision: Ronaldo's status for the Al-Nassr and Al-Fateh match revealed",
+          "url": "https://www.goal.com/en/news/a-final-decision-ronaldo-s-status-for-the-al-nassr-and-al-fateh-match-revealed/blt6bb319264371f29c",
+          "source": "Goal.com",
+          "published_at": "2026-08-14T19:36:54+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgo6qcs52kiD5JaeUCb_BRLHRy8ZCgaISehA0dcHYVtu0uc1WydghNhb85xxQ"
+        },
+        {
+          "title": "Cristiano Ronaldo Debuts New Hairstyle in Photo, Video After Marriage to Georgina Rodríguez",
+          "url": "https://bleacherreport.com/articles/25471055-cristiano-ronaldo-debuts-new-hairstyle-photo-video-after-marriage-georgina-rodriguez",
+          "source": "Bleacher Report",
+          "published_at": "2026-08-14T16:24:54+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThKypSdROZqwisfdrp06Fy9jWtdm3T6GGHbuRtZGMbct_XnipATGe-NGc8BfI"
+        },
+        {
+          "title": "Cristiano Ronaldo rejoins football duties at Al Nassr with an eye-catching golden transformation",
+          "url": "https://www.firstpost.com/sports/football-news/cristiano-ronaldo-rejoins-football-duties-at-al-nassr-with-an-eye-catching-golden-transformation-14038120.html",
+          "source": "Firstpost",
+          "published_at": "2026-08-14T06:13:10+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQefEYwUe7lGaMLW9aRpeSRqSyrOxmGl406lLR1-n-_DC9H2gjZNPkPKlplgFw"
+        },
+        {
+          "title": "Ronaldo Returns To Al Nassr With A Fresh Look And The 1,000-Goal Milestone In Sight",
+          "url": "https://www.sportscapemagazine.com/blog/ronaldo-returns-to-al-nassr-with-a-fresh-look-and-the-1000-goal-milestone-in-sight",
+          "source": "Sportscape Magazine",
+          "published_at": "2026-08-13T19:32:33+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0jnEe3wvhdUTug4nYePKDofs41cV_9Q5Rrc46m9Rw0tMYuVNf_396UDEXoTA"
+        },
+        {
+          "title": "Newly married Cristiano Ronaldo debuts shocking new look",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/newly-married-cristiano-ronaldo-debuts-131408000.html",
+          "source": "Yahoo",
+          "published_at": "2026-08-14T13:14:08+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE19lmbLzgJpEY720UHQVKHjGPMdF8sdbkhmhQ-PuuD04ogXwlEMcJjJAnoTQ"
+        },
+        {
+          "title": "Is Cristiano Ronaldo playing today for Al Nassr vs Al Fateh in 2026-27 Saudi Pro League Matchday 1?",
+          "url": "https://bolavip.com/en/soccer/is-cristiano-ronaldo-playing-today-for-al-nassr-vs-al-fateh-in-2026-27-saudi-pro-league-matchday-1",
+          "source": "Bolavip US",
+          "published_at": "2026-08-15T12:35:43+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnsMbhIGR20iWf-YKZ104KgOsI2dT0-4u88SOApOR0Znk0KcSlNH7iiVUbzAE"
+        },
+        {
+          "title": "A final decision: Ronaldo's status for the Al-Nassr and Al-Fateh match revealed",
+          "url": "https://www.goal.com/en-in/news/a-final-decision-ronaldo-s-status-for-the-al-nassr-and-al-fateh-match-revealed/blt6bb319264371f29c",
+          "source": "Goal.com",
+          "published_at": "2026-08-14T19:31:55+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgo6qcs52kiD5JaeUCb_BRLHRy8ZCgaISehA0dcHYVtu0uc1WydghNhb85xxQ"
+        },
+        {
+          "title": "Cristiano Ronaldo back in training days after wedding",
+          "url": "https://www.rediff.com/sports/report/cristiano-ronaldo-quick-return-to-training-days-after-wedding/20260814.htm",
+          "source": "Rediff",
+          "published_at": "2026-08-14T03:48:22+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDy3h69GjufES_ZF-RUjrpKV2YzCDyC1G9JTmDtaop5ybjpzvnxT9rnJuvPno"
+        },
+        {
+          "title": "Departure is not the reason: Nawaf Al-Aqidi at risk of missing Al-Nassr's opener",
+          "url": "https://www.goal.com/en-in/news/departure-is-not-the-reason-nawaf-al-aqidi-at-risk-of-missing-al-nassr-s-opener/blt8f88fa015548a589",
+          "source": "Goal.com",
+          "published_at": "2026-08-14T15:31:39+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe6OdT0h8C3Y7kCT8zjPzjJBmzPMmrZiFle7FfTB9WNuzbq0K0KGXkrW3asNc"
+        },
+        {
+          "title": "Al-Nassr vs. Al-Fateh Lineups & Confirmed Team News for Saudi Pro League Opener",
+          "url": "https://athlonsports.com/soccer/al-nassr-vs-al-fateh-lineups-confirmed-team-news-for-saudi-pro-league-opener",
+          "source": "Athlon Sports",
+          "published_at": "2026-08-15T17:00:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqf8fpLlD5PTdzkD0rkS4tkirj6m2O3QexxvMQf-1jE30xOQTdYVWd11bpsak"
+        },
+        {
+          "title": "Al-Nassr v Al-Fateh: Expected line-ups, stats, preview and where to watch as Ronaldo starts countdown to 1,000 goals",
+          "url": "https://www.101greatgoals.com/match-previews/al-nassr-v-a-fateh-expected-line-ups-stats-previews-stream-where-to-watch-as-ronaldo-starts-countdown-to-1000-goals/",
+          "source": "101 Great Goals",
+          "published_at": "2026-08-15T16:15:41+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX4efosAFA7dCTQ7oIYlKujj7dxZVfv3aDovn5pUfCVa936RopwjzhwzbSF1o"
+        },
+        {
+          "title": "Al Nassr FC vs Al Fateh FC match lineup | Saudi Pro League · 15 Aug 2026",
+          "url": "https://www.ysscores.com/en/lineup/5969054/Al-Nassr-FC-vs-Al-Fateh-SC",
+          "source": "YSscores",
+          "published_at": "2026-08-15T17:05:02+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnadi4pFVi2ouGoRtTy2_2SzRylFqpXz3wV1__8qdKe0yZW8DjITDxYbnKE30"
+        },
+        {
+          "title": "Al Nassr vs Al Fateh Live Stream: How to Watch Saudi League",
+          "url": "https://www.fubo.tv/news/saudi-league-soccer/al-nassr-vs-al-fateh-live-stream-how-to-watch-saudi-league/",
+          "source": "Fubo",
+          "published_at": "2026-08-15T14:46:33+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxJ2oT5C3E4Fs4ycTPhSHjvgGbVIDUWzRLDt03KJIFkVIn_nh-Ye8Q_s_t_Pk"
+        },
+        {
+          "title": "Al-Nassr vs Al Fateh Results Today: Saudi Pro League Live Score, Updates, Stats",
+          "url": "https://heavy.com/sports/soccer/al-nassr-vs-al-fateh-results-today-saudi-pro-league-live-score-updates-stats/",
+          "source": "Heavy.com",
+          "published_at": "2026-08-15T17:06:42+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQr3e9Dxs1Vb5je0R6viAzpujEh9rimH2gjvvt0o3QHZUFmg_RkH2_TNFtmbB8"
+        },
+        {
+          "title": "Al Nassr vs Al Fateh: How to watch, Live Stream, TV Channel and Time for Saudi Pro League game on August 15...",
+          "url": "https://bolavip.com/en/soccer/al-nassr-vs-al-fateh-how-to-watch-live-stream-tv-channel-and-time-for-saudi-pro-league-game-on-august-15-2026",
+          "source": "Bolavip US",
+          "published_at": "2026-08-15T11:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_AsoWfeYNv0Es2XjLnmQqbagR9A6juXzR8INd-CXDdKi31TvrVXGXht2P-60"
+        },
+        {
+          "title": "Al-Nassr 0-0 Al Fateh LIVE Score Updates: Everything set for kickoff",
+          "url": "https://www.vavel.com/en-us/soccer/2026/08/15/1268005-al-nassr-vs-al-fateh-live-score-saudi-pro-league.html",
+          "source": "VAVEL.com",
+          "published_at": "2026-08-15T15:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb7-CKpmSdbXeePcBg-y7rkWVuuXsQxogb64nHIkyJ1kYbj3RAjjW3nAAeiS0"
+        },
+        {
+          "title": "Al-Nassr Vs Al Fateh, Saudi Pro League 2026-27: Preview, When And Where To Watch?",
+          "url": "https://www.outlookindia.com/sports/football/al-nassr-vs-al-fateh-live-streaming-saudi-pro-league-2026-27-riyadh-preview-when-where-to-watch",
+          "source": "Outlook India",
+          "published_at": "2026-08-14T13:17:03+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_SFV_flMFoW86b4h5DXv1TJblkxTx2MdpVZ3SccCNmHlLI2sH1KHLKGXutAc"
+        },
+        {
+          "title": "How & Where to Watch Al Nassr vs. Al Fateh FC? Start Time, Live Streaming and TV Channels",
+          "url": "https://www.yardbarker.com/soccer/articles/how_where_to_watch_al_nassr_vs_al_fateh_fc_start_time_live_streaming_and_tv_channels/s1_17615_44178678",
+          "source": "Yardbarker",
+          "published_at": "2026-08-15T17:10:54+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNN7GhKpRq_3p5r6AHq651xHoKFtcwhY6RzW-UCKKAe6H6JU1rUoBnkNGiMY"
+        },
+        {
+          "title": "By video: Al-Nassr fans surprise their new star with a special welcome",
+          "url": "https://www.goal.com/en-in/news/by-video-al-nassr-fans-surprise-their-new-star-with-a-special-welcome/bltfd7a42b8ca3aebd5",
+          "source": "Goal.com",
+          "published_at": "2026-08-15T18:39:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZU_RohJYhC3JlIBPifi1i6-8Ha-6EIangpfJ1CwVJ3n27Oh3WuiJsGraHbBE"
+        },
+        {
+          "title": "One of them turned down Al-Hilal and Al-Ittihad: financial crisis threatens Al-Nassr with losing its players for free",
+          "url": "https://www.livescore.com/en/news/football/more/one-of-them-turned-down-al-hilal-and-al-ittihad-financial-crisis-threatens-al-nassr-with-losing-its-players-for-free-goalcom/",
+          "source": "LiveScore",
+          "published_at": "2026-08-13T07:36:29+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREO4noLv23vvVV73xQYsLYOitA_99w6jf6zcFHSx6P2Y-ZNZZcIdJnD29PC_M"
+        },
+        {
+          "title": "Cristiano Ronaldo set to welcome first Al-Nassr summer signing as Samu Costa transfer announcement date eme...",
+          "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-set-to-welcome-first-al-nassr-summer-signing-as-samu-costa-transfer-announcement-date-emerges/",
+          "source": "World Soccer Talk",
+          "published_at": "2026-08-08T23:37:47+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSifQS9swZSHCbPWFE2VwF3Szr-AfzYUUPS4z0QwmIkIGszXTV7eRBxVCovtFo"
+        },
+        {
+          "title": "Al Nassr sign Portugal’s Costa from Mallorca",
+          "url": "https://www.reuters.com/sports/soccer/al-nassr-sign-portugals-costa-mallorca-2026-08-09/",
+          "source": "Reuters",
+          "published_at": "2026-08-09T16:47:43+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8_DkP-iu4SwH1Gz2V9SfVLNqDME7-qkDOkSE2W88tUO84EAdLU7Y8-mgVb7w"
+        },
+        {
+          "title": "Al-Nassr address financial crisis; now free to sign new players, report says",
+          "url": "https://www.arabnews.com/node/2653861/saudi-pro-league",
+          "source": "Arab News",
+          "published_at": "2026-08-08T08:21:50+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6MEr1SXRanKNKIL1NiVRQLHaqtIxINtewt2hDCnnLJbHtG5NTQVdP1ZiGlYQ"
+        },
+        {
+          "title": "Transfer: Costa joins Cristiano Ronaldo at Al Nassr",
+          "url": "https://dailypost.ng/2026/08/10/transfer-costa-joins-cristiano-ronaldo-at-al-nassr/",
+          "source": "Daily Post Nigeria",
+          "published_at": "2026-08-10T05:27:04+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwWuGyy8cmmk0tP_E4oyTUjnn-1neol6UP9dY0a8FaDfQh56BpHiZ3QKhX4NI"
+        },
+        {
+          "title": "Al-Nassr Hit by Financial Restrictions as Player Registrations Stall",
+          "url": "https://koorabreak.com/en/326398/",
+          "source": "كورة بريك",
+          "published_at": "2026-08-13T07:17:23+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxCtX_AP6abs6uallTx6Y1e-lAvEZ2AWuhS5Y7tU7_gCYFTIf-uFbRQcauccs"
+        },
+        {
+          "title": "Al-Nassr ‘could lose’ players for free amid financial crisis",
+          "url": "https://onefootball.com/en/news/al-nassr-could-lose-players-for-free-amid-financial-crisis-43269771",
+          "source": "OneFootball",
+          "published_at": "2026-08-13T09:05:23+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMg3-AdEkVmCa6kYgBIUjK0DapKvIJJxpQdJdPT-rXQ-_5IS7i7vx9RZwzQBE"
+        },
+        {
+          "title": "Three decisive measures: how did Al-Nassr overcome its financial crisis before the end of the transfer window?",
+          "url": "https://www.goal.com/en-in/news/three-decisive-measures-how-did-al-nassr-overcome-its-financial-crisis-before-the-end-of-the-transfer-window/blt68dfed815eaedea0",
+          "source": "Goal.com",
+          "published_at": "2026-08-07T21:19:08+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV2VYqkaGORDt0BR-RTai6k0jGoEmXxfhVhgsThHs27-bd7CIsQkzOHYmxg3w"
+        },
+        {
+          "title": "Samo Costa Joins Al Nassr for New Season Preparation",
+          "url": "https://www.ysscores.com/en/news/14016346/samo-costa-joins-al-nassr-for-new-season-preparation",
+          "source": "YSscores",
+          "published_at": "2026-08-07T07:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7005dzFM99wztpj688i6eQ3QRAjbNUY-W7LvEhwN-88d1uiGSCy3BgmNdGc4"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "operation sindoor documentary",
+      "approx_traffic": 200,
+      "started_at": "2026-08-15T18:10:00+00:00",
+      "related_queries": [
+        "operation sindoor documentary"
+      ],
+      "news": [
+        {
+          "title": "India's generosity, tolerance should not be mistaken for weakness: NSA Ajit Doval on Operation Sindoor",
+          "url": "https://www.thehindu.com/news/national/indias-generosity-tolerance-should-not-be-mistaken-for-weakness-nsa-ajit-doval-on-operation-sindoor/article71345421.ece",
+          "source": "The Hindu",
+          "published_at": "2026-08-14T12:08:19+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2xI2BWXMFyFeXiYo8rfu5YULcpUNeFWCM7ujzC0Jtho7-P9FS__Fus7agvu8"
+        },
+        {
+          "title": "Declassified: Operation Sindoor Web Series: Release Date, OTT Platforms, Review, Trailer, Star Cast, Songs, Posters",
+          "url": "https://timesofindia.indiatimes.com/web-series/web-series-details/hindi/declassified-operation-sindoor/webseriesshow/133215926.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-15T16:32:57+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTISJE2mvsG8hBm9Tub1eL-SHVGzgu8a-hWdMVitInKaEF21KoshWw8PPZrvhg"
+        },
+        {
+          "title": "Discovery to premiere Declassified Operation Sindoor on 15 August",
+          "url": "https://indiantelevision.com/television/discovery-to-premiere-declassified-operation-sindoor-on-15-august/",
+          "source": "Indian Television Dot Com",
+          "published_at": "2026-08-15T05:29:06+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBTAS3INfHt6uexETJz9rBXK3-wkOvcKdoKkmJsakO-Qxkq3lWngDLq_p14uQ"
+        },
+        {
+          "title": "‘I want it immediately’: NSA Ajit Doval reveals first question PM Modi asked after Pahalgam terror attack | India News",
+          "url": "https://www.hindustantimes.com/india-news/i-want-it-immediately-nsa-ajit-doval-question-pm-modi-asked-pahalgam-attack-operation-sindoor-discovery-101786769887543.html",
+          "source": "Hindustan Times",
+          "published_at": "2026-08-15T05:47:46+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbh6mbDa4s7viMHDq0n9mTipmYxS4d8l-gP5cHAXJGmBjxZeK73VtOY24o-l4"
+        },
+        {
+          "title": "Video | India's Tolerance Should Not Be Seen As Weakness: Ajit Doval On Op Sindoor",
+          "url": "https://www.ndtv.com/video/india-s-tolerance-should-not-be-seen-as-weakness-ajit-doval-on-op-sindoor-1142972",
+          "source": "NDTV",
+          "published_at": "2026-08-14T11:14:21+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8HbmBEtz-nvB9QZfhMmg4zAcE-x6g6rG1E3mRVtrrD-iQq9682tqAYZfluBY"
+        },
+        {
+          "title": "‘We’ll go after them in hell’: Ajit Doval’s strong message to Pakistan over Op Sindoor",
+          "url": "https://www.firstpost.com/india/well-go-after-them-in-hell-ajit-dovals-strong-message-to-pakistan-over-op-sindoor-14038280.html",
+          "source": "Firstpost",
+          "published_at": "2026-08-14T13:43:06+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkIIXwQj4p1a9gCcg7maG_LoTpUMBiYyqYArZilhCsxUeZV7TFNvjDI4lQDPk"
+        },
+        {
+          "title": "Independence Day Special: Streaming date, time of docuseries ‘Declassified: Operation Sindoor’",
+          "url": "https://www.theweek.in/news/entertainment/2026/08/15/operation-sindoor-docuseries.html",
+          "source": "The Week",
+          "published_at": "2026-08-15T08:29:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR926p4QZq6XriX3R5FBWZOTaQ4Fc8g4tMUuIu4CsgX9qqLNuW1eByEphgR2dE"
+        },
+        {
+          "title": "'Fight against terrorism will only be over when last terrorist is eliminated': NSA Ajit Doval recalls PM Modi",
+          "url": "https://www.india.com/news/india/ajit-doval-on-operation-sindoor-pm-modi-pahalgam-attack-fight-against-terrorism-will-only-be-over-when-last-terrorist-is-eliminated-8502551/",
+          "source": "India.com",
+          "published_at": "2026-08-15T16:50:30+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTT7Yr6veIx6Q-16a1UcOVlFss1UNCCmNPkjwzA8igKewXa1eXWOoIVEpMl10"
+        },
+        {
+          "title": "Declassified: Operation Sindoor - Official Trailer",
+          "url": "https://timesofindia.indiatimes.com/videos/entertainment/english/declassified-operation-sindoor-official-trailer/videoshow/133215907.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-13T14:28:56+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV7UP2U9VmYG6d-NsRFjZtJJ1v6tsl6ktOf_cpqWrTBlfSb0L-3F4Nznrj5C0"
+        },
+        {
+          "title": "Declassified: Operation Sindoor Season 1 Review: A Gripping Account of India’s Military Response",
+          "url": "https://timesofindia.indiatimes.com/web-series/reviews/hindi/declassified-operation-sindoor/season-1/seasonreview/133216291.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-15T17:40:46+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmR0uTqLlgpR91qcNlcqLwEoaAEb_MS6QhcpQZoPHSGB5_90OaByISRS-AwfI"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic": "निवेश",
+      "approx_traffic": 200,
+      "started_at": "2026-08-15T18:20:00+00:00",
+      "related_queries": [
+        "निवेश"
+      ],
+      "news": [
+        {
+          "title": "1 लाख का निवेश, 5 साल बाद कितना होगा? SBI-HDFC बैंक दे रहे ये ऑफर",
+          "url": "https://www.aajtak.in/business/news/story/sbi-hdfc-icici-bank-5-year-fd-rates-calculation-on-one-lakh-tutd-dskc-2622778-2026-08-15",
+          "source": "AajTak",
+          "published_at": "2026-08-15T12:46:56+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_OPAyqPrjPPIZt_Kgxd6K7m5ZEKYgkVvNg5wTHjE0L4Zjgxwdxal-FEcgYVA"
+        },
+        {
+          "title": "FD पर ये बैंक दे रहे हैं 8% से अधिक ब्याज, SBI और PNB बहुत पीछे",
+          "url": "https://www.livehindustan.com/business/these-bank-will-give-more-than-8-percent-intrest-rates-check-details-201786790116078.html",
+          "source": "Hindustan",
+          "published_at": "2026-08-15T10:40:24+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcQ1RwuXfRpMkDvycfMGYBHoELOsaL3SXZ9FgKqbL7tT8jYj4Wt0dRpTpeFRY"
+        },
+        {
+          "title": "₹10 हजार की मंथली इनकम के लिए FD में कितने रुपये जमा करने होंगे? जानिए पूरा हिसाब",
+          "url": "https://www.livemint.com/hindi/money/how-much-fixed-deposit-is-needed-for-10000-rupees-monthly-interest-check-math-interest-rates-241786782218872.html",
+          "source": "mint हिन्दी",
+          "published_at": "2026-08-15T09:06:08+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR46-6LzhmMNxiavuyXTinPrkDxmK_3QHWt4JHuPSVY2o2fq5Y7Ly0eKZlFDy4"
+        },
+        {
+          "title": "SBI की 444 दिन वाली FD में वरिष्ठ नागरिकों को कितना मिला रहा ब्याज? पैसा लगाने से पहले जान लें पूरा हिसाब",
+          "url": "https://www.indiatv.in/paisa/personal-finance/what-interest-rate-are-senior-citizens-getting-by-sbi-on-444-day-fd-know-the-full-details-before-investing-2026-08-13-1237123",
+          "source": "India TV Hindi",
+          "published_at": "2026-08-13T12:22:54+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3IkVhtW258fYk6Vxzk58nd5AF-Xx_3OrB5ePizP544HYaX0zeZY86JgV122k"
+        },
+        {
+          "title": "10 लाख की FD पर किस बैंक से मिलेगा ज्यादा रिटर्न?",
+          "url": "https://www.abplive.com/business/which-bank-offers-higher-returns-on-a-10-lakh-fd-compare-interest-rates-maturity-amount-3175511",
+          "source": "ABP News",
+          "published_at": "2026-08-15T11:13:01+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmtWBP45ZxG6NqYHuiKhYa5O7CFlZb-6HTXDBZ0CFNUcr1dwNCL34IQ1FewF0"
+        },
+        {
+          "title": "Senior Citizens FD Rate: एफडी पर मिल रहा 8.05% तक ब्याज, जानें किस बैंक में कितना?",
+          "url": "https://www.money9live.com/personal-finance/senior-citizen-fd-interest-rates-5-year-banks-article-110761.html",
+          "source": "Money9live",
+          "published_at": "2026-08-15T08:28:30+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9b42Ar1HPUG6JW3b7QYcEmPxpxA8q-FGGCrt2etyVYaMtONh6Sv1RefIP24"
+        },
+        {
+          "title": "SBI की 222 दिन वाली FD में 2 लाख डालने पर कितना ब्याज? कैलकुलेटर निकाल लाया हिसाब",
+          "url": "https://hindi.news18.com/photogallery/business/latest-rupees-2-lakh-investment-in-sbi-222-days-fd-how-much-return-will-you-get-understand-calculation-10732960.html",
+          "source": "News18 Hindi",
+          "published_at": "2026-08-09T08:12:17+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrXVEt8WcblZp3yM-4YNPstTqOx-SOIyf2LOtv5dpAkV4u0x8KC36sjlu15Eo"
+        },
+        {
+          "title": "मुनाफे की मशीन है Canara Bank की FD, 555 दिनों के निवेश पर मिलेगा 7.10% ब्याज,हाथ से न जाने दें मौका!",
+          "url": "https://www.zeebiz.com/hindi/personal-finance/canara-bank-fd-555-days-around-7-10-percent-high-return-interest-senior-citizens-261746",
+          "source": "Zee Business",
+          "published_at": "2026-08-11T06:25:45+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGjJ2BZ17sYkQdydGQAF-Fv1OVGw3d4Z59RsLVLVn50NCHTbrFn7V4yiFEhjM"
+        },
+        {
+          "title": "FD पर 7.50% तक ब्याज, ये 3 बैंक दे रहे हैं मोटा रिटर्न, अभी चेक करें डीटेल्स",
+          "url": "https://www.livehindustan.com/business/personal-finance/fd-best-return-upto-7-50-percent-check-details-here-201786701644479.html",
+          "source": "Hindustan",
+          "published_at": "2026-08-14T10:40:54+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi96Ed0wcKhmKaeBWawNUvu-tSFoylQcvOVvi-hVo5GP6oI8lsbrhbqlV4UVA"
+        },
+        {
+          "title": "1 लाख की FD 5 साल बाद कितनी होगी? बिना रिस्‍क मिलेगी इतनी रकम",
+          "url": "https://www.aajtak.in/business/utility/photo/fd-calculation-how-much-fixed-deposit-income-on-one-lakhs-after-five-year-tutd-2620221-2026-08-12",
+          "source": "AajTak",
+          "published_at": "2026-08-12T07:31:21+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR45qwxR3WNLNLb0IoCKyKCdxzEZBk40fgpPK9122d4CR-QutzeuaRsmstKPgQ"
+        },
+        {
+          "title": "USD/JPY 160 के पार गया तो क्या होगा? ’विश्वसनीयता और घटेगी’",
+          "url": "https://hi.investing.com/news/forex-news/article-687883",
+          "source": "Investing.com भारत",
+          "published_at": "2026-08-15T05:28:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpVjk4p9B-ky1g4b4Oo0UM2yDDwM4irg1Yz3dwp2RwQo0pkKqov7DsXZj0OBE"
+        },
+        {
+          "title": "अमेरिका और जापान द्वारा अरबों डॉलर की धनराशि निवेश करने के बावजूद येन की कीमत में लगातार गिरावट क्यों आ रही है?",
+          "url": "https://www.vietnam.vn/hi/vi-sao-my-nhat-ban-tung-hang-chuc-ty-usd-dong-yen-van-lao-doc",
+          "source": "Vietnam.vn",
+          "published_at": "2026-08-15T13:35:43+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWXgrt4enugEosoL6tFFUgNMtRoJQ8S-fSkhRL33S9BbPZQ4oxIfXqGWNU1G4"
+        },
+        {
+          "title": "आर्थर हेयेस का येन-भूकंप: कैसे फेड FIMA तरलता बिटकॉइन रैली को बढ़ा सकती है",
+          "url": "https://www.kucoin.com/hi/blog/in-arthur-hayes-yen-quake-bitcoin-rally",
+          "source": "KuCoin",
+          "published_at": "2026-08-13T06:44:02+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2cTYh89MmV6cjm56l0lwwQbcWVqChxhU_9oVa8te_72fXs0VTIOBv_5FyTZ4"
+        },
+        {
+          "title": "आर्थर हेस: येन बचाव बिटकॉइन रैली को बढ़ावा दे सकता है",
+          "url": "https://news.bitcoin.com/hi/featured/aarthar-hes-yen-bachaav-bitkoin-railee-ko-badhaava-de-sakta-hai/",
+          "source": "Bitcoin News",
+          "published_at": "2026-08-11T12:45:42+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfnzurhbvLnHmM4jCe1sZIUc68_OM1XPRn10inWCRVdUkiTw6Y3PoKp0aNvN0"
+        },
+        {
+          "title": "जापान में रहने वाले वियतनामी लोगों को विनिमय दर में उतार-चढ़ाव का सामना करना पड़ता है।",
+          "url": "https://www.vietnam.vn/hi/nguoi-viet-tai-nhat-ban-truoc-bien-dong-ty-gia",
+          "source": "Vietnam.vn",
+          "published_at": "2026-08-15T01:29:46+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuK3qARrtkaG-MfG1LDk3pzluhnl2z0UKe0EUtKuIkhbNGeRygb_HBhPhwMpw"
+        },
+        {
+          "title": "येन की मजबूती एशिया की कमजोर मुद्राओं के लिए एक चेतावनी का संकेत दे रही है।",
+          "url": "https://www.vietnam.vn/hi/da-phuc-hoi-cua-yen-phat-tin-hieu-canh-bao-toi-cac-dong-tien-yeu-o-chau-a",
+          "source": "Vietnam.vn",
+          "published_at": "2026-08-14T00:59:01+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zLNV-3ex42QUiNE0sn3WoaIXVxMLuKivKyqdXmYa9DXU5wGNLvoNJ0SRdBQ"
+        },
+        {
+          "title": "जापानी येन को हस्तक्षेप और ब्याज दरों में तेजी से वृद्धि की जरूरत है।",
+          "url": "https://www.vietnam.vn/hi/dong-yen-nhat-dang-can-can-thiep-va-tang-lai-suat-nhanh-hon",
+          "source": "Vietnam.vn",
+          "published_at": "2026-08-14T06:11:34+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5uPHMIt0YhArcX6DItoLSBUj50o0w2rI4go425VHyK0vCloSVe2ttnsMzFbU"
+        },
+        {
+          "title": "अमेरिका और जापान द्वारा समर्थन प्रदान करने के लिए अरबों डॉलर खर्च किए जाने के बावजूद जापानी येन का अवमूल्यन जारी रहा।",
+          "url": "https://www.vietnam.vn/hi/dong-yen-tiep-tuc-da-mat-gia-bat-chap-my-va-nhat-ban-da-chi-hang-chuc-ty-usd-de-ho-tro",
+          "source": "Vietnam.vn",
+          "published_at": "2026-08-15T01:00:15+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyD7A2-oHniGJCQMmi9o_TbGgUiXvJTBdWn7HjK-L-3xT-e_sx7roP3fUjHDI"
+        },
+        {
+          "title": "अमेरिका और जापान द्वारा अरबों डॉलर के हस्तक्षेप के बावजूद येन की कीमत में भारी गिरावट आई।",
+          "url": "https://www.vietnam.vn/hi/dong-yen-lao-doc-du-my-va-nhat-ban-chi-hang-chuc-ty-usd-can-thiep",
+          "source": "Vietnam.vn",
+          "published_at": "2026-08-15T00:44:32+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFKVKTNnADUeA9HJ2cow2JrbTRnNHS_gNoii68uZwxfr70Cz6yGt4OkCEk3BY"
+        },
+        {
+          "title": "कमजोर येन के कारण बैंक ऑफ जापान पर दबाव बढ़ रहा है।",
+          "url": "https://www.vietnam.vn/hi/dong-yen-yeu-gia-tang-suc-ep-len-ngan-hang-trung-uong-nhat-ban",
+          "source": "Vietnam.vn",
+          "published_at": "2026-08-13T14:27:28+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ICWY5cwxs-D1erWjQNB-HCKbeTzH47dNTxXPjWODemRAIEP4t7v8DiN-ssM"
+        },
+        {
+          "title": "बेटियों का वॉलेट: सिर्फ 250 रुपये का करें निवेश, सरकारी स्कीम से मिलेंगे 40 लाख रुपये",
+          "url": "https://hindi.news18.com/news/business/money-making-tips-betiyon-ka-wallet-sukanya-samriddhi-yojana-2026-ssy-interest-rate-eligibility-tax-benefits-10742862.html",
+          "source": "News18 Hindi",
+          "published_at": "2026-08-15T04:32:02+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmXm4qZ8buLN-UuSZfPsAeTuItybThzdZHmdMDKJV8y36PUHLDtsxy5gSRc0g"
+        },
+        {
+          "title": "PPF, SCSS या SSY? 2026 में कौन-सी सरकारी स्कीम देगी सबसे ज्यादा फायदा, यहां समझें गणित",
+          "url": "https://www.livehindustan.com/business/ppf-vs-scss-vs-ssy-which-government-savings-scheme-suits-your-financial-goals-best-in-2026-201786187115344.html",
+          "source": "Hindustan",
+          "published_at": "2026-08-08T12:01:48+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3v2ANC85UEOWEuLebxEjfZJPnlzGlyiXj-IoYqr75Mu3HA6VRaSNNT8on0Wo"
+        },
+        {
+          "title": "क्‍या NRI भी कर सकते हैं सुकन्‍या समृद्धि योजना में निवेश? 8.2% मिलता है ब्‍याज",
+          "url": "https://www.money9live.com/personal-finance/nri-sukanya-samriddhi-yojana-account-8-2-percent-interest-rules-article-110239.html",
+          "source": "Money9live",
+          "published_at": "2026-08-08T12:27:44+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRb4b8EhvJUJ26GYj-h1XCuQY6SAi3EHO-UnD01uSzIp4KTngrxTwFl4Kc5M7k"
+        },
+        {
+          "title": "सुकन्या समृद्धि पर 8.2%: सालाना ₹1.5 लाख से बनेंगे ₹72 लाख",
+          "url": "https://www.indianpaycalculator.in/sarkari-news/sukanya-samriddhi-yojana-8-2-percent-daughter-corpus-2026",
+          "source": "www.indianpaycalculator.in",
+          "published_at": "2026-08-08T11:30:51+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMpTowXFOiIrLArByzAUsg_ktBRVW8oQ5oTUQ_vjOjkTfx5U1A5arBYlUAbnI"
+        },
+        {
+          "title": "PPF, SCSS या सुकन्या: सालाना 1.5 लाख के निवेश पर कहां मिलेगा सबसे तगड़ा रिटर्न?",
+          "url": "https://www.abplive.com/business/ppf-vs-scss-vs-sukanya-samriddhi-yojana-which-savings-scheme-offers-better-returns-3172752",
+          "source": "ABP News",
+          "published_at": "2026-08-09T14:37:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWz1yV3Eb4tSYzSXU_HPNv3hh5FZxqP2Y1hbKJ8yu_gSAa5Ro7ifM0QYPOiKU"
+        },
+        {
+          "title": "सिर्फ ₹5,000 महीने का निवेश बना सकता है करोड़ों का फंड, पीपीएफ में 50 साल का कमाल देखें",
+          "url": "https://hindi.economictimes.com/wealth/nivesh/ppf-monthly-investment-50-years-corpus/articleshow/133096311.cms",
+          "source": "The Economic Times Hindi",
+          "published_at": "2026-08-10T10:21:22+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNxw9qHPnfoj08P7xcxAPL3kcDU8Z-Cf8x4wP6soxuBqkwR0rO-WFUyqRrL-I"
+        },
+        {
+          "title": "PPF vs NSC: 7.1% या 7.7%? लंबी अवधि में कौन सी सरकारी स्कीम बनाएगी बड़ा फंड, जानें पूरा गणित",
+          "url": "https://www.goodreturns.in/videos/ppf-vs-nsc-7-1-or-7-7-which-government-scheme-can-build-a-bigger-fund-in-the-long-run-11788.html",
+          "source": "Goodreturns",
+          "published_at": "2026-08-12T05:27:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU4eEcnwm-JLgNJH6Aas6uefucF8AqQQ99gUrs6hqJSQrQvBwu3r0yyzOcFq0"
+        },
+        {
+          "title": "SSY: NRI भी बना सकते हैं बेटी को लखपति? क्या है विदेश में रह रहे भारतीयों के लिए रूल, निवेश से पहले यहां पढ़ें",
+          "url": "https://www.zeebiz.com/hindi/personal-finance/sukanya-samriddhi-yojana-can-nri-open-eligibility-how-can-nri-parents-invest-know-ruls-261585",
+          "source": "Zee Business",
+          "published_at": "2026-08-10T00:45:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBFceiygfADN2jzIv0nK0iHiYRYwJR1Z6OCaquCLepKnFKIIRsXKHlwngNDuo"
+        }
+      ]
+    }
+  ]
+}
