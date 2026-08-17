@@ -1,0 +1,659 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-08-17T19:08:05.085208+00:00",
+  "window_days": 4,
+  "count": 5,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "deportivo vs elche",
+      "approx_traffic": 500,
+      "started_at": "2026-08-17T18:20:00+00:00",
+      "related_queries": [
+        "deportivo vs elche"
+      ],
+      "news": [
+        {
+          "title": "Este es el once inicial favorito de los lectores de La Voz para el estreno del Deportivo en Primera ante el Elche",
+          "url": "https://www.lavozdegalicia.es/noticia/torremarathon/2026/08/17/once-inicial-favorito-lectores-voz-estreno-deportivo-primera-ante-elche/00031786981826688341643.htm",
+          "source": "La Voz de Galicia",
+          "published_at": "2026-08-17T16:51:55+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS71_vKoGskSou-nYSp1pd_fdX31DOVix8eRkYiNZodwDtAR8HOAWWHi77uIQ"
+        },
+        {
+          "title": "Hidalgo da la titularidad a cinco fichajes; Anselmi apuesta por Redondo, Neto y Aly Houary",
+          "url": "https://www.infobae.com/espana/agencias/2026/08/17/hidalgo-da-la-titularidad-a-cinco-fichajes-anselmi-apuesta-por-redondo-neto-y-aly-houary/",
+          "source": "Infobae",
+          "published_at": "2026-08-17T18:35:44+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHCoVJvVj9aGPuXyPjDrxDhOfyjQZ7Om7Bphe3rtlk95gVoUt-mGAUkg7FZN4"
+        },
+        {
+          "title": "RC Deportivo – Elche el partido de fútbol de Jornada 1 de LaLiga EA Sports, en directo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260817/24283/rc-deportivo-elche-laliga-primera-division-ca-en-directo-ctx.html",
+          "source": "La Vanguardia",
+          "published_at": "2026-08-17T18:42:04+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8FyvBHsGRTS6ElM6y0fE5K6nS_Jex_j7oTjBHLVct2wuOjZ1LEG78lpOU_JA"
+        },
+        {
+          "title": "LaLiga EA Sports peligra en la TDT, que podría dejar de emitir partidos de fútbol en abierto",
+          "url": "https://computerhoy.20minutos.es/entretenimiento/laliga-ea-sports-peligra-tdt-que-podria-dejar-emitir-partidos-futbol-abierto_7026332_0.html",
+          "source": "Computer Hoy",
+          "published_at": "2026-08-17T10:05:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKcpFc9Cl21UA6yMk0i9azvFyEUNjggOid1eqLcPECDFI9dZqQ3z7XC-wRy6k"
+        },
+        {
+          "title": "Deportivo de La Coruña vs Elche: horario y dónde ver hoy gratis por TV y online el partido de LaLiga 2026/27 a través de DAZN",
+          "url": "https://www.dazn.com/es-ES/news/f%C3%BAtbol/deportivo-coruna-vs-elche-horario-donde-ver-hoy-gratis-tv-online-partido-laliga-2026-2027-dazn/5qgr1wt2lc7q15etzxqf5f9dz",
+          "source": "DAZN",
+          "published_at": "2026-08-17T12:17:44+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKvwUNMUh_q-x2OCwcdp0OqTb-Jn6MptEqPn5xs0PuHSC03IgXntOfv42XdY"
+        },
+        {
+          "title": "Así llega el Elche al partido contra el Deportivo en Riazor",
+          "url": "https://www.cope.es/emisoras/galicia/a-coruna-provincia/a-coruna/deportes-coruna/noticias/asi-llega-elche-partido-deportivo-riazor-20260817_3420931.html",
+          "source": "COPE",
+          "published_at": "2026-08-17T14:00:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQngcmagr4y6z5tL8xr65fSC3EK0IFNLE1SAFIRbTJgwOmCbVxU_NmrhtbT0WA"
+        },
+        {
+          "title": "LaLiga vuelve a desaparecer de la TDT: el Deportivo-Elche se podrá ver gratis en DAZN, pero no en Teledeporte",
+          "url": "https://www.larazon.es/television/laliga-vuelve-desaparecer-tdt-deportivoelche-podra-ver-gratis-dazn-pero-teledeporte_202608176a8300b671b42a0b5df44c88.html",
+          "source": "La Razón",
+          "published_at": "2026-08-17T14:10:13+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_Ab0lHKCnh_0GUwaYtNfOndZzR12qhKTk-9rXpApEe2qZm021YPfYnhC06I"
+        },
+        {
+          "title": "Dépor-Elche (0-0): Redondo, Neto, Ali Houary y Fer Niño, titulares",
+          "url": "https://teleelx.es/2026/08/17/el-elche-c-f-quiere-empezar-con-buen-pie-la-liga/",
+          "source": "TeleElx",
+          "published_at": "2026-08-17T18:31:24+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQHtBxyCpEJF2wz5BHaNkjIS8v5ilZybpmj9EaqTzEwzN2nvL4wfYiywTLznKU"
+        },
+        {
+          "title": "RC Deportivo – Elche: El Dépor vuelve a LaLiga 8 temporadas después",
+          "url": "https://onefootball.com/es/noticias/rc-deportivo-elche-el-depor-vuelve-a-laliga-8-temporadas-despues-43289540",
+          "source": "OneFootball",
+          "published_at": "2026-08-17T12:25:16+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy7yjkNgHGc56fWRyTCdK536jeHE4Tv2yUtasBdkGBaY_bXWQBUwJ5yCXXjBM"
+        },
+        {
+          "title": "Deportivo La Coruña vs Elche - Pronóstico, dónde ver, horario y alineaciones 17-08-2026",
+          "url": "https://onefootball.com/es/apuestas/pronosticos/deportivo-la-coruna-vs-elche-17-08-2026",
+          "source": "OneFootball",
+          "published_at": "2026-08-17T14:06:01+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTESxPIR_lroi-4rhbcyj_kLJtGljC6V8VE-6_4VCeh1x-MxbfGieBZGwYTySo"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "ज़ी बिज़नेस",
+      "approx_traffic": 500,
+      "started_at": "2026-08-17T18:10:00+00:00",
+      "related_queries": [
+        "ज़ी बिज़नेस"
+      ],
+      "news": [
+        {
+          "title": "पेंशन नियमों में सुधार: नई राहें, नए फायदे",
+          "url": "https://www.prabhatkhabar.com/business/government-continuously-reforming-pension-rules-and-procedures-to-meet-changing-social-needs",
+          "source": "Prabhat Khabar",
+          "published_at": "2026-08-17T13:14:08+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQwkYcChp5oxfSF4xtb4MuM2qYvrHSgmz_T1BuxMEkelIawjQvd1jiq3L9hWM"
+        },
+        {
+          "title": "बदलती जरूरतों के हिसाब से बदलते रहेंगे पेंशन के नियम, सरकार ने कहा: समय-समय पर होगी समीक्षा",
+          "url": "https://hindi.business-standard.com/money/pension-rules-to-evolve-with-changing-social-needs-says-government-id-545292",
+          "source": "बिजनेस स्टैंडर्ड",
+          "published_at": "2026-08-17T14:54:01+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWcrh8QmVOtWWRSuSOHCDWdsUrMCvoKd7MOEIpNQ_kl8ZjSbZ8MqtZg2Lhlvs"
+        },
+        {
+          "title": "डॉ. जितेंद्र सिंह ने कहाः- प्रौद्योगिकी आधारित पेंशन सेवाओं से अधिक दक्षता आती हैं, इससे जनशक्ति और संसाधनों की बचत होती है",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2300545",
+          "source": "PIB",
+          "published_at": "2026-08-17T10:37:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ND5WQ6gm_NCvV3Lmf59jaPFFBB98Bcp6PHXjeLJwUdm74eRX1EFVJf7WSlY"
+        },
+        {
+          "title": "केंद्रीय राज्य मंत्री डॉ. जितेंद्र सिंह ने कहा कि सरकार सामाजिक जरूरतों के हिसाब से पेंशन नियमों में लगातार सुधार कर रही है. क्या पेंशन नियमों में किए गए ये सामाजिक और डिजिटल बदलाव बुजुर",
+          "url": "https://www.facebook.com/zeebusinessonline/posts/%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF-%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%A1%E0%A5%89-%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9-%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A4%B9%E0%A4%BE-%E0%A4%95%E0%A4%BF-%E0%A4%B8%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0-%E0%A4%B8%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%95-%E0%A4%9C%E0%A4%B0%E0%A5%82%E0%A4%B0%E0%A4%A4%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%87-%E0%A4%B9%E0%A4%BF%E0%A4%B8%E0%A4%BE%E0%A4%AC-/1618218463676854/",
+          "source": "Facebook",
+          "published_at": "2026-08-17T15:40:03+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJe9zcnXlu_wC7MYJ2D34GV1PLgLhbiCWDSqHktkLN3t8bx1p_8er8q7Qad_Q"
+        },
+        {
+          "title": "केन्द्रीय मंत्री डॉ. जितेन्‍द्र सिंह ने 15 कर्मियों को राष्‍ट्रीय अनुभव पुरस्‍कार से किया सम्‍मानित",
+          "url": "https://newsonair.gov.in/hi/union-minister-dr-jitendra-singh-honoured-15-employees-with-the-national-experience-award/",
+          "source": "News On AIR",
+          "published_at": "2026-08-16T21:49:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvQezTHs4nCErDGphNUB-5zWSj9GB8oLSRNcmC1iCKswJ-CtNCxZUav7tYBw"
+        },
+        {
+          "title": "विज्ञान भवन में राष्ट्रीय अनुभव पुरस्कारों से सरकारी अनुभव को मिली पहचान",
+          "url": "https://www.gktoday.in/hindi/%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8-%E0%A4%AD%E0%A4%B5%E0%A4%A8-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80/",
+          "source": "GK Today",
+          "published_at": "2026-08-17T05:24:05+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT42ousef5OtE8lzf8kerfDenE8934VTYEplkUiIyoYhnvG19p8gLzFrxmR7YM"
+        },
+        {
+          "title": "बदलती सामाजिक जरूरतों के अनुरूप सरकार पेंशन नियमों में लगातार कर रही है सुधार: जितेंद्र सिंह",
+          "url": "https://www.chinimandi.com/government-continuously-reforming-pension-rules-to-align-with-changing-social-needs-jitendra-singh-in-hindi/",
+          "source": "ChiniMandi",
+          "published_at": "2026-08-17T12:48:24+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMoNyFX22j6jckovDJd9yC7sBGi-06RsWhmpS5EGjMfmRcd_puP74sDcqtUp8"
+        },
+        {
+          "title": "तकनीक से आसान हुई पेंशन सेवा, जनशक्ति और संसाधनों की बचत: जितेंद्र सिंह",
+          "url": "https://ddnews.gov.in/technology-has-simplified-pension-services-saving-manpower-and-resources-jitendra-singh/",
+          "source": "ddnews.gov.in",
+          "published_at": "2026-08-17T10:15:14+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZYY5rh4ElLrftVU0mWHUfHzwmJ2tDN0wLWaoDahFlHZGIYKosfuzVVB08aQ4"
+        },
+        {
+          "title": "तकनीक आधारित पेंशन सेवाओं से दक्षता बढ़ी : जितेंद्र सिंह",
+          "url": "https://www.univarta.com/topnews/india/story/3945997.html",
+          "source": "www.univarta.com",
+          "published_at": "2026-08-17T13:10:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeaMhB6BHFeHdq3yUtap9Od3Km-4JBKpgcsv7HgctwPS__uy6ewpz0MwPFDbw"
+        },
+        {
+          "title": "राष्ट्रीय अनुभव पुरस्कार-2026 प्रदान करेंगे कार्मिक, लोक शिकायत और पेंशन राज्य मंत्री डॉ. जितेंद्र सिंह",
+          "url": "https://newsonair.gov.in/hi/new-delhi-dr-jitendra-singh-minister-of-state-for-personnel-public-grievances-and-pensions-will-present-the-national-experience-awards-2026/",
+          "source": "News On AIR",
+          "published_at": "2026-08-17T06:10:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBb7xLbEdn5ius9dIfYpNe_S_PDrDnyqQTolTOGew3ZLUs1IPk092IUXzw4TA"
+        },
+        {
+          "title": "अर्थशास्त्री संतोष मेहरोत्रा भारत-अमेरिका ट्रेड डील पर कहा कि भारत को अमेरिका के साथ ट्रेड डील में भारत को जल्दबाजी से बचना चाहिए. भारत की क्रूड ऑयल सप्लाई में रूस की हिस्सेदारी करीब 50%",
+          "url": "https://www.facebook.com/zeebusinessonline/posts/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%8B%E0%A4%B7-%E0%A4%AE%E0%A5%87%E0%A4%B9%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A1-%E0%A4%A1%E0%A5%80%E0%A4%B2-%E0%A4%AA%E0%A4%B0-%E0%A4%95%E0%A4%B9%E0%A4%BE-%E0%A4%95%E0%A4%BF-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4-%E0%A4%95%E0%A5%8B-%E0%A4%85%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A5%87/1618248583673842/",
+          "source": "Facebook",
+          "published_at": "2026-08-17T16:15:03+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBlhqbyhfkaNFVh5IkP5bbQED3E1DMCfRzkYL8eVwHK9kw8G3NK1RDzafj-1o"
+        },
+        {
+          "title": "भारत-अमेरिका ट्रेड डील किसानों के हित में हुआ तो स्वागत, राष्ट्रहित सर्वोपरि बीकेएस",
+          "url": "https://www.bhaskarhindi.com/other/bharat-america-trade-deal-kisano-ke-hit-mein-hui-to-swagat-virodh-mein-hui-to-virodh-gujarat-bks-1345859",
+          "source": "दैनिक भास्कर हिन्दी",
+          "published_at": "2026-08-17T11:51:34+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRc9jfOEz2d862MiqxODwXD2qtYVuyMd_q40XoruKUVcomekaozIRGTA0485Bw"
+        },
+        {
+          "title": "व्यापार समझौते पर अमेरिका के साथ ‘‘निरंतर संपर्क’’ में है भारत: वाणिज्य सचिव",
+          "url": "https://hindi.theprint.in/india/economy/india-in-constant-contact-with-us-on-trade-deal-commerce-secretary/1013134/",
+          "source": "ThePrint Hindi",
+          "published_at": "2026-08-13T11:34:30+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEdJJhdbSYE4VJRLIk55u_zvyE_QW2mf8Mw4Gd8cBvu28UnVMAnToXOuwPiyw"
+        },
+        {
+          "title": "‘देश को अमेरिका के हाथों…’, ट्रंप के टैरिफ बिल पर बोले केजरीवाल",
+          "url": "https://24city.news/kejriwal-said-on-trumps-tariff-bill-that-the-country-is-in-the-hands-of-america/",
+          "source": "24CityNews",
+          "published_at": "2026-08-14T01:07:49+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTX24mJ1vr6qT0d1MnKSKve2arv0QZEd2zl0QVhgt04I-KRm_1inM_FAfs_Ik"
+        },
+        {
+          "title": "क्या जल्द फाइनल होगी भारत-अमेरिका मेगा 'ट्रेड डील'? वाणिज्य सचिव के इस बयान ने बढ़ाई हलचल!",
+          "url": "https://www.jagran.com/business/biz-indiaus-trade-deal-contact-continues-says-commerce-secy-40339866.html",
+          "source": "Jagran",
+          "published_at": "2026-08-13T16:43:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZvCMurrbcCV9Pt-d23_tPdeVVWfNicgefUZyh3CRb2JuVUAmcXGbmpGqFixQ"
+        },
+        {
+          "title": "India US Trade Deal: भारत-अमेरिका का व्यापार समझौता कहां तक पहुंचा? वाणिज्य सचिव ने दिया बड़ा अपडेट",
+          "url": "https://www.livemint.com/hindi/business/india-us-bilateral-trade-agreement-commerce-secretary-rajesh-agrawal-speaks-on-bta-first-phase-and-us-241786668922827.html",
+          "source": "mint हिन्दी",
+          "published_at": "2026-08-14T01:09:08+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnIGmCSuFmqx-6josOUY4KwZNZESMeO76R8JP2TAMwyeJHygXODxTKplxM6ko"
+        },
+        {
+          "title": "हैदराबाद के एक कॉलेज हॉस्टल से निकली सोच ने भारतीय रक्षा तकनीक के क्षेत्र में एक नया इतिहास रच दिया है. लिंक कमेंट में",
+          "url": "https://www.facebook.com/zeebusinessonline/posts/%E0%A4%B9%E0%A5%88%E0%A4%A6%E0%A4%B0%E0%A4%BE%E0%A4%AC%E0%A4%BE%E0%A4%A6-%E0%A4%95%E0%A5%87-%E0%A4%8F%E0%A4%95-%E0%A4%95%E0%A5%89%E0%A4%B2%E0%A5%87%E0%A4%9C-%E0%A4%B9%E0%A5%89%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%B2-%E0%A4%B8%E0%A5%87-%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A4%B2%E0%A5%80-%E0%A4%B8%E0%A5%8B%E0%A4%9A-%E0%A4%A8%E0%A5%87-%E0%A4%AD%E0%A4%BE%E0%A4%B0%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-%E0%A4%A4%E0%A4%95%E0%A4%A8%E0%A5%80%E0%A4%95-%E0%A4%95%E0%A5%87-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%8F%E0%A4%95/1617946090370758/",
+          "source": "Facebook",
+          "published_at": "2026-08-17T09:44:40+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvrBClCjjqooZgtZT__cBRkM-UBaA98uMdXBC5PXV4LFHMyNyyiTEbQ4BuL8"
+        },
+        {
+          "title": "Success Story: हॉस्टल रूम से शुरू हुआ ये डिफेंस Startup, अब चलती कार से Jet Drone किया लॉन्च, दिलचस्प है कहानी",
+          "url": "https://www.zeebiz.com/hindi/small-business/apollyon-dynamics-launches-jet-uav-from-moving-car-btech-duo-prepares-adx-1-army-evaluation-and-rs-40-crore-funding-262366",
+          "source": "Zee Business",
+          "published_at": "2026-08-17T09:26:22+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDZXnUp4AzD36cvbf6Bc-pMFYENIr6QspoGzHExuasMPcJ__-FK9wkpb5BPDI"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "cardiff city vs wrexham",
+      "approx_traffic": 200,
+      "started_at": "2026-08-17T18:30:00+00:00",
+      "related_queries": [
+        "cardiff city vs wrexham"
+      ],
+      "news": [
+        {
+          "title": "Cardiff City vs Wrexham: Championship stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/c94g67lken5kt",
+          "source": "BBC",
+          "published_at": "2026-08-17T18:33:45+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYuY2b3bkyTqSGKKn_HipH7PhLscav9170I_9ki2x27KCWKnuobO19nGoXDv0"
+        },
+        {
+          "title": "Wrexham's Premier League bid: How ready are the Hollywood-owned club from Wales for a Championship promotion race?",
+          "url": "https://www.skysports.com/football/news/11688/13572631/wrexhams-premier-league-bid-how-ready-are-the-hollywood-owned-club-from-wales-for-a-championship-promotion-race",
+          "source": "Sky Sports",
+          "published_at": "2026-08-14T07:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVoT-2_Ka9G0T5f61N8S009uRHqqED7cLq7Z_KS6L1VEsG7yyeF0pYnoaV6Zs"
+        },
+        {
+          "title": "Cardiff vs. Wrexham: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/cardiff-vs-wrexham-preview-predictions-lineups-8-17-26",
+          "source": "Sports Illustrated",
+          "published_at": "2026-08-17T02:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReT0GnKjeIuHKFk3Noos27ZIG4wH_9ZL4IO7cUXStTo27HthIB57aSqgELUj0"
+        },
+        {
+          "title": "Cardiff City vs Wrexham: TV channel, how to watch in UK, kick-off time, live stream, team news",
+          "url": "https://www.espn.in/football/story/_/id/49619383/cardiff-city-vs-wrexham-tv-channel-how-watch-uk-kickoff-live-stream-team-news-efl-championship-2026-27",
+          "source": "ESPN India",
+          "published_at": "2026-08-15T16:54:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tX3AJE_EM3nHKQGUPTgY5werDDMWlUC5gF0b3iuZZkGhEhCXt066Jijds9U"
+        },
+        {
+          "title": "William Hill bonus code R30: Get £30 in football free bets",
+          "url": "https://mybettingsites.co.uk/news/william-hill-bonus-code-r30-get-30-in-football-free-bets-17th-august/",
+          "source": "MyBettingSites.Co.UK",
+          "published_at": "2026-08-17T18:05:15+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSr2Ee7O4LJn7YXYSStSaCIGoOIys15okxg1jAKr1oqwhPfiZPYa4bWMTS7nQ"
+        },
+        {
+          "title": "Coral Free Bets Offer: Get £30 in Free Bets for Cardiff vs Wrexham",
+          "url": "https://www.livescore.com/en/news/football/promotions/coral-free-bets-offer-get-gbp30-in-free-bets-for-cardiff-vs-wrexham/",
+          "source": "LiveScore",
+          "published_at": "2026-08-17T10:07:47+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMmA35odWNm3fkt1rWLybOXNJAceLpuvSTWsUDlJknVA9_38iC14cTNVOJESg"
+        },
+        {
+          "title": "Cardiff vs Wrexham LIVE Score Updates in EFL Championship Match",
+          "url": "https://www.vavel.com/en-us/soccer/2026/08/17/1268169-cardiff-vs-wrexham-live-score-updates-in-efl-champioship-match.html",
+          "source": "VAVEL.com",
+          "published_at": "2026-08-17T17:47:25+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKL3JFiL-8fzmuDE8tnweTmkmDAQ19q3kZvPzUeSJSVN5E8KTIfkZzAiuF3gk"
+        },
+        {
+          "title": "Cardiff City v Wrexham: Changing times as Welsh blockbuster awaits",
+          "url": "https://www.bbc.com/sport/football/articles/c5ye0qekjelo",
+          "source": "BBC",
+          "published_at": "2026-08-17T04:15:48+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOjoaGuuGOMoZIBeqXSFhkurI-LzpfriM0oYSG3u3MWK-9468sd6AKviIZ9-Y"
+        },
+        {
+          "title": "How to watch today's Cardiff City vs Wrexham Championship game: Live stream, TV channel, and start time",
+          "url": "https://www.goal.com/en-gb/news/live-stream-online-tv-where-to-watch-cardiff-city-v-wrexham/blt32470b0f3349c8fa",
+          "source": "Goal.com",
+          "published_at": "2026-08-17T17:31:26+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxesuUz2i9Dt3twZmwhtQV9tkFdftqoUnC9NxhSSMEdmW3nuV7AZptLu3PEMY"
+        },
+        {
+          "title": "Cardiff vs. Wrexham: Preview, Predictions and Lineups",
+          "url": "https://www.fotmob.com/embed/news/01m0010n4hjn/cardiff-vs-wrexham-preview-predictions-lineups",
+          "source": "FotMob",
+          "published_at": "2026-08-17T02:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReT0GnKjeIuHKFk3Noos27ZIG4wH_9ZL4IO7cUXStTo27HthIB57aSqgELUj0"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "jharkhand protest",
+      "approx_traffic": 200,
+      "started_at": "2026-08-17T18:20:00+00:00",
+      "related_queries": [
+        "jharkhand protest"
+      ],
+      "news": [
+        {
+          "title": "Awaiting answers: on the student protests in Jharkhand",
+          "url": "https://www.thehindu.com/opinion/editorial/awaiting-answers-on-the-student-protests-in-jharkhand/article71357240.ece",
+          "source": "The Hindu",
+          "published_at": "2026-08-17T18:50:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSG9xLNL6diEpPtxnDTpR94UCd1dMBuDhUzhABwh9jQa7CviJLi8lCwp9Ax21w"
+        },
+        {
+          "title": "Jharkhand Agrees To Students' Key Demand But Protesters Firm On CBI Probe",
+          "url": "https://www.ndtv.com/india-news/jharkhand-ranchi-protests-key-recruitment-test-will-be-cancelled-says-hemant-soren-after-weeks-of-student-protests-11922607",
+          "source": "NDTV",
+          "published_at": "2026-08-17T16:13:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQP9haPspUipL2dsZBTAzFppfXiO_fYCvzD6UXRdbxvrQy-RLDy3D7cPCyPI0"
+        },
+        {
+          "title": "'Became jobless instantly': JSSC-CGL aspirants who cleared exam slams Jharkhand decision | India News",
+          "url": "https://www.hindustantimes.com/india-news/jharkhand-exams-jssc-cgl-cancel-news-students-protest-hemant-soren-101786985610217.html",
+          "source": "Hindustan Times",
+          "published_at": "2026-08-17T16:56:52+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8g957NKoayQZA8SpgI-wDGMV_WW8y7bppZEPwamksooYaP4hkT7E6mCLHOAA"
+        },
+        {
+          "title": "Jharkhand exam protest enters day 24 as cabinet meets ahead of fresh talks with aspirants",
+          "url": "https://www.telegraphindia.com/india/jharkhand-exam-protest-enters-day-24-as-cabinet-meets-ahead-of-fresh-talks-with-aspirants/cid/2175379",
+          "source": "Telegraph India",
+          "published_at": "2026-08-17T13:03:12+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc8-jxZjd3ay4roo_bBa9bY2eR8e8kXBwd1HadBu-eZ9hixoN1HgyAPYCPlDE"
+        },
+        {
+          "title": "Devendra Mahto ends hunger strike after Jharkhand govt cancels JSSC-CGL exam",
+          "url": "https://www.indiatoday.in/india/story/jharkhand-protests-activist-devendra-mahto-ends-hunger-strike-after-hemant-soren-govt-cancels-jssc-cgl-exam-2973506-2026-08-17",
+          "source": "India Today",
+          "published_at": "2026-08-17T16:42:39+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm7-aP4oTwujgdGPR1BqH-d49SfMBRZSfxXksVsmIxQI0PdtnicsfvzymwbUA"
+        },
+        {
+          "title": "Jharkhand govt gives cancels JSSC-CGL exam, orders probe of work contracted to TDPL since 2014",
+          "url": "https://theprint.in/india/jharkhand-govt-gives-cancels-jssc-cgl-exam-orders-probe-of-work-contracted-to-tdpl-since-2014/3017703/",
+          "source": "ThePrint",
+          "published_at": "2026-08-17T17:00:37+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxsKJ7zcstuvni7xjA2Z6VMbpeIMAZ_SOqXCvqdEIpvjcFSgeK-QwYiZsQiUI"
+        },
+        {
+          "title": "'We need guarantee of such system': Devendra Nath Mahato welcomes JSSC-CGL cancellation by CM Hemant Sor",
+          "url": "https://timesofindia.indiatimes.com/city/ranchi/we-need-guarantee-of-such-system-student-leader-devendra-nath-mahato-welcomes-jssc-cgl-cancellation-by-cm-hemant-soren/articleshow/133301723.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-17T16:48:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHMr5D9VEn8e4avGbU1yZydC5u6A6AonfmCkCRAD7uVEz9LXM2GYBTe8Q9srQ"
+        },
+        {
+          "title": "Soren Govt Accepts Demands to Cancel JSSC-CGL, All Exams Conducted By TDPL",
+          "url": "https://www.thequint.com/news/breaking-news/jssc-cgl-cancelled-student-protests-demands-soren-pressure",
+          "source": "The Quint",
+          "published_at": "2026-08-17T16:47:01+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCyFoRS8ORAvz-Ym2m7VzksJlNJMALX-gZnMccUp3aSTJEo4dAmvWHaJ9-4Qo"
+        },
+        {
+          "title": "Hemant Sorent announces JSSC-CGL exam cancellation; students to continue protest till CBI probe demand is met",
+          "url": "https://www.thehindu.com/news/national/hemant-sorent-announces-jssc-cgl-exam-cancellation-after-emergency-cabinet-meeting/article71357634.ece",
+          "source": "The Hindu",
+          "published_at": "2026-08-17T16:42:19+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhpLXC3Tp7aNU_ffNWGOGXhIMtG3zW8AlzlWj0Ieq1EQdZhe1fXLrJoqc2H6w"
+        },
+        {
+          "title": "Hemant Sorent announces JSSC-CGL exam cancellation; students to continue protest till CBI probe demand is met",
+          "url": "https://www.thehindu.com/news/national/jssc-cgl-exam-cancelled-during-emergency-cabinet-meeting/article71357634.ece",
+          "source": "The Hindu",
+          "published_at": "2026-08-17T16:42:19+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhpLXC3Tp7aNU_ffNWGOGXhIMtG3zW8AlzlWj0Ieq1EQdZhe1fXLrJoqc2H6w"
+        },
+        {
+          "title": "Why faces of CJP’s Jantar Mantar protest are ‘missing’ in Ranchi",
+          "url": "https://indianexpress.com/article/political-pulse/why-faces-of-cjps-jantar-mantar-protest-are-missing-in-ranchi-10836200/",
+          "source": "The Indian Express",
+          "published_at": "2026-08-17T01:45:24+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfhgvGMU-TJC_6g4Kp3HXy993ekWHh8Pa2WWWxx0zPfe6t-qJwiP0FexqKkVU"
+        },
+        {
+          "title": "Why CJP Is Staying Behind The Scenes In Jharkhand Student Protest",
+          "url": "https://www.outlookindia.com/national/why-are-the-faces-of-cjps-jantar-mantar-protest-missing-from-ranchi",
+          "source": "Outlook India",
+          "published_at": "2026-08-17T08:31:50+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xDg8hV65s7nxb0h4e07nS1mZQWF59x5k1UCxUheX8jZKyLb5bn0aRTsgnog"
+        },
+        {
+          "title": "Modi’s BJP Accuses Cockroach Party of Hypocrisy Over Jharkhand",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-11/modi-s-bjp-accuses-cockroach-party-of-hypocrisy-over-jharkhand",
+          "source": "Bloomberg",
+          "published_at": "2026-08-11T06:33:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxI4mXkruIsLrgU6CzU9ZyT-BoW9Yy3u0exclYYk23X507R63Py2s1Qqv0B6Y"
+        },
+        {
+          "title": "Has CJP lost the credibility it earned after being exposed over the Jharkhand protests?",
+          "url": "https://www.newsdrum.in/crux/has-cjp-lost-the-credibility-it-earned-after-being-exposed-over-the-jharkhand-protests-12263893",
+          "source": "NewsDrum",
+          "published_at": "2026-08-15T18:49:21+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzh69hKt7M8l9W_jhFwXbZagKUrbUD9EKSbjjZJkQir8fyA6fAs3LK-PfDhqI"
+        },
+        {
+          "title": "Is BJP using the Jharkhand protest as a political tool to counter pressure from Delhi?",
+          "url": "https://www.tbsnews.net/videos/tbs-world/bjp-using-jharkhand-protest-political-tool-counter-pressure-delhi-1512741",
+          "source": "The Business Standard",
+          "published_at": "2026-08-12T04:55:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLxg7jXeU9s1j6r4SEh5nvbeiUEF3N5U1X7OZq07Z2ATsMiDBFfurisqqcHgw"
+        },
+        {
+          "title": "BJP accuses Cockroach Party of hypocrisy over Jharkhand",
+          "url": "https://www.thehindubusinessline.com/news/bjp-accuses-cockroachparty-of-hypocrisy-over-jharkhand/article71331578.ece",
+          "source": "BusinessLine",
+          "published_at": "2026-08-11T08:46:34+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKsbrGsTD9pZIv6gdGKlkuCtHIVzF0bYNl0-HyMEEuLYSxQ6XubZ9u-xOLHGM"
+        },
+        {
+          "title": "Ashutosh Ranka Exclusive Interview: Why Was CJP Leadership Absent in Jharkhand?",
+          "url": "https://indianexpress.com/videos/explained-video/ashutosh-ranka-exclusive-interview-why-was-cjp-leadership-absent-in-jharkhand-2/",
+          "source": "The Indian Express",
+          "published_at": "2026-08-08T14:30:14+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGxgAb6VEqlySdROp-LTftyNPVzg-8XjPSzC-4tByrtGapwT4D5FBQO8X0vY4"
+        },
+        {
+          "title": "Jharkhand protest: CID raids JSSC office as talks resume; 6 protesters on hunger strike - top development",
+          "url": "https://timesofindia.indiatimes.com/india/jharkhand-protest-cid-raids-jssc-office-as-talks-resume-6-protesters-on-hunger-strike-top-developments/articleshow/133292546.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-17T09:42:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvGfYvscPpQNStahO-ThedW_JopX_vjJ2Pfv807otWWjkEUc-QUFcZxTvoF5A"
+        },
+        {
+          "title": "CID begins raids at JSSC office in connection with Jharkhand recruitment exam 'irregularities'",
+          "url": "https://www.newindianexpress.com/india/2026/Aug/17/cid-begins-raids-at-jssc-office-in-connection-with-jharkhand-recruitment-exam-irregularities",
+          "source": "The New Indian Express",
+          "published_at": "2026-08-17T14:02:36+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ01Pdg81s6pD0joWbFKGkUz3fWnwYno3Jji-gbOm9UDa-IXCSdQ5TU1grCRgE"
+        },
+        {
+          "title": "Cases to Arrests: Murky Past of TDPL, Firm at Centre of Jharkhand Exam Crisis",
+          "url": "https://www.thequint.com/news/politics/jharkhand-exam-crisis-tdpl-blacklist-arrests-alleged-irregularities-cid-probe",
+          "source": "The Quint",
+          "published_at": "2026-08-17T07:43:13+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaYxFcNGGpSjAGHJuiCGarnDPkwfJXAQwUHK8d9crchKpocgeedwNqHdxNvz8"
+        },
+        {
+          "title": "CID raids Jharkhand Staff Selection Commission office in Ranchi over exam irregularities",
+          "url": "https://www.telegraphindia.com/india/cid-raids-jharkhand-staff-selection-commission-office-in-ranchi-over-recruitment-exam-irregularities/cid/2175335",
+          "source": "Telegraph India",
+          "published_at": "2026-08-17T08:46:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEmLZb98LpeSKiDhkBlm5DXV231AGHOr8ij4ytLb411hPX2_x9E-wexPhTltY"
+        },
+        {
+          "title": "Jharkhand:",
+          "url": "https://www.thehindu.com/news/national/jharkhand/cid-raids-at-jssc-office-in-connection-with-jharkhand-recruitment-exam-irregularities/article71355600.ece",
+          "source": "The Hindu",
+          "published_at": "2026-08-17T09:22:22+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeaXikC5YI_CaNrkiKLK8W7BpLM0zf7HEXVjam7lUyV1C9Fw7ihKbJ0dsLdmc"
+        },
+        {
+          "title": "\"Govt's intentions are not right\": Babulal Marandi accuses Jharkhand govt of delaying talks with protesting students",
+          "url": "https://www.aninews.in/news/national/general-news/govts-intentions-are-not-right-babulal-marandi-accuses-jharkhand-govt-of-delaying-talks-with-protesting-students20260817164227",
+          "source": "ANI News",
+          "published_at": "2026-08-17T11:12:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLw6gf7Yb645QZZvQShZ1qK5lEmpt3ouuJbOjw7pRsK9F7KVFJE7_tkZtOdNU"
+        },
+        {
+          "title": "CID arrests Ajita Bhattacharya's PA for extorting Rs 40 lakh to manage JPSC interviews",
+          "url": "https://www.indiatvnews.com/jharkhand/cid-arrests-ajita-bhattacharya-pa-for-extorting-rs-40-lakh-to-manage-jpsc-interviews-latest-updates-2026-08-17-1051643",
+          "source": "India TV News",
+          "published_at": "2026-08-17T14:39:42+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yTvCPStkvWb4GJhmuzLqADnF3zyh82IZR8SARQLfo0xhDRSWue-xHGg85DE"
+        },
+        {
+          "title": "CID Examines Claims of OMR and Result Manipulation in JPSC Examinations",
+          "url": "https://the420.in/jpsc-exam-scam-omr-result-manipulation-16-lakh-payment/",
+          "source": "The420.in",
+          "published_at": "2026-08-17T15:36:48+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFaMv78Ori6IrI-a2kc7qg2CPTWMdz4jXDbG6MSPRGrulkB4F6hfYAnDNZle0"
+        },
+        {
+          "title": "CID raids Jharkhand Staff Selection Commission office over exam irregularities amid protest | India News",
+          "url": "https://www.hindustantimes.com/india-news/cid-raids-jharkhand-staff-selection-commission-office-over-exam-irregularities-amid-protest-jssc-jpsc-101786956296980.html",
+          "source": "Hindustan Times",
+          "published_at": "2026-08-17T08:49:29+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIAqn00bvdQpZgu8_J4ESyysoXoXva4H6u5SvTIkeA18DcCQNctGdsaRVPoS4"
+        },
+        {
+          "title": "CID raids underway at JSSC office in connection with Jharkhand recruitment exam 'irregularities'",
+          "url": "https://www.deccanherald.com/india/jharkhand/cid-raids-underway-at-jssc-office-in-connection-with-jharkhand-recruitment-exam-irregularities-4113958",
+          "source": "Deccan Herald",
+          "published_at": "2026-08-17T10:05:14+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhbzawZ25WAzA1h3Au7_DGRli1aTe0oXys-eHiFsVLwefmbml0wA5SWvmip8U"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "anna kalinskaya",
+      "approx_traffic": 200,
+      "started_at": "2026-08-17T18:30:00+00:00",
+      "related_queries": [
+        "anna kalinskaya"
+      ],
+      "news": [
+        {
+          "title": "Sorana Cirstea vs. Anna Kalinskaya prediction, odds, picks for WTA Cincinnati Open 2026",
+          "url": "https://www.dimers.com/tennis/news/sorana-cirstea-vs-anna-kalinskaya-tennis-prediction-wta-cincinnati-open-2026-ac",
+          "source": "Dimers",
+          "published_at": "2026-08-16T07:04:19+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSArVGAFkZHPfStJIdCJwlDeZrSqLbXxzn6tqTaR5CrWHOFd2P9I-dmF4DUig"
+        },
+        {
+          "title": "Sorana Cirstea vs Anna Kalinskaya Prediction & Picks - WTA Cincinnati Open",
+          "url": "https://www.sportytrader.com/us/picks/sorana-cirstea-anna-kalinskaya-366247/",
+          "source": "SportyTrader",
+          "published_at": "2026-08-17T07:41:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR00cV6lnGo5Ib1AHuaEoONRsMJjjAiYKP-ri0rOlCNrNEyARC1GAS2NgrchmM"
+        },
+        {
+          "title": "Video : Emma Navarro defeats Anhelina Kalinina at Cincinnati 2026 – Round 2",
+          "url": "https://en.tennistemple.com/video/emma-navarro-defeats-anhelina-kalinina-at/OHIWo",
+          "source": "TennisTemple",
+          "published_at": "2026-08-16T00:26:14+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDfIljGrjFGL7ztKA1SVDKnzhAgvhDky9_4Hh5k3iY3E9TJ7dDC7j-ZQgZ7fY"
+        },
+        {
+          "title": "Navarro vs. Pegula: Preview, How to Watch, Odds",
+          "url": "https://news.bet365.com/en-us/article/navarro-vs-pegula-preview-how-to-watch-odds/2026081715130262155",
+          "source": "bet365",
+          "published_at": "2026-08-17T15:32:39+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQF_fCuHi07XtNFFeqBeXcJCngTVcSom5pXPvKSsdk5rYUExpbTf056awEX1FM"
+        },
+        {
+          "title": "WTA Cincinnati Third Round Best Bets Including Emma Navarro vs Jessica Pegula",
+          "url": "https://lastwordonsports.com/tennis/2026/08/16/wta-cincinnati-navarro-pegula/",
+          "source": "Last Word On Sports",
+          "published_at": "2026-08-17T03:47:11+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXJf5kEmWyFnj9LaErWVDWiYOY3qqqx038yoNwm9Kt5Gf3mSxeWnz1SQBDR6w"
+        },
+        {
+          "title": "Emma Navarro vs. Jessica Pegula prediction, odds, picks for WTA Cincinnati Open 2026",
+          "url": "https://www.dimers.com/tennis/news/emma-navarro-vs-jessica-pegula-tennis-prediction-wta-cincinnati-open-2026-ac",
+          "source": "Dimers",
+          "published_at": "2026-08-16T07:04:03+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV7_bxojIC7qr23V8egQXuV-joSz_rgxXEd9lVrGcYuyFF4htK2cDw_Svlc6Y"
+        },
+        {
+          "title": "All About Emma Navarro and Jessica Pegula’s Form and Fitness Status Ahead of Cincinnati Open Clash",
+          "url": "https://www.profootballnetwork.com/tennis/emma-navarro-jessica-pegula-form-fitness-status-cincinnati-open/",
+          "source": "PFSN",
+          "published_at": "2026-08-17T17:55:29+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIuM9ge8AicfSD6kPywMDZ5HIEe5EcQKSRbVkPIeszXQs2ib_kbL7YZYZR6ug"
+        },
+        {
+          "title": "Emma Navarro vs Jessica Pegula Prediction & Picks - WTA Cincinnati Open",
+          "url": "https://www.sportytrader.com/us/picks/emma-navarro-jessica-pegula-366155/",
+          "source": "SportyTrader",
+          "published_at": "2026-08-16T17:47:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxJ9aACG_puSHwmsUh_rrlwKvVr_X8d3BvRe2EUtXUMLb5GlkV1_bd5VDMLE"
+        },
+        {
+          "title": "Emma Navarro vs. Anhelina Kalinina prediction, odds, picks for WTA Cincinnati Open 2026",
+          "url": "https://www.dimers.com/tennis/news/emma-navarro-vs-anhelina-kalinina-tennis-prediction-wta-cincinnati-open-2026-ac",
+          "source": "Dimers",
+          "published_at": "2026-08-14T21:32:29+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDGVrLY3etKwP1TqO4nPg6uHg8eHgXjt22V4kbNYEIIscN0RkTxvKyX8LW7GA"
+        },
+        {
+          "title": "WTA Cincinnati Day 5 Predictions Including Jessica Pegula vs Emma Navarro",
+          "url": "https://lastwordonsports.com/tennis/2026/08/16/wta-cincinnati-day-5-predictions-pegula-navarro/",
+          "source": "Last Word On Sports",
+          "published_at": "2026-08-16T19:41:25+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0x7DoMJ_mHHKKK9NaIT-0hfMC9ORbgr3bpPr6ipsj4tKF181sOR92HRAdyFc"
+        },
+        {
+          "title": "Jessica Pegula reveals plan to peak at US Open after mixed summer",
+          "url": "https://www.tennisworldusa.org/tennis/news/WTA_Tennis/168837/jessica-pegula-reveals-plan-to-peak-at-us-open-after-mixed-summer/",
+          "source": "Tennis World USA",
+          "published_at": "2026-08-17T14:00:34+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzkwLSfUJnicb0icc6wENtzhRc39FlHN1n0uPUkUO1cbwR6a1x-lVGYL7SExM"
+        },
+        {
+          "title": "Simona Waltert vs. Petra Marcinko prediction, odds, picks for WTA Cincinnati Open 2026",
+          "url": "https://www.dimers.com/tennis/news/simona-waltert-vs-petra-marcinko-tennis-prediction-wta-cincinnati-open-2026-ac",
+          "source": "Dimers",
+          "published_at": "2026-08-13T08:57:23+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq2jDKaQA5E96FHXQ01JTyzNuI_8cmkM7x1G6DhbxiCInh-a4HBUNSUuQrJhE"
+        },
+        {
+          "title": "Jessica Pegula can now tie Serena Williams' personal record after winning her opening match in Cincinnati",
+          "url": "https://tennishead.net/jessica-pegula-can-now-tie-serena-williams-personal-record-after-winning-her-opening-match-in-cincinnati/",
+          "source": "Tennishead",
+          "published_at": "2026-08-16T20:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcST6Uwd7ONSPeHLgPmPG03J9buH8cVoS4GbSU9YBLI8EmMZgvWxMgDSXEZ_uxw"
+        },
+        {
+          "title": "WTA Cincinnati Day 3 Predictions Including Jessica Pegula vs Simona Waltert",
+          "url": "https://lastwordonsports.com/tennis/2026/08/14/wta-cincinnati-day-3-predictions-pegula-vs-waltert/",
+          "source": "Last Word On Sports",
+          "published_at": "2026-08-15T02:57:12+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlnlEY8g9cLu1CfXSMsQetSv_Mh9rA5FhNd25WDoJ6bKGA6ClzDS5c9-sMBpE"
+        },
+        {
+          "title": "Jessica Pegula feeds off crowd energy to advance in Cincinnati opening match",
+          "url": "https://www.wtatennis.com/videos/4561159/problem-solving-from-the-baseline-guides-jessica-pegula-past-a-tricky-opponent",
+          "source": "WTA Tennis",
+          "published_at": "2026-08-17T13:20:02+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2BZf86UKxHZDO9itCf1aJ4cJX92Ab2SotEXkh4CmunkwS-4FSWfTH7jUyjk"
+        },
+        {
+          "title": "'That’s the goal, right?': Jessica Pegula sets her sights on peaking at the US Open after Cincinnati win",
+          "url": "https://www.yardbarker.com/tennis/articles/thats_the_goal_right_jessica_pegula_sets_her_sights_on_peaking_at_the_us_open_after_cincinnati_win/s1_17460_44183402",
+          "source": "Yardbarker",
+          "published_at": "2026-08-16T21:32:58+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbKKJEwE51AHDcdw0MkOEa4gGu57GWPMEm0T5MWdlQHRp55qRSHeGY_0Lb_Fo"
+        },
+        {
+          "title": "Jessica Pegula visualizes winning first Grand Slam at 'favorite place to play'",
+          "url": "https://www.usatoday.com/story/sports/tennis/open/2026/08/17/jessica-pegula-us-open-grand-slam/91331859007/",
+          "source": "USA Today",
+          "published_at": "2026-08-17T14:01:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVZA_3TxMVh5f8gLSvPLXXCQgf7jBnP8PDYf2imDaCMiqhJ73AG0VZIcDwqT8"
+        },
+        {
+          "title": "Jessica Pegula shares how she’s feeling physically ahead of the US Open after setting goal to win the title",
+          "url": "https://tennishead.net/jessica-pegula-shares-how-shes-feeling-physically-ahead-of-the-us-open-after-setting-goal-to-win-the-title/",
+          "source": "Tennishead",
+          "published_at": "2026-08-16T17:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjNgvdSu8Br9nzB44RSLMkShaprly9cJCbUiDPlXvx_p_xDEuF2P9KDA54Ofs"
+        },
+        {
+          "title": "Former finalist Pegula, Wimbledon champion Noskova reach third round in Cincinnati",
+          "url": "https://www.wtatennis.com/news/4560305/former-finalist-pegula-wimbledon-champion-noskova-reach-third-round-in-cincinnati",
+          "source": "WTA Tennis",
+          "published_at": "2026-08-16T04:03:04+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSulaEjf0t_vpsfIs5tJYH_5aMRy1D4Gib3HVRJv9l5C4oFIZsfqa8ZawcYuso"
+        },
+        {
+          "title": "Jess Pegula Talks Pursuit of First US Open Title",
+          "url": "https://sports.yahoo.com/articles/jess-pegula-talks-pursuit-first-140051884.html",
+          "source": "Yahoo Sports",
+          "published_at": "2026-08-17T14:00:51+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTM1dCRWXSvfTLR6kE5VE6lgBXE35AXC7kHmx7Igcjjlmj55IZ5G8wE7aqwcJE"
+        }
+      ]
+    }
+  ]
+}
