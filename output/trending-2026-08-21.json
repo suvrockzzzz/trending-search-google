@@ -1,0 +1,1344 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-08-21T19:06:56.847678+00:00",
+  "window_days": 4,
+  "count": 8,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "arsenal",
+      "approx_traffic": 2000,
+      "started_at": "2026-08-21T18:30:00+00:00",
+      "related_queries": [
+        "arsenal",
+        "arsenal f.c."
+      ],
+      "news": [
+        {
+          "title": "Arsenal vs. Coventry line-ups: Premier League 2026-27 predicted XIs",
+          "url": "https://www.espn.in/football/story/_/id/49659682/arsenal-coventry-line-ups-predicted-premier-league-xis",
+          "source": "ESPN India",
+          "published_at": "2026-08-21T06:29:35+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3Eb1CSusLJ5uTicDmj9zJhqcUw40M8CuI50_w5fSllCHgbxrcL0phA-eLELM"
+        },
+        {
+          "title": "Football Daily | Premier League predictions are a mug’s game – Arsenal for the title!",
+          "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-predictions-football-daily-newsletter",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T15:56:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR13Il7zvuVrW0fs3KVJw0qPt_p22Ed-JVUrKgOB72NMlIAzmlYDFfS911Icns"
+        },
+        {
+          "title": "Inside Training: Getting set for curtain raiser",
+          "url": "https://www.arsenal.com/news/inside-training-getting-set-for-curtain-raiser-au2Xk4T2YFOD",
+          "source": "Arsenal.com",
+          "published_at": "2026-08-21T12:20:17+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP6E57te6jzRr0KaDrA6NSIiospji7FmIxp0bK6-gL0J3YEbW7TF17cF5_1hM"
+        },
+        {
+          "title": "Viktor Gyokeres: Arsenal striker proud of contribution to last season",
+          "url": "https://www.bbc.com/sport/football/videos/cy5dxg3kv6eo",
+          "source": "BBC",
+          "published_at": "2026-08-21T12:48:11+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmNXo8Mb4aJHCi_n0PQxTKjOCyIKxaMn50z-BcRIiYo7DPu5wWDUApSUimAeA"
+        },
+        {
+          "title": "Arsenal v Coventry City: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T18:30:51+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaZlPe4T56q6yl11Ib7uLFFEX_USkW5bVU-tVcqQopvP1uWWJEBpGVBY6W2oU"
+        },
+        {
+          "title": "Arsenal v Coventry City: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live?page=with:block-6a888f748f08582f53531740",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T17:58:01+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaZlPe4T56q6yl11Ib7uLFFEX_USkW5bVU-tVcqQopvP1uWWJEBpGVBY6W2oU"
+        },
+        {
+          "title": "Bruno Guimaraes faces weeks on the sidelines as Arsenal suffer major injury blow at the start of the season",
+          "url": "https://www.goal.com/en-in/lists/bruno-guimaraes-faces-weeks-sidelines-arsenal-suffer-major-injury-start-season/blt94b926204cd5ad57",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T18:22:56+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaMeFUryn4IpFN5ENGhTZaF4b9ze6WFYLta90OewCt8vXbB6RPbt8JzF-kuPQ"
+        },
+        {
+          "title": "Arsenal vs Coventry LIVE: Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league",
+          "source": "Al Jazeera",
+          "published_at": "2026-08-21T16:23:50+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1xP9dSxpbZurhZHB8ut6_WG-2d70wzeEvtjzjTjmcc9vgQXWpbZ6THN3SQY"
+        },
+        {
+          "title": "Mikel Arteta reveals Bruno Guimaraes injury latest in new four-man Arsenal update",
+          "url": "https://www.standard.co.uk/sport/football/arsenal-fc-bruno-guimaraes-injury-latest-arteta-b1294088.html",
+          "source": "London Evening Standard",
+          "published_at": "2026-08-21T08:55:08+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCwMQO_8h2jbpOnbL3soBYF83nfqVXVNbiUag3DT233BwOl2sSR-clK7KiURs"
+        },
+        {
+          "title": "Arsenal and Coventry teams released",
+          "url": "https://onefootball.com/en/news/arsenal-and-coventry-teams-released-43315144",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T17:48:58+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQzOI_cRoRQZftJForseFgZlL6xObRdGID8K55lgjT13WFu17unCbxHsNBRXc"
+        },
+        {
+          "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
+          "url": "https://www.bbc.com/sport/football/articles/ckg97jpkkego",
+          "source": "BBC",
+          "published_at": "2026-08-21T15:20:45+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-0JlJxFAbFi1sRDfcnFN6nc7V39DGR6McvOSB0Z-s9ERVDYm3IerPpN51S78"
+        },
+        {
+          "title": "Konsa joins Arsenal; Shakhtar to play European home games at Chelsea: football news – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T17:03:46+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrbM1S0NFI_gEJjtdMp_7JXAgirF1NyA_J-TgMHBgqdlPLdDfOMlXOrRBTOU"
+        },
+        {
+          "title": "Ezri Konsa: I want to keep winning",
+          "url": "https://www.arsenal.com/news/ezri-konsa-i-want-to-keep-winning-aBPOU6S49YO8",
+          "source": "Arsenal.com",
+          "published_at": "2026-08-21T15:05:31+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuvDzOYmPJMBdZlORI368kDH4e-wpck9vZIGXj8dDYjcPf1diSx55IPTobb3s"
+        },
+        {
+          "title": "Arsenal sign Konsa from Villa as Premier League holders bolster defence",
+          "url": "https://www.aljazeera.com/sports/2026/8/21/arsenal-sign-konsa-from-villa-as-premier-league-holders-bolster-defence",
+          "source": "Al Jazeera",
+          "published_at": "2026-08-21T17:41:53+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzlEYn8ENp2jS9aWB93lgbdhwcmZuGVV617JVsfvMe-WA2AD35GoG9zUUxfog"
+        },
+        {
+          "title": "Inside Ezri Konsa’s transfer to Arsenal: Decision on price, homegrown issue and chat with Arteta - The Athletic",
+          "url": "https://www.nytimes.com/athletic/7526325/2026/08/21/ezri-konsa-transfer-arsenal-villa-arteta-homegrown/",
+          "source": "The New York Times",
+          "published_at": "2026-08-21T14:48:36+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRi01S--9CN3aiMqfmvU3FqTtKNR1u_u5uvAbj8l_Iovcf7B3KsX1tKEA0K95g"
+        },
+        {
+          "title": "Ezri Konsa joins Premier League champions Arsenal from Aston Villa",
+          "url": "https://www.espn.in/football/story/_/id/49668045/ezri-konsa-joins-premier-league-champions-arsenal-aston-villa",
+          "source": "ESPN India",
+          "published_at": "2026-08-21T15:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YV0T_DiI8vD2UIPocv7FaDfF7k2AyBChlXraeIXV_B01USBcK5mGoiweYsg"
+        },
+        {
+          "title": "Konsa to Arsenal? Arteta gives transfer update for Gunners before Premier League opener",
+          "url": "https://sportstar.thehindu.com/football/epl/ezri-konsa-transfer-to-arsenal-arteta-update-on-new-transfers-potential-ins-and-outs-premier-league/article71370360.ece",
+          "source": "Sportstar",
+          "published_at": "2026-08-20T15:55:38+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnwxwRKCndavJoR06gh0cNprBaagDeaVYgd5ZU9qOa0R-nFMY7XEntaUsIPio"
+        },
+        {
+          "title": "Ezri Konsa signs for Arsenal",
+          "url": "https://www.arsenal.com/news/ezri-konsa-signs-for-arsenal-anWPZ2q36a9e",
+          "source": "Arsenal.com",
+          "published_at": "2026-08-21T15:01:43+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQEsBb3eDkAG6NFTHjokEt_n1ljtRBLtRyPrUMa6popW4v6xEdl0e68uieSdI"
+        },
+        {
+          "title": "'Arteta's style suits me' - Konsa 'can't wait to get going' at Arsenal",
+          "url": "https://www.bbc.com/sport/football/articles/czxe93ydy72o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+          "source": "BBC",
+          "published_at": "2026-08-21T15:32:35+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRZ0VZbgmo1J0BIPQlAruutSwzLpbebGSGq3ADLyaG7HkulcOeG7lAvLONDEg"
+        },
+        {
+          "title": "Konsa joins Arsenal; Shakhtar to play European home games at Chelsea: football news – as it happened",
+          "url": "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live?page=with:block-6a88479b8f089694d1d59e90",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T08:12:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrbM1S0NFI_gEJjtdMp_7JXAgirF1NyA_J-TgMHBgqdlPLdDfOMlXOrRBTOU"
+        },
+        {
+          "title": "Every word from Mikel Arteta's pre-Coventry presser",
+          "url": "https://www.arsenal.com/news/every-word-from-mikel-artetas-pre-coventry-presser-agLtL1y0uKj3",
+          "source": "Arsenal.com",
+          "published_at": "2026-08-21T06:53:30+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7BAxD0vZZx8Zc-Z3Crwhf0T3eJ2pCuW4B9NbWCIXRfkFpkrs7cixGUh5A2KY"
+        },
+        {
+          "title": "Mikel Arteta relishing prospect of Arsenal being 'hunted' in Premier League title race",
+          "url": "https://www.espn.in/football/story/_/id/49669179/mikel-arteta-relishing-prospect-arsenal-being-hunted-premier-league-title-race",
+          "source": "ESPN India",
+          "published_at": "2026-08-20T11:50:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-LVQOuS8QMlhHJAuv8KgIfv_Mm0sobPKCjQm1cGGLHqoh0S5wqHpcEH7hga0"
+        },
+        {
+          "title": "Arteta demands ‘desire and ambition’ for title defence and says Lewis-Skelly will stay",
+          "url": "https://www.theguardian.com/football/2026/aug/20/arteta-desire-ambition-title-defence-myles-lewis-skelly-will-stay-arsenal",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T01:30:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHY3ARClEqbXTXqYwOQbRTqp1LAUlbnEXyyBl-ojxOtu5KKyhqrVSQU6u9tzw"
+        },
+        {
+          "title": "Premier League 2026-27: Champions Arsenal embrace being 'hunted' as new season begins",
+          "url": "https://www.thehindu.com/sport/football/premier-league-2026-27-champions-arsenal-embrace-being-hunted-as-new-season-begins/article71373007.ece",
+          "source": "The Hindu",
+          "published_at": "2026-08-21T10:52:20+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ScuR0ZttJ5efrPj16eSR7vzHhtFmDLWsZD0JHS06klcfV7gUGOhQ-9G4_RY"
+        },
+        {
+          "title": "Arsenal: Mikel Arteta says Premier League champions 'hungrier than ever'",
+          "url": "https://www.bbc.com/sport/football/videos/czdm9pd5jr8o",
+          "source": "BBC",
+          "published_at": "2026-08-20T16:56:29+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwT4hV7p6OFCnIg_wlfDuaX_xpK-eZ_3kexSGuAVRPWUspSXj6nvm3M27LYcE"
+        },
+        {
+          "title": "Arteta lays down challenge to Arsenal players",
+          "url": "https://onefootball.com/en/video/arteta-lays-down-challenge-to-arsenal-players-3IBkAIAqYFP9erfQ6dJcfcijUOc",
+          "source": "OneFootball",
+          "published_at": "2026-08-20T16:33:24+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2PKo8W792RQ4U_rz5aD2gdzYot__3kuhFvDruAC5p85Ungs9rRDA1kTg-0kA"
+        },
+        {
+          "title": "Arteta looks to build Arsenal dynasty",
+          "url": "https://www.chinadaily.com.cn/a/202608/21/WS6a877de9a3106bc57421c9fc.html",
+          "source": "China Daily",
+          "published_at": "2026-08-20T22:21:21+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPPk5rJgKekzEMysDMv45BPZDKljCWsH2iXB0TK6JY56D0BIUO0cKkyVJfKw"
+        },
+        {
+          "title": "Mikel Arteta just admitted something about pressure most managers wouldn't say out loud",
+          "url": "https://paininthearsenal.com/mikel-arteta-just-admitted-something-about-pressure-most-managers-wouldn-t-say-out-loud-01m0gnb75k4p",
+          "source": "Pain in the Arsenal",
+          "published_at": "2026-08-20T23:10:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRB1zjVu4GNs_-Py5H91593xK5c3A0X_7GkF3vx2zalBnGhyU7ebC47GOKeQuw"
+        },
+        {
+          "title": "A message from Stan and Josh Kroenke before Coventry",
+          "url": "https://www.arsenal.com/news/a-message-from-stan-and-josh-kroenke-before-coventry-aYfmI5b0AtKb",
+          "source": "Arsenal.com",
+          "published_at": "2026-08-21T07:42:25+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQ0-UaISXHp8UMl-6iI2nyWRHy3OdOoDSj9CUO82f479V_VHd-52KUopHEW4"
+        },
+        {
+          "title": "'Building a beast' - Arteta on Arsenal pushing for title again",
+          "url": "https://www.bbc.com/sport/football/articles/cd69djevgw6o",
+          "source": "BBC",
+          "published_at": "2026-08-19T10:37:51+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQgPQQU7qetiOK0Ydjmh22_4En_wFugfgDlzPBY0sbtX0hzrZzzq7i1SN9J8U"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "betis vs real sociedad",
+      "approx_traffic": 1000,
+      "started_at": "2026-08-21T18:10:00+00:00",
+      "related_queries": [
+        "betis vs real sociedad"
+      ],
+      "news": [
+        {
+          "title": "Real Betis vs Real Sociedad: Spanish La Liga stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/cmz644qxd96yt",
+          "source": "BBC",
+          "published_at": "2026-08-21T16:48:52+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw"
+        },
+        {
+          "title": "Betis v Real Sociedad line-ups, Oyarzabal benched as Fran García and Bernal start",
+          "url": "https://onefootball.com/en/news/betis-v-real-sociedad-line-ups-oyarzabal-benched-as-fran-garcia-and-bernal-start-43315355",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T16:00:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXp6WAjZnGjc5D1WW83yvadtIkB6M3nOp6ysuBtqHJda22gkkgAABr9Iw9UYI"
+        },
+        {
+          "title": "Licensable video: Matarazzo considers Real Sociedad “ready” for its league debut against Real Betis",
+          "url": "https://www.reutersconnect.com/item/matarazzo-considers-real-sociedad-ready-for-its-league-debut-against-real-betis/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxMTg4MDA3MDAx",
+          "source": "Reuters Connect",
+          "published_at": "2026-08-20T15:51:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdKk0zzfd0Te4o_WO8UGR10XS2HkrTiMr-973a9GdS4I-cEZpcdNckRXah5ho"
+        },
+        {
+          "title": "Real Betis vs. Real Sociedad prediction, where to watch, time for La Liga match",
+          "url": "https://www.usatoday.com/story/sports/soccer/2026/08/21/where-to-watch-real-betis-real-sociedad-prediction-odds-stream/91384219007/",
+          "source": "USA Today",
+          "published_at": "2026-08-21T11:01:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi_2KGhE-MoJVqG4edAFWlBhU-uvyiEmg3fB4akigjpvWheReQJtSzfXg9SH4"
+        },
+        {
+          "title": "🚨 Confirmed line-ups: Betis and La Real face off to kick off their campaign",
+          "url": "https://ca.sports.yahoo.com/news/confirmed-line-ups-betis-la-175500372.html",
+          "source": "Yahoo Sports Canada",
+          "published_at": "2026-08-21T17:55:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStwTF7fzSNag1UktvLmL0QHOeZ2ap2_4Jy8ibV86yAbvJPgM4BWCi1li2aAYk"
+        },
+        {
+          "title": "How to watch Real Sociedad vs. Real Betis in the U.S.: TV channel and streaming options for August 21",
+          "url": "https://www.nytimes.com/athletic/7528947/2026/08/21/real-sociedad-vs-real-betis-stream-how-to-watch-la-liga-aug-21/",
+          "source": "The New York Times",
+          "published_at": "2026-08-21T11:09:05+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2BqnB20NP93Q1KR9A47sR_PNb1H7JmraVluXrMA7n0HJRPtHmps1Ko4hGxVs"
+        },
+        {
+          "title": "How to live stream Real Betis vs Real Sociedad: La Liga, TV channel",
+          "url": "https://www.thebiglead.com/how-to-live-stream-real-betis-vs-real-sociedad-la-liga-tv-channel/",
+          "source": "The Big Lead",
+          "published_at": "2026-08-21T17:45:43+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWwwngF8d3ObntaZTRRiCifKnW-8IJTiDPjD6eAacOEK3eD73f1vz8xRdo6Lc"
+        },
+        {
+          "title": "Real Betis vs Real Sociedad: LaLiga pregame report",
+          "url": "https://www.sofascore.com/news/real-betis-vs-real-sociedad-preview-form-h2h-and-lineups",
+          "source": "Sofascore",
+          "published_at": "2026-08-21T08:33:35+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRd-y21x-GJI8uKtYLO89HveCIMFSfhGppOMwwc2R15L6innxR-UZ0iBIyjyQ"
+        },
+        {
+          "title": "Silence, the Copa del Rey holders are playing",
+          "url": "https://onefootball.com/en/news/silence-the-copa-del-rey-holders-are-playing-43310717",
+          "source": "OneFootball",
+          "published_at": "2026-08-20T23:45:39+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMg3-AdEkVmCa6kYgBIUjK0DapKvIJJxpQdJdPT-rXQ-_5IS7i7vx9RZwzQBE"
+        },
+        {
+          "title": "Betis expected XI for home bow against Real Sociedad",
+          "url": "https://onefootball.com/en/news/betis-expected-xi-for-home-bow-against-real-sociedad-43310831",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T00:27:53+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMg3-AdEkVmCa6kYgBIUjK0DapKvIJJxpQdJdPT-rXQ-_5IS7i7vx9RZwzQBE"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "christos tzolis",
+      "approx_traffic": 1000,
+      "started_at": "2026-08-21T18:30:00+00:00",
+      "related_queries": [
+        "christos tzolis"
+      ],
+      "news": [
+        {
+          "title": "“His decision-making” Gyokeres praises Arsenal’s summer signing",
+          "url": "https://onefootball.com/en/news/his-decision-making-gyokeres-praises-arsenals-summer-signing-43307649",
+          "source": "OneFootball",
+          "published_at": "2026-08-20T13:06:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDjvLCOPk9KC8H7ZyR0neQ8YqXYemtJMUpHt9lD6TwvtsHm-h02vZzN0TcK4Q"
+        },
+        {
+          "title": "Christos Tzolis is quietly answering the Bradley Barcola question already",
+          "url": "https://paininthearsenal.com/christos-tzolis-is-quietly-answering-the-bradley-barcola-question-already-01m0dqq3s4yw",
+          "source": "Pain in the Arsenal",
+          "published_at": "2026-08-19T19:40:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwiCmHHLNOSa3-IirKsMrB7flDFlPaK9l8I1Ru46FXwdmMljX0fVpSJyP8LKI"
+        },
+        {
+          "title": "How Tzolis could supercharg­e the Gunners",
+          "url": "https://www.pressreader.com/uk/the-london-standard/20260820/282467125733578",
+          "source": "PressReader",
+          "published_at": "2026-08-20T15:11:27+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsDkt4CWIuH6jC7TFmVl9DNs-r9F9ArtBBN0gpgSu3yVfedQ3clLj5X6bsDOM"
+        },
+        {
+          "title": "Arsenal 3-0 Manchester City analysis: Christos Tzolis stars for Gunners",
+          "url": "https://www.bbc.com/sport/football/articles/cj9ddp2ggnjo",
+          "source": "BBC",
+          "published_at": "2026-08-16T16:29:37+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXCUNDzp4S5o_HmPu6Xjqj3vgL3XXLeE8O9AebBrCUillOJEeOwKDW7MCSWuY"
+        },
+        {
+          "title": "Why Arsenal’s under-the-radar signing could be their biggest addition",
+          "url": "https://www.dazn.com/en-US/news/soccer/arsenal-under-the-radar-signing-tzolis/btdc73afqmhy15t8097z3a2e6",
+          "source": "DAZN",
+          "published_at": "2026-08-21T07:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQabUPZLigZuAnWQR0uXQq2gZncJMAzoD2nOFITl5eJ-xaZ302mB5MMggEmj8g"
+        },
+        {
+          "title": "Will Christos Tzolis start for Arsenal? New Gunner eyes debut against Coventry",
+          "url": "https://sports.yahoo.com/articles/christos-tzolis-start-arsenal-gunner-090832987.html",
+          "source": "Yahoo Sports",
+          "published_at": "2026-08-21T09:08:32+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWcJQShD8xSggvluUZL3oawtzBEAoPQeVjzacZHyi5ntqpM7XHrGi7-tbile0"
+        },
+        {
+          "title": "Viktor Gyokeres praises new Arsenal signing and makes Premier League title claim",
+          "url": "https://metro.co.uk/2026/08/19/viktor-gyokeres-praises-new-arsenal-signing-makes-premier-league-title-claim-29415606/",
+          "source": "Metro.co.uk",
+          "published_at": "2026-08-19T16:53:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5d8mRi2GNt9M-JsHpdew0RBuW9_oKdxiIh4FvX33_Oj7Pe5u0n5-G0qipUy8"
+        },
+        {
+          "title": "'He was decisive' - Mikel Arteta on new signing Christos Tzolis",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cly88wl1mvno",
+          "source": "BBC",
+          "published_at": "2026-08-16T18:45:23+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPW7Y5EqONhMnKRD7TovasxaYe14KFyURI7fvfSPWFelfAi2bkLqIaPvHakCw"
+        },
+        {
+          "title": "Norwich City struggles to debut assists - Christos Tzolis can become Arsenal's new gem",
+          "url": "https://www.bbc.com/sport/football/articles/cwyee2rl9yjo",
+          "source": "BBC",
+          "published_at": "2026-08-16T18:59:27+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfB5qntz-EG-71IgAWOn7gzVFtEoWuC690bsCYnH5OJsGfmLoMq1dE2QkiPM0"
+        },
+        {
+          "title": "'You're going to love the player' - Christos Tzolis shines with two impressive assists in his competitive Arsenal debut against Man City",
+          "url": "https://www.goal.com/en/lists/you-re-going-love-player-christos-tzolis-shines-with-two-impressive-assists-competitive-arsenal-debut-against-manchester-city/blt2d15ec579500c3e7",
+          "source": "Goal.com",
+          "published_at": "2026-08-16T16:20:10+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvbbEwCe3NUFlXQ2KTeG8Du1rFV18yhQ5NF9olos9MazG_3DhkxSqFSorhAXI"
+        },
+        {
+          "title": "Who is the best FPL captain for Gameweek 1?",
+          "url": "https://www.premierleague.com/en/news/4689647/who-is-the-best-fpl-captain-for-gameweek-1",
+          "source": "Premier League",
+          "published_at": "2026-08-20T15:05:26+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAGJ5EVHrRHTI8FnYzsGlLAD9wTIdk2ILrWjgwKVnABH8trzmrptARiCk70cw"
+        },
+        {
+          "title": "FPL Tips: Gameweek 1 Q&A with expert Heisenberg - send us your questions",
+          "url": "https://www.bbc.com/sport/live/cw998zzr0z8pt",
+          "source": "BBC",
+          "published_at": "2026-08-21T14:29:46+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6tuNjhoWej0-0W_gfOLWWfEZbyA_vRiW4QK7pM55Qa6XS-zf64C2eMfSHm8"
+        },
+        {
+          "title": "FPL Rate My Team Data: Top 10k GW1 Squad Revealed",
+          "url": "https://www.fantasyfootballfix.com/blog-index/fpl-rate-my-team-top-100k-gameweek-1/",
+          "source": "Fantasy Football Fix",
+          "published_at": "2026-08-20T16:50:45+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgBfOGmgjRgVLckB-SAXX_Ak4GE9OrmWI-dn2tILbzd8mvKJev2pImDik7aXU"
+        },
+        {
+          "title": "The idiot’s guide to Gameweek 1 of FPL 2026/27",
+          "url": "https://www.fantasyfootballscout.co.uk/2026/08/21/the-idiots-guide-to-gameweek-1-of-fpl-2026-27/",
+          "source": "Fantasy Football Scout",
+          "published_at": "2026-08-21T17:14:34+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNmcf108RReJcBdkohF9H_F-UKuiSdJrluSijAKDDbXMPbGL95wuf1Y1Hrzr8"
+        },
+        {
+          "title": "FPL Focus: Last-minute tips to improve your squad",
+          "url": "https://www.arsenal.com/feature/fpl-focus-last-minute-tips-to-improve-your-squad-a7Ljj7Y28ylw",
+          "source": "Arsenal.com",
+          "published_at": "2026-08-21T06:53:30+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud2I4w_7HLeqdujc-4gSvhvn6ALRpAeDL_ynfZ7JsTTxzPZsTFPB4xQZLGvo"
+        },
+        {
+          "title": "Best FPL Defenders at Each Price Point for the 2026/27 Season",
+          "url": "https://allaboutfpl.com/2026/08/best-fpl-defenders-at-each-price-point-for-the-2026-27-season/",
+          "source": "ALLABOUTFPL",
+          "published_at": "2026-08-20T09:34:23+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-PPwhjueg4Ch08wgogLoHHHTTiooT4Wc6pyvIdiiGAFWNUpcAAWTA-GSav5o"
+        },
+        {
+          "title": "Budget buys and differentials: The low-cost players who will transform your FPL squad",
+          "url": "https://www.goal.com/en-in/news/budget-buys-differentials-low-cost-players-fpl-squad/blt355bdbc465926081",
+          "source": "Goal.com",
+          "published_at": "2026-08-20T13:34:01+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpYv-Uxbw1uM-TcNrAOzAfF3yFquNvYHTOazx216MRcOYnn68s956kmjFkrU"
+        },
+        {
+          "title": "FPL 2026-27 Eight players who could help you win this year, including Wirtz, Calvert-Lewin, Joao Pedro and Gross",
+          "url": "https://www.bbc.com/sport/football/articles/c4g305xwdr4o",
+          "source": "BBC",
+          "published_at": "2026-08-17T07:49:52+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7oLXjzUkN5UslD_rfHbU7Aj12TFTAg1NytsUrSGUK1CyXKKGX5McJK1V_844"
+        },
+        {
+          "title": "FPL experts answer 10 KEY questions ahead of Gameweek 1",
+          "url": "https://www.premierleague.com/en/news/4688971",
+          "source": "Premier League",
+          "published_at": "2026-08-19T19:14:46+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmIlbt6sNXF8Dz6Y3rwXW7QuiVOVAuFChWUC00cqIq0Tq4Iik1QR9hRzq1IEk"
+        },
+        {
+          "title": "FPL experts’ ULTIMATE squad for opening Gameweeks",
+          "url": "https://www.premierleague.com/en/news/4688908/fpl-experts-ultimate-squad-for-opening-gameweeks",
+          "source": "Premier League",
+          "published_at": "2026-08-21T16:48:06+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwjS7wmFNitD8zzPnPekfJPcp-6kJJNzjM33IPXZrrUhVmRnamSb90w4YZICs"
+        },
+        {
+          "title": "Arsenal vs. Coventry line-ups: Premier League 2026-27 predicted XIs",
+          "url": "https://www.espn.in/football/story/_/id/49659682/arsenal-coventry-line-ups-predicted-premier-league-xis",
+          "source": "ESPN India",
+          "published_at": "2026-08-21T06:29:35+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3Eb1CSusLJ5uTicDmj9zJhqcUw40M8CuI50_w5fSllCHgbxrcL0phA-eLELM"
+        },
+        {
+          "title": "Football Daily | Premier League predictions are a mug’s game – Arsenal for the title!",
+          "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-predictions-football-daily-newsletter",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T15:56:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR13Il7zvuVrW0fs3KVJw0qPt_p22Ed-JVUrKgOB72NMlIAzmlYDFfS911Icns"
+        },
+        {
+          "title": "Inside Training: Getting set for curtain raiser",
+          "url": "https://www.arsenal.com/news/inside-training-getting-set-for-curtain-raiser-au2Xk4T2YFOD",
+          "source": "Arsenal.com",
+          "published_at": "2026-08-21T12:20:17+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRP6E57te6jzRr0KaDrA6NSIiospji7FmIxp0bK6-gL0J3YEbW7TF17cF5_1hM"
+        },
+        {
+          "title": "Viktor Gyokeres: Arsenal striker proud of contribution to last season",
+          "url": "https://www.bbc.com/sport/football/videos/cy5dxg3kv6eo",
+          "source": "BBC",
+          "published_at": "2026-08-21T12:48:11+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmNXo8Mb4aJHCi_n0PQxTKjOCyIKxaMn50z-BcRIiYo7DPu5wWDUApSUimAeA"
+        },
+        {
+          "title": "Arsenal v Coventry City: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T18:30:51+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaZlPe4T56q6yl11Ib7uLFFEX_USkW5bVU-tVcqQopvP1uWWJEBpGVBY6W2oU"
+        },
+        {
+          "title": "Arsenal v Coventry City: Premier League – live",
+          "url": "https://www.theguardian.com/football/live/2026/aug/21/arsenal-v-coventry-city-premier-league-live?page=with:block-6a888f748f08582f53531740",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T17:58:01+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaZlPe4T56q6yl11Ib7uLFFEX_USkW5bVU-tVcqQopvP1uWWJEBpGVBY6W2oU"
+        },
+        {
+          "title": "Bruno Guimaraes faces weeks on the sidelines as Arsenal suffer major injury blow at the start of the season",
+          "url": "https://www.goal.com/en-in/lists/bruno-guimaraes-faces-weeks-sidelines-arsenal-suffer-major-injury-start-season/blt94b926204cd5ad57",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T18:22:56+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaMeFUryn4IpFN5ENGhTZaF4b9ze6WFYLta90OewCt8vXbB6RPbt8JzF-kuPQ"
+        },
+        {
+          "title": "Arsenal vs Coventry LIVE: Premier League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league",
+          "source": "Al Jazeera",
+          "published_at": "2026-08-21T16:23:50+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1xP9dSxpbZurhZHB8ut6_WG-2d70wzeEvtjzjTjmcc9vgQXWpbZ6THN3SQY"
+        },
+        {
+          "title": "Mikel Arteta reveals Bruno Guimaraes injury latest in new four-man Arsenal update",
+          "url": "https://www.standard.co.uk/sport/football/arsenal-fc-bruno-guimaraes-injury-latest-arteta-b1294088.html",
+          "source": "London Evening Standard",
+          "published_at": "2026-08-21T08:55:08+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCwMQO_8h2jbpOnbL3soBYF83nfqVXVNbiUag3DT233BwOl2sSR-clK7KiURs"
+        },
+        {
+          "title": "Arsenal and Coventry teams released",
+          "url": "https://onefootball.com/en/news/arsenal-and-coventry-teams-released-43315144",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T17:48:58+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQzOI_cRoRQZftJForseFgZlL6xObRdGID8K55lgjT13WFu17unCbxHsNBRXc"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "premier league games",
+      "approx_traffic": 200,
+      "started_at": "2026-08-21T18:10:00+00:00",
+      "related_queries": [
+        "premier league games"
+      ],
+      "news": [
+        {
+          "title": "Premier League returns and Arsenal sense opportunity with rivals in flux",
+          "url": "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity",
+          "source": "The Guardian",
+          "published_at": "2026-08-21T01:30:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK8n6fmBj97YUTvnC5nkyqpgWzENWUeCfB0EMPYZyBdt8YynUv2EXPKmqdfFc"
+        },
+        {
+          "title": "Ian Darke's best-case, worst-case Premier League scenarios",
+          "url": "https://www.espn.in/football/story/_/id/49659699/premier-league-ian-darke-preview-arsenal-manchester-city-manchester-united-liverpool-chelsea",
+          "source": "ESPN India",
+          "published_at": "2026-08-20T12:43:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAcjcSuLhWYsEzBmsyJXwkl7X07wJvOwA7YOhkB1ye20DbCUngsTinU8s5FE"
+        },
+        {
+          "title": "New guard, old rivalries & one goal: Premier League set for new season",
+          "url": "https://www.telegraphindia.com/sports/football/new-guard-old-rivalries-one-goal-premier-league-set-for-new-season-prnt/cid/2175964",
+          "source": "Telegraph India",
+          "published_at": "2026-08-21T04:45:19+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDy1Lz0aZSE-vPU7lOOlTboOppMxk13N-X9lshl5JyHi5qBE8cvMnwEZkdi88"
+        },
+        {
+          "title": "Premier League: Match of the Day highlights, how to follow and listen on the BBC this weekend",
+          "url": "https://www.bbc.com/sport/football/articles/cp30ggvqj0do",
+          "source": "BBC",
+          "published_at": "2026-08-20T14:07:37+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBZ7i2Ho2MIf1F5e55a6BXYU-7HU8Up9tALvSrG78EJT35oJTichZyKkjn2s8"
+        },
+        {
+          "title": "Premier League 2026/27: Everything you need to know ahead of the new season",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/premier-league-2026/27-everything-you-need-to-know-ahead-of-the-new-season/articleshow/133382066.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-20T16:25:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoF9ch2byCpf7CDpU5M-gmAYTWS9T3A-TJkwFU-qhKfTkSVPJLkY45ErTbHWo"
+        },
+        {
+          "title": "The Rondo, Premier League preview: Can Arsenal repeat? Will Liverpool and Spurs deliver?",
+          "url": "https://www.goal.com/en-in/lists/the-rondo-premier-league-is-back-edition-arsenal-liverpool-andoni-iraola-spurs/blt90b4eac8b1312e22",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T17:40:29+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLrIB3Zu2z8_m5ykTesK4z1RoEfAvRmxq2yDDJsELeCCST-ojqHi2kMUrDIIo"
+        },
+        {
+          "title": "B/R Football Writers' Bold Predictions for the 2026-27 Premier League",
+          "url": "https://bleacherreport.com/articles/25472973-br-football-writers-bold-predictions-2026-27-premier-league",
+          "source": "Bleacher Report",
+          "published_at": "2026-08-20T12:09:11+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQYeBWxTsNFN4EIs7XAHxUkOuKQl0TFakijYBS0M8loGuK96a3nROkU8D5iew"
+        },
+        {
+          "title": "Arsenal in Premier League 2026-27 — What to look forward to for Gunners this season under Arteta?",
+          "url": "https://sportstar.thehindu.com/football/epl/arsenal-in-premier-league-2026-27-bruno-konsa-new-transfers-mikel-arteta-strategy-gunners-champion/article71373706.ece",
+          "source": "Sportstar",
+          "published_at": "2026-08-21T16:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmaHMplXOsQbKPgywrX91BgMEcZ4NppUrGJS5wgsDon0mvt4Ji6H50hzLLqtY"
+        },
+        {
+          "title": "Ranking every Premier League team before the most unpredictable season in years",
+          "url": "https://www.independent.co.uk/sport/football/premier-league-table-predictions-rankings-new-season-b3033273.html",
+          "source": "The Independent",
+          "published_at": "2026-08-19T08:05:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRgmPb_hxcXiUXVjsXJyZcH8eRhwi7IranuRL4Q4zzbpeGvKouEjVhFA2ktoag"
+        },
+        {
+          "title": "The 20 players and coaches who will define the 2026-27 Premier League",
+          "url": "https://www.espn.com/soccer/story/_/id/49599591/premier-league-season-preview-arsenal-man-city-man-united-liverpool-chelsea",
+          "source": "ESPN",
+          "published_at": "2026-08-13T07:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5KSk44Jw3d0qPugFXcBAhL5Z3u43pBZgCCLqNepPa7Hvdlr6ZSZyuME1X9FE"
+        },
+        {
+          "title": "How much does it cost to watch the Premier League around the world?",
+          "url": "https://www.nytimes.com/athletic/7523780/2026/08/20/premier-league-subscription-costs/",
+          "source": "The New York Times",
+          "published_at": "2026-08-21T15:01:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy7WQeNqknw5_SXTjb5UADFBhwNk3bodrJ2ZAS_wqDWV_yWGDb4n7mdcBFIxE"
+        },
+        {
+          "title": "English Premier League soccer: How to watch and live stream for FREE",
+          "url": "https://www.goal.com/en-us/news/watch-live-stream-english-premier-league-soccer-free/bltee06d94ca1168ec4",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T16:17:17+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgpU5eqEVGX3JUwLfkm6ECxruKEWGeD5CtQom5R3wdjXERZ1UdeCvfbAXvLes"
+        },
+        {
+          "title": "FOOTBALL IS BACK! WITNESS GREATNESS WITH A NEW SEASON OF THE PREMIER LEAGUE KICKING OFF THIS WEEKEND",
+          "url": "https://www.stan.news/football-is-back-witness-greatness-with-a-new-season-of-the-premier-league-kicking-off-this-weekend",
+          "source": "stan.news",
+          "published_at": "2026-08-20T01:32:38+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-qZI_8Zdx2_n2Fp3QtUhlYPvMM-9LYOKgW0HPUU2H0JX7hZaQxe6C-u02iec"
+        },
+        {
+          "title": "How to listen to Premier League 2026/27 from anywhere in the world",
+          "url": "https://www.techradar.com/how-to-watch/listen-to-premier-league-2026-27",
+          "source": "TechRadar",
+          "published_at": "2026-08-21T07:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU0ce50od4hzulMi3-STpNqdWY5xa7F_becNwZJcDh4TYSbGcgLfvfDJK30cc"
+        },
+        {
+          "title": "How to watch all 380 Premier League games for $2.50/month on Setanta Sports",
+          "url": "https://www.tomsguide.com/entertainment/streaming/watch-all-380-premier-league-games-2-50-month",
+          "source": "Tom's Guide",
+          "published_at": "2026-08-21T11:00:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvANHUm4781nI3DtawS_HPeqcuBkNKEuHTFKl8qmXLys5_VKDmEdEsZGecmLU"
+        },
+        {
+          "title": "SNTV previews the 2026/27 Premier League season",
+          "url": "https://www.news.com.au/sport/sntv-previews-the-202627-premier-league-season/video/ea92ad5d5ea1336756c08011787fc8aa",
+          "source": "News.com.au",
+          "published_at": "2026-08-20T00:18:30+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSEEwB6cm2DUU2YmQeNrR85VebXy1Tl9aW3x-gOvdlvRpfLAIMiOeOr_4GKH8"
+        },
+        {
+          "title": "Premier League Live Streaming in Italy: When, Where & How To Watch Premier League 2026-27 Matches Live Online on TV Broadcast, Mobile App, OTT & Youtube – Check Date, Timings, Full Schedule & More",
+          "url": "https://sundayguardianlive.com/sports/premier-league-live-streaming-in-italy-when-where-how-to-watch-premier-league-2026-27-matches-live-online-on-tv-broadcast-mobile-app-ott-youtube-check-date-timings-full-schedule-more-266510/",
+          "source": "The Sunday Guardian",
+          "published_at": "2026-08-21T12:34:21+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMBlINtJoSenfDaZ4H1IY01obojUlCH3wVRfZYT3yePjZC8ROAJ4vBMeggnuk"
+        },
+        {
+          "title": "Airdate: Premier League: 26 / 27",
+          "url": "https://tvtonight.com.au/2026/08/airdate-premier-league-26-27.html",
+          "source": "TV Tonight | Australia's Leading TV Blog",
+          "published_at": "2026-08-20T04:30:41+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSX5K2XMLKmpS8oCgjsmlKHrcgMAGW-un3_u-fXhvEhYk4NEdlfGncQ75qryFs"
+        },
+        {
+          "title": "Ipswich Town news: Will Ipswich eclipse Sunderland's record spend?",
+          "url": "https://www.bbc.com/sport/football/articles/c39e2glj2zvo",
+          "source": "BBC",
+          "published_at": "2026-08-20T10:27:05+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrbyJeDvDD2Dex1SMwe5UM9S4l_hFH9VdD6-EBZNHI8pyJPCTQKojK9m_ak2c"
+        },
+        {
+          "title": "FULL LIST: Top 10 biggest-spending promoted teams in EPL history",
+          "url": "https://punchng.com/full-list-top-10-biggest-spending-promoted-teams-in-epl-history/",
+          "source": "Punch Newspapers",
+          "published_at": "2026-08-19T14:48:18+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqfGuLpKAtw1X84StSI_fBEAbEbhki2TxZg1JSvM41ulrxtBLyIrOCB5fVYeY"
+        },
+        {
+          "title": "Ipswich Town Betting Odds & Markets",
+          "url": "https://www.freebets.com/football/ipswich-town/",
+          "source": "FreeBets",
+          "published_at": "2026-08-20T16:32:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl5-QiToSFURt4obAGikw64YO-DMXqu3zDKMNwJ5uBUzVG8BrrkOrQddYb-Xg"
+        },
+        {
+          "title": "Ipswich Town column: ‘Call it bullish, defiant or downright deluded’",
+          "url": "https://www.suffolknews.co.uk/ipswich/sport/ipswich-town-column-call-it-bullish-defiant-or-downright-9479340/",
+          "source": "Suffolk News",
+          "published_at": "2026-08-21T03:35:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfhJW3S4jS9mNGDRg0yP-Db5S8GiWeFiRrzAQCg60lkdnmXcmw_cLxVLJiAr8"
+        },
+        {
+          "title": "Where will Ipswich Town finish in Premier League? Phil McNulty predicts",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5y6np55r9zo",
+          "source": "BBC",
+          "published_at": "2026-08-20T07:21:36+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3sxPbFBrraXkPJPU7qtCyz8jijOchlVZaWAXX7UxAS7NFPzoBIjeCueVHm6o"
+        },
+        {
+          "title": "'Might surprise a few people' - BBC pundit insists Town won't struggle in top tier",
+          "url": "https://www.ipswichstar.co.uk/sport/26482147.ipswich-town---danny-murphy-backs-blues-surprise-package/",
+          "source": "Ipswich Star",
+          "published_at": "2026-08-20T14:23:48+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSieJNj2oLKICnNEBSBoTljqcYnxi2YnIhrTmNYCk9ZP58xdAHFbp1MWILN8Qc"
+        },
+        {
+          "title": "Ipswich Town 2026/27 Season Preview: The Redemption of the Tractor Boys",
+          "url": "https://www.vavel.com/en/football/2026/08/21/premier-league/1268530-ipswich-town-2026-27-season-preview-the-redemption-of-the-tractor-boys.html",
+          "source": "VAVEL.com",
+          "published_at": "2026-08-21T17:21:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWmF8x_3lbnBM-QQoD3nVwABD938sXSuQk2IZdWNBFfff79aRorzzd9AUaVAs"
+        },
+        {
+          "title": "Premier League 2026-27 preview No 12: Ipswich",
+          "url": "https://www.theguardian.com/football/2026/aug/17/premier-league-2026-27-preview-no-12-ipswich",
+          "source": "The Guardian",
+          "published_at": "2026-08-17T17:49:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPzcBmq1cgFoeQnXnvr_2Oe7Wx1WJE3ro0iv7SXlHTyTmyM7z9MsGDwsoj6gc"
+        },
+        {
+          "title": "Ipswich Town news: Can O'Neil secure Premier League stay?",
+          "url": "https://www.bbc.com/sport/football/articles/c98vzjjn494o",
+          "source": "BBC",
+          "published_at": "2026-08-19T12:50:58+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQp7IH3zDqge4Wzf7j6Lb4K9pmDfoUV8_X1__bRLKgbdhhYf_X3X6FT-1zvlOA"
+        },
+        {
+          "title": "Ipswich close on Sunderland record, Coventry join top 5 - Highest spends by promoted PL clubs",
+          "url": "https://www.transfermarkt.co.uk/ipswich-close-on-sunderland-record-coventry-join-top-5-highest-spends-by-promoted-pl-clubs/view/news/484388",
+          "source": "Transfermarkt",
+          "published_at": "2026-08-19T12:32:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkWt47JcWcDfxFHguhSg6iUDvc_ifXBbgP9PERa_2quUujtOlYfWlEJOfymh8"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "al nassr match",
+      "approx_traffic": 200,
+      "started_at": "2026-08-21T18:20:00+00:00",
+      "related_queries": [
+        "al nassr match"
+      ],
+      "news": [
+        {
+          "title": "On the night of Ronaldo's return: Al-Nassr thrash Al-Riyadh and reclaim their throne from Al-Hilal",
+          "url": "https://www.goal.com/en/news/ronaldo-returns-as-al-nassr-thrash-al-riyadh-and-reclaim-their-throne-from-al-hilal/blte0bc534c4c85f2e8",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T18:13:01+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjBClShoTZ56gBUoaGiIXbRACJ9Ai8XiA2XjivBi_c62J6qP1cQ1njHlmqm-o"
+        },
+        {
+          "title": "Al Riyadh – Al Nassr 0 - 4 | GOAL – Cristiano Ronaldo dos Santos Aveiro",
+          "url": "https://onefootball.com/en/video/al-riyadh-al-nassr-0-4-goal-cristiano-ronaldo-dos-santos-aveiro-43315257",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T18:01:23+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvjY-TfuYIHiXZtzPi2zZflFdWdKfHNznUhHhi7HYEwFJzQ1riX7ZXhVOckeU"
+        },
+        {
+          "title": "Al Riyadh – Al Nassr 0 - 1 | GOL – Abdulelah Al Amri",
+          "url": "https://onefootball.com/en/video/al-riyadh-al-nassr-0-1-gol-abdulelah-al-amri-43315420",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T18:21:47+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcnzh_XWJL8xYNC_GxtI4_AcXzAN-kWi_avIeqrVzHGCO_cuUfbKquGrSEg-8"
+        },
+        {
+          "title": "Highlights: Al Riyadh 0 - 4 Al Nassr (Saudi Pro League)",
+          "url": "https://onefootball.com/en/video/highlights-al-riyadh-0-4-al-nassr-saudi-pro-league-3IEgiUniyKkKPE88lyWbfdtGHSQ",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T16:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUR7SAWEF8yzB5nfQ5adWgbS2D832GawwimCoM_9LK1vpXke4SopnzYlFDo-M"
+        },
+        {
+          "title": "Al Riyadh – Al Nassr 0 - 2 | GOAL – Ângelo Gabriel Borges Damaceno",
+          "url": "https://onefootball.com/en/video/al-riyadh-al-nassr-0-2-goal-angelo-gabriel-borges-damaceno-3IEgdXBHVDYOjUXHWsWlKYmZcEC",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T17:59:35+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7kroQnBWK5GRzDCnv6NSvwI6gP3NzfK3B6ANfNDREXMGLC_tSqXmpNKZjZso"
+        },
+        {
+          "title": "More than just a goal: Ronaldo ascends to the historic throne of Al-Nassr in the Roshan league | Goal.com India",
+          "url": "https://www.goal.com/en-in/news/more-than-just-a-goal-ronaldo-climbs-to-al-nassr-s-throne-and-shatters-the-records-of-salem-al-dawsari-and-hamdallah/blt159438d5af592c6a",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T18:30:53+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTH-pMTjRrykIkmg5RDDCO_rWOiOAnILzbIhEG-dL3SQEMB5XvwjT4iQ-OZQzA"
+        },
+        {
+          "title": "Al Riyadh – Al Nassr 0 - 3 | GOAL – João Félix Sequeira",
+          "url": "https://onefootball.com/en/video/al-riyadh-al-nassr-0-3-goal-joao-felix-sequeira-3IEgeZ2hOea3SjIrGI4esK7E5St",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T17:59:32+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE8TlJaUjjJvjaiseYNkZrB4bEbLV9z7K-vvuV-2Rop6RdiiXPosQQDlgHBiw"
+        },
+        {
+          "title": "🔥How close is he to 1,000? Cristiano starts the season scoring",
+          "url": "https://onefootball.com/en/news/how-close-is-he-to-1000-cristiano-starts-the-season-scoring-43315443",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T18:26:47+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLd_f5WKlExLgZeLBtG2AGUEQTcwrTubBFujCT4f_sfXYn6FAfdFaEU5CnNvY"
+        },
+        {
+          "title": "🎥 He's back with a bang! Cristiano Ronaldo reaches 977th career goal",
+          "url": "https://onefootball.com/en/news/hes-back-with-a-bang-cristiano-ronaldo-reaches-977th-career-goal-43315286",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T18:19:47+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzBG0cZZzpsZMus-gOu55v0nhVSLHPRgT543FPaiHqUxiA-cFnh3oa-B3kjtk"
+        },
+        {
+          "title": "Highlights: Al Riyadh 0-4 Al Nassr (Saudi Pro League)",
+          "url": "https://onefootball.com/en/video/highlights-al-riyadh-0-4-al-nassr-saudi-pro-league-43315321",
+          "source": "OneFootball",
+          "published_at": "2026-08-21T16:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUR7SAWEF8yzB5nfQ5adWgbS2D832GawwimCoM_9LK1vpXke4SopnzYlFDo-M"
+        },
+        {
+          "title": "Video: After 240 minutes, Cristiano Ronaldo marks a historic return to Al-Nassr",
+          "url": "https://www.goal.com/en/news/video-after-240-minutes-cristiano-ronaldo-marks-a-historic-return-to-al-nassr/bltb3da6a64f87e9898",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T17:50:13+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMlSEsjBAD7HaXbXyHGDCQIq1rdOY18TsN5QODq-ClTriLXIH7L8KwN8E2aa0"
+        },
+        {
+          "title": "Cristiano Ronaldo 'ready' to play for Al Nassr as Ange Postecoglou welcomes star back after wedding",
+          "url": "https://www.espn.in/football/story/_/id/49609124/cristiano-ronaldo-ready-play-al-nassr-ange-postecoglou-welcomes-star-back-wedding",
+          "source": "ESPN India",
+          "published_at": "2026-08-14T13:21:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5iEbAhdK-bdsaavY6wjrWB2fzWx0mecfUJi5BSExXIIkGUqZjBizclJa9Xc4"
+        },
+        {
+          "title": "Ronaldo racing to be fit for Al-Riyadh clash",
+          "url": "https://www.arabnews.com/node/2655299/sport",
+          "source": "Arab News",
+          "published_at": "2026-08-20T08:27:33+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzg4A8MWUPFUN6BTbKKCgf5YPBDdlzzlIWCsEUVSIWUYzsYb1pQWaKTBE9UgI"
+        },
+        {
+          "title": "📸 CR7 now honey blonde: Ronaldo back in beast mode post-World Cup",
+          "url": "https://onefootball.com/en/news/cr7-now-honey-blonde-ronaldo-back-in-beast-mode-post-world-cup-43309941",
+          "source": "OneFootball",
+          "published_at": "2026-08-20T19:47:13+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiw5maO21v4__a4f6ZJNrkQghz-d_lxdOK7KHSM2Z6Ea5K7VYoya3nLSCI9Ps"
+        },
+        {
+          "title": "‘If Cristiano plays against us, it will be a pleasure for everyone,’ says Al Riyadh boss ahead of Al Nassr ...",
+          "url": "https://worldsoccertalk.com/news/if-cristiano-plays-against-us-it-will-be-a-pleasure-for-everyone-says-al-riyadh-boss-ahead-of-al-nassr-clash/",
+          "source": "World Soccer Talk",
+          "published_at": "2026-08-20T22:00:57+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcIV0GrR0waTmG4Ud1SVTSlueLi83qCU4DcZd4hgiaOha7-JalozN85Tetls"
+        },
+        {
+          "title": "SPL 26/27: All eyes on Ronaldo as Al-Nassr gears up to take on Al-Riyadh",
+          "url": "https://ummid.com/news/2026/8/21/all-eyes-on-ronaldo-as-al-nassr-gears-up-to-take-on-al-riyadh-in-spl-26.html",
+          "source": "ummid.com",
+          "published_at": "2026-08-21T06:35:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlYNMKCdSiwfIVmDGalF2fm0pJLGRuc4AnkUHpjFeH89h5E-0KF9olG9vGPLw"
+        },
+        {
+          "title": "Cristiano Ronaldo Debuts New Hairstyle in Photo, Video After Marriage to Georgina Rodríguez",
+          "url": "https://bleacherreport.com/articles/25471055-cristiano-ronaldo-debuts-new-hairstyle-photo-video-after-marriage-georgina-rodriguez",
+          "source": "Bleacher Report",
+          "published_at": "2026-08-14T16:24:54+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThKypSdROZqwisfdrp06Fy9jWtdm3T6GGHbuRtZGMbct_XnipATGe-NGc8BfI"
+        },
+        {
+          "title": "‘Back’: Cristiano Ronaldo returns to Al-Nassr training days after marrying Georgina Rodriguez",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/back-cristiano-ronaldo-returns-to-al-nassr-training-days-after-marrying-georgina-rodriguez/articleshow/133229596.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-14T05:12:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT4MMtZU4oXWyzfUJnvpYnJNcNYLIcX1A-szWg0nox4RB-Sto3qYYQ7AdgvPwg"
+        },
+        {
+          "title": "Video: after 240 minutes, Al-Nassr fans mark a historic return for Cristiano Ronaldo",
+          "url": "https://www.goal.com/en-in/news/video-after-240-minutes-al-nassr-fans-mark-a-historic-return-for-cristiano-ronaldo/bltb3da6a64f87e9898",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T17:48:45+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMlSEsjBAD7HaXbXyHGDCQIq1rdOY18TsN5QODq-ClTriLXIH7L8KwN8E2aa0"
+        },
+        {
+          "title": "He is back, but: Ronaldo appears with Al-Nassr in the Riyadh match",
+          "url": "https://www.goal.com/en/news/he-s-back-but-ronaldo-appears-with-al-nassr-in-the-riyadh-match/bltf425520381773d60",
+          "source": "Goal.com",
+          "published_at": "2026-08-21T15:15:09+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTx4LpPxkGC_p2gJPTs5aZ-Qejkj2kB196p8nJCLTF4w9KWl1IIQsJawOpVZ1o"
+        },
+        {
+          "title": "In Ronaldo's absence: Postecoglou hands Samu Costa first start",
+          "url": "https://www.goal.com/en-in/news/in-ronaldo-s-absence-postecoglou-hands-samu-costa-first-start/blt273d1c842b34e8df",
+          "source": "Goal.com",
+          "published_at": "2026-08-18T17:07:19+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTEix__JtehNcmfBQ9YKnc63fMNyTVXmy9szFxz9ZlQItcWfaUrG1do9HbWQZY"
+        },
+        {
+          "title": "A 10-minute comeback: Al-Nassr overturns Al-Diriyah's lead with four goals in the King's Cup",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/08/19/a-10-minute-comeback-al-nassr-overturns-al-diriyahs-lead-with-four-goals-in-the-kings-cup/",
+          "source": "صوت الإمارات",
+          "published_at": "2026-08-18T21:16:35+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGifFqF9484aTO4i7ZK28Xbpqj4_b8cG_RpgAHSzepC_RmZkURr9CtiE94_-8"
+        },
+        {
+          "title": "Diriyah vs Al Nassr LIVE streaming info: Where to watch Saudi King’s Cup Round of 32?",
+          "url": "https://sportstar.thehindu.com/football/saudi-kings-cup-round-of-32-diriyah-vs-al-nassr-live-streaming-tv-info-date-time-india/article71360264.ece",
+          "source": "Sportstar",
+          "published_at": "2026-08-18T11:32:18+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSngi9eeoHD0g4N4TtU4YYb7uDZHLLtAUWNajGaoZrKfe0kAZN2Y1aBoy8L-Ro"
+        },
+        {
+          "title": "Why is Cristiano Ronaldo not playing today for Al Nassr vs Al Diriyah in 26-27 King Cup of Champions Round ...",
+          "url": "https://worldsoccertalk.com/news/is-cristiano-ronaldo-playing-today-for-al-nassr-vs-al-diriyah-in-26-27-king-cup-of-champions-round-of-32/",
+          "source": "World Soccer Talk",
+          "published_at": "2026-08-18T14:00:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVZNuysDXtNqSIYOQp0Nc4Oa4M3E6s1HoDKV5YgX-XS53NfoQGOMIA-GZ0UEQ"
+        },
+        {
+          "title": "Al-Nassr Defeats Al-Diriyah to Reach Custodian of the Two Holy Mosques Cup Round of 16",
+          "url": "https://english.aawsat.com/sports/5308621-al-nassr-defeats-al-diriyah-reach-custodian-two-holy-mosques-cup-round-16",
+          "source": "ASHARQ AL-AWSAT English",
+          "published_at": "2026-08-19T04:51:26+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXRnY0-8wGyhJ2Pq2h1fWuwOhM13cC2T04hdscQ1ZTOhuhsF2RgrOIyDhp5w"
+        },
+        {
+          "title": "King's Cup: Mané assists for Al-Nassr; Benrahma continues strong start",
+          "url": "https://panafricafootball.com/article/sadio-mane-al-nassr-115",
+          "source": "Pan Africa Football",
+          "published_at": "2026-08-19T02:24:21+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN6XUk0tF2utV_Sb54d7vzDSv9Vueo9oVUN2hOGbtBmP9AsDy_HpU7MrQTDbs"
+        },
+        {
+          "title": "Al-Nassr book place in King Cup Round of 16 with convincing victory over Diriyah",
+          "url": "https://islamabadpost.com.pk/al-nassr-book-place-in-king-cup-round-of-16-with-convincing-victory-over-diriyah/",
+          "source": "Islamabad Post",
+          "published_at": "2026-08-19T06:27:04+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThEVWJ2DvFZS3wBOXHCcRx1qCkTuf1tMdv0rSWPG-5HDvw5BKKAiqKlWNfKoY"
+        },
+        {
+          "title": "Google Trends: Al-Nassr thrash Diriyah 4-1 in King’s Cup clash",
+          "url": "https://www.financialexpress.com/sports/google-trends-al-nassr-thrash-diriyah-4-1-in-kings-cup-clash/4320849/",
+          "source": "The Financial Express",
+          "published_at": "2026-08-19T05:55:39+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-cilvtJ0ewtUJjzX86k5FfQ1NRVWSMaZrSB2-qwDF3CBTmeWksFFtgQCOETM"
+        },
+        {
+          "title": "With a water bottle: Joao Felix caps off a magical night with a defeat of the former Al-Hilal player",
+          "url": "https://www.goal.com/en-in/news/with-a-water-bottle-joao-felix-caps-off-a-magical-night-with-a-defeat-of-the-former-al-hilal-player/bltfb3b4b7f1a737f5a",
+          "source": "Goal.com",
+          "published_at": "2026-08-18T20:41:40+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTs4Guzgqjdc4zTKGhC8wnoWUinhZMH-TYu4FDOhgCCCjolOdUgKBGtvG-W5Mg"
+        },
+        {
+          "title": "Video: No surprises: Al-Nassr punish Al-Diriyah and join the big guns in the King's Cup last 16",
+          "url": "https://www.goal.com/en-in/news/video-no-surprises-al-nassr-punish-al-diriyah-and-join-the-big-guns-in-the-king-s-cup-last-16/blt6ffa2480a925fb6c",
+          "source": "Goal.com",
+          "published_at": "2026-08-18T21:01:41+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzv3LPQzLWtkRMhhcuztFobr6mDVi_jXzJWTGvLiMQoffrSCbMDdqF9Vl08Qs"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic": "marseille vs strasbourg",
+      "approx_traffic": 200,
+      "started_at": "2026-08-21T18:20:00+00:00",
+      "related_queries": [
+        "marseille vs strasbourg"
+      ],
+      "news": [
+        {
+          "title": "OM : coup dur confirmé avant Strasbourg",
+          "url": "https://www.football365.fr/om-coup-dur-confirme-avant-strasbourg-10309535.html",
+          "source": "Football365",
+          "published_at": "2026-08-21T12:50:25+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHfAkPtBv-G9lHm10Q4YpduEdjOOtFW7TFr3aZMbWV2-LWyPDR7H2ITbQdpzg"
+        },
+        {
+          "title": "Pronostic Marseille Strasbourg : analyse, cotes et prono Ligue 1",
+          "url": "https://www.sofoot.com/breves/pronostic-marseille-strasbourg-analyse-cotes-et-prono-ligue-1",
+          "source": "SO FOOT.com",
+          "published_at": "2026-08-21T14:43:22+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxlWpmBjWOe3OHMFzZdCHjPguG7HmHHLLAfvTMjq5T7Jp5Z3ddKhVCzqPuKdQ"
+        },
+        {
+          "title": "Comment regarder Olympique de Marseille - Strasbourg ? Date, heure, streaming et comment regarder la Ligue 1 McDonald’s sur Ligue 1+, disponible sur DAZN​​",
+          "url": "https://www.dazn.com/fr-FR/news/football/comment-regarder-olympique-de-marseille-strasbourg-date-heure-streaming-et-comment-regarder-la-ligue-1-mcdonalds-sur-ligue-1-disponible-sur-dazn/1mgcqgjsehyqf116o0aia736n0",
+          "source": "DAZN",
+          "published_at": "2026-08-21T10:48:03+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqudEF37XDGEK4OFACPVYJT8GNRO_LUKpLF0c6fwg7RvjETOg2GcgrBL6MPO8"
+        },
+        {
+          "title": "OM-Strasbourg : vers une charnière Kondogbia-Egan-Riley pour commencer la saison",
+          "url": "https://actu.orange.fr/videos/actu-locale/om-strasbourg-vers-une-charniere-kondogbia-egan-riley-pour-commencer-la-saison-CNT000002rrDo3.html",
+          "source": "Orange Actualités",
+          "published_at": "2026-08-21T09:19:03+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGkR8Cy023Mph6Dv73lnsuhhpc8zY3_mwKcC_gZZw1GDw27FGfLzqm2-PlBPI"
+        },
+        {
+          "title": "OM - Strasbourg : les compositions probables",
+          "url": "https://www.footmercato.net/a5787955562703212029-om-strasbourg-les-compositions-probables",
+          "source": "Foot Mercato",
+          "published_at": "2026-08-21T10:01:30+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7m23deBIFriIPB_fzvGFOhSvQ93xlGLKNnDlXFQjedPQIZn6pCDv-5WoSaWA"
+        },
+        {
+          "title": "Frank McCourt assistera à OM-Strasbourg au Vélodrome",
+          "url": "https://www.lequipe.fr/Football/Actualites/Frank-mccourt-assistera-a-om-strasbourg-au-velodrome/1712481",
+          "source": "L'Équipe",
+          "published_at": "2026-08-21T09:36:03+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9PWFOvn6iaHvGiXSMDxaAQoD_iexzjrU2odjdyxgPoJdq-cWR5H_CAmaQCLg"
+        },
+        {
+          "title": "Super Boost bet365 sur Marseille – Strasbourg : Les 2 équipes marques boosté à 2,00 (Ligue 1)",
+          "url": "https://www.eurosport.fr/paris-sportifs/pronostics/super-boost-bet365-sur-marseille-strasbourg-les-2-equipes-marques-booste-a-200-ligue-1/",
+          "source": "Eurosport",
+          "published_at": "2026-08-21T09:45:55+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxKBuL_0pE0T6Xg7EPXR_ILJ3lySyKmh0apmLz5rcTI9MJxApDQ77r4EQDffQ"
+        },
+        {
+          "title": "DIRECT. OM - Strasbourg : suivez le grand retour de la Ligue 1 en live",
+          "url": "https://www.ouest-france.fr/sport/football/ligue-1/direct-om-strasbourg-suivez-le-grand-retour-de-la-ligue-1-en-live-53a17430-ed51-4e11-af7c-e79b4745b36d",
+          "source": "Ouest-France",
+          "published_at": "2026-08-21T17:46:55+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXRr8IM2Oqvh45CFRBvkGREFdf6HyauVeZvpyu1sa3lTTtk2qJwOkquPNCr2g"
+        },
+        {
+          "title": "OM-Strasbourg en direct commenté",
+          "url": "https://www.football365.fr/om-strasbourg-en-direct-commente-5-10309570.html",
+          "source": "Football365",
+          "published_at": "2026-08-21T18:15:25+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGXvFig4xbabosnfmbmBSL-PWygJxuFJRfYitvMSWxplBSSVONFZJsvcCejFo"
+        },
+        {
+          "title": "Cote boostée Winamax : Marseille marque dans les deux mi-temps à 2,40 pour Marseille – Strasbourg (Ligue 1)",
+          "url": "https://www.eurosport.fr/paris-sportifs/pronostics/cote-boostee-winamax-marseille-marque-dans-les-deux-mi-temps-a-240-pour-marseille-strasbourg-ligue-1/",
+          "source": "Eurosport",
+          "published_at": "2026-08-21T09:45:55+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7w6ButfpafzPeh80QtZnqohiaxQrTWsHMp3MKHykGW2Mx1wJaA9dIQvs6r0E"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "topic": "akshay kumar",
+      "approx_traffic": 200,
+      "started_at": "2026-08-21T18:10:00+00:00",
+      "related_queries": [
+        "akshay kumar"
+      ],
+      "news": [
+        {
+          "title": "'Welcome to the Jungle' OTT release: When and where to warch Akshay Kumar's comedy flick online",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-to-the-jungle-ott-release-when-and-where-to-warch-akshay-kumars-comedy-flick-online/articleshow/133396562.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-21T07:13:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR13kQDNylEamJAdUAuhNjf0CtqmnXgRRtCW52gfFWZaumWSkd6TFpO3Cd4420"
+        },
+        {
+          "title": "Comedy hit ‘Welcome To The Jungle’ set for premiere on JioHotstar",
+          "url": "https://www.bizasialive.com/comedy-hit-welcome-to-the-jungle-set-for-premiere-on-jiohotstar/",
+          "source": "BizAsiaLive",
+          "published_at": "2026-08-19T09:05:57+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqv2jiqGgU6zEZalJVYKh3SKyN4a7m63niz4aSutogQESDF6HMV2DC-DCejFs"
+        },
+        {
+          "title": "How to watch Welcome To The Jungle in the US",
+          "url": "https://blog.reelgood.com/how-to-watch-welcome-to-the-jungle-in-the-us",
+          "source": "UpNext by Reelgood",
+          "published_at": "2026-08-21T11:39:08+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6BKN6Sr3TaHVbgSK-LTlOGgzfkeGd3ZFLGpyYkWkebeQAzUfZp6F49n_9Pqo"
+        },
+        {
+          "title": "Welcome to the Jungle OTT release: When and where to watch Akshay's multi-starrer",
+          "url": "https://www.indiatoday.in/entertainment/ott/story/welcome-to-the-jungle-ott-release-jiohotstar-when-where-watch-akshay-kumar-film-2976316-2026-08-21",
+          "source": "India Today",
+          "published_at": "2026-08-21T04:28:26+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVTAK_6SG8PF_FXi1hbmZVwU9HWpehteGptQi45TfUPtcUnmtiP0DEp417t8E"
+        },
+        {
+          "title": "Welcome to the Jungle OTT Release Date: When and Where To Watch This Akshay Kumar, Arshad Warsi Film",
+          "url": "https://www.esquireindia.co.in/entertainment/what-to-stream/welcome-to-the-jungle-ott-release-date-when-and-where-to-watch-akshay-kumar-arshad-warsi-disha-patani-film-august-21-2026-jiohotstar",
+          "source": "Esquire India",
+          "published_at": "2026-08-19T08:57:05+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqLvUKqwo5Ml9c8LU9d9C2Tn5Jfu_IHy0ju0-4CSbvkj-DtBs1VkC2XbQpdiU"
+        },
+        {
+          "title": "Welcome To The Jungle Arrives On JioHotstar As Akshay Kumar Led Comedy Brings Its Chaos To OTT",
+          "url": "https://www.socialnews.xyz/2026/08/21/welcome-to-the-jungle-arrives-on-jiohotstar-as-akshay-kumar-led-comedy-brings-its-chaos-to-ott/",
+          "source": "Social News XYZ",
+          "published_at": "2026-08-21T07:25:44+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxE3uxF7UxnqF59VMgpbUO6IR2ze84SbpvDh12gvhM6birnCcyYaUh6Zt_QI"
+        },
+        {
+          "title": "Kumar's 'Welcome to the Jungle' lands on JioHotstar streaming",
+          "url": "https://www.newsbytesapp.com/news/entertainment/kumars-welcome-to-the-jungle-lands-on-jiohotstar-streaming/tldr",
+          "source": "NewsBytes",
+          "published_at": "2026-08-21T06:15:27+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR15_0Rg0UtP2Mo5fWNYx9rQ6pz88422XkKyXWGXUfIgusmnYMv29ENO9rUgoc"
+        },
+        {
+          "title": "Gather your gang and get ready for a laughter-filled ride! Welcome To The Jungle premieres August 21, only on JioHotstar",
+          "url": "https://www.bollywoodkibaten.in/tv-serial-news/gather-your-gang-and-get-ready-for-a-laughter-filled-ride-welcome-to-the-jungle-premieres-august-21-only-on-jiohotstar/63072",
+          "source": "BollyWood ki Baten",
+          "published_at": "2026-08-21T08:16:45+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxhtYTQJrArEOIca1UuneobPMEKORCngL9t1ssy8HKEIOuqZnxoB5xrOldDt4"
+        },
+        {
+          "title": "Welcome to the Jungle OTT release: When and where to watch Akshay Kumar's comedy multi-starrer | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/welcome-to-the-jungle-ott-release-when-and-where-to-watch-akshay-kumar-comedy-multi-starrer-ahmed-khan-jiohotstar-101787287748702.html",
+          "source": "Hindustan Times",
+          "published_at": "2026-08-21T05:50:16+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQViO9OIN2DPKzgU0Op76Cl9huMhB5_9VKBOHhgILMHs47AYBT-WSi9JqS-l7c"
+        },
+        {
+          "title": "Welcome to The Jungle OTT Release: When and Where to Watch Akshay Kumar’s Star-Studded Film | Filmfare.com",
+          "url": "https://www.filmfare.com/news/bollywood/welcome-to-the-jungle-ott-release-when-and-where-to-watch-akshay-kumars-star-studded-film-85479.html",
+          "source": "Filmfare",
+          "published_at": "2026-08-21T07:03:29+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7JmJTfdNClMRWl48pQ3r223_002DP5sGAR6Iu6GSjd63KufXM9yXrWr40fV0"
+        },
+        {
+          "title": "New OTT releases to watch this weekend: 10 new movies & shows on JioHotstar, Netflix, Prime Video & more",
+          "url": "https://www.gqindia.com/content/new-ott-releases-to-watch-this-weekend-10-new-movies-and-shows-on-jiohotstar-netflix-prime-video",
+          "source": "GQ India",
+          "published_at": "2026-08-21T06:30:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7UFW5nsnp_0EPr9BSbVUlnlGoqdGkr_gY-CF4Y8JfG_43uEttAHpD3l7uSiY"
+        },
+        {
+          "title": "OTT This Week: Welcome To The Jungle, Jana Nayagan...",
+          "url": "https://www.rediff.com/movies/report/ott-this-week-welcome-to-the-jungle-jana-nayagan/20260821.htm",
+          "source": "Rediff",
+          "published_at": "2026-08-21T06:45:41+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTs7CT2aTZIBuAN9LxEVw7MvK81p_D3hOhJXN8j7rsBUIKwxpAA0aASRLcamMM"
+        },
+        {
+          "title": "OTT releases this week (August 17-23): Toy Story 5, Welcome To The Jungle and more movies and shows to...",
+          "url": "https://www.moneycontrol.com/entertainment/ott-releases-this-week-august-17-23-toy-story-5-welcome-to-the-jungle-and-more-movies-and-shows-to-stream-on-prime-video-netflix-jiohotstar-and-more-article-14011583.html",
+          "source": "Moneycontrol.com",
+          "published_at": "2026-08-20T11:45:05+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPJXeoqV8XWiMGaTlp8BBfgaFhPtXvYSiXlPqBTNdiLF_L-gC4oN484z5VQaY"
+        },
+        {
+          "title": "New OTT releases this weekend: 9 new movies and shows coming on Netflix, JioHotstar, Prime Video and more",
+          "url": "https://m.economictimes.com/news/india/new-ott-releases-this-weekend-9-new-movies-and-shows-coming-on-netflix-jiohotstar-prime-video-and-more/ott-releases-this-weekend/slideshow/133399281.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-08-21T09:25:26+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_BFK11qn8MrdM8N1LOlHRCWZdJl5YaCqcGI4iwuy3k848H4yvLPcE_4bFTEI"
+        },
+        {
+          "title": "Friday OTT releases (August 21, 2026): ‘Clean Up Company,' ‘Jana Nayagan,' ‘Stillwater Season 5,' and oth",
+          "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/friday-ott-releases-august-21-2026-clean-up-company-jana-nayagan-stillwater-season-5-and-others/articleshow/133375155.cms",
+          "source": "The Times of India",
+          "published_at": "2026-08-20T11:36:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4_T_Tw-FuAdEJz_fMgBg2q4YldDWmmKorj4oENSznmwlnbDeevPY0q-zGGeI"
+        },
+        {
+          "title": "New Friday OTT releases (August 21, 2026): Jana Nayagan, Facing El Chapo, Pyaar Prema Kalyanam- Watch 5 movies and TV shows on Netflix, ZEE5 and more",
+          "url": "https://www.wionews.com/photos/new-friday-ott-releases-august-21-2026-jana-nayagan-facing-el-chapo-pyaar-prema-kalyanam-watch-5-movies-and-tv-shows-on-netflix-zee5-and-more-1787224390060",
+          "source": "WION",
+          "published_at": "2026-08-21T03:58:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQppYV2S-IeGVx8Bx09kyzDoFBd82BEvjDrxo16fCIqPb1ZZ3Tyo-ip3EnDsS8"
+        },
+        {
+          "title": "Friday OTT releases: 7 new movies and shows to stream today (August 21) on Netflix, SonyLIV, Zee5, Apple TV",
+          "url": "https://www.thestatesman.com/entertainment/ott/friday-ott-releases-7-new-movies-and-shows-to-stream-today-august-21-on-netflix-sonyliv-zee5-apple-tv-1503629641.html",
+          "source": "The Statesman",
+          "published_at": "2026-08-21T01:24:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZQhwE0McHYFBzP9dtO9pcsXoE2suSmLnUrb65vwY1Rc5Roma2QLreNq1rOs"
+        },
+        {
+          "title": "OTT releases this week: Watch Chennai Love Story to Jana Nayagan & more",
+          "url": "https://www.business-standard.com/entertainment/ott-releases-this-week-watch-chennai-love-story-to-jana-nayagan-more-nc-126082100870_1.html",
+          "source": "Business Standard",
+          "published_at": "2026-08-21T12:56:37+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZSu1xnBtua-ATQcd3pmqvaAX7dmncGZiMHn2fwzx1C6NtJp6x_AXEXzqnYjY"
+        },
+        {
+          "title": "Hollywood OTT releases this week: From Lanterns to Toy Story 5, 8 new releases you can’t miss",
+          "url": "https://m.economictimes.com/magazines/panache/hollywood-ott-releases-this-week-from-lanterns-to-toy-story-5-8-new-releases-you-cant-miss/articleshow/133408179.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-08-21T16:41:45+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKjdokm8nGKN5ivjvGMKYjDlL6giNklWWfjE8hmVPRp2Rf0hUurSn3-F5-nM"
+        },
+        {
+          "title": "Friday OTT releases of the week: Chennai Love Story to Facing El Chapo to Jana Nayagan, new movies and sho",
+          "url": "https://m.economictimes.com/magazines/panache/friday-ott-releases-of-the-week-chennai-love-story-to-facing-el-chapo-to-jana-nayagan-new-movies-and-shows-on-netflix-jiohotstar-prime-video-and-zee5/articleshow/133390501.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-08-21T01:23:57+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AE6SJEf5_2Y73CANZo6zly_s14z7-DFwoAo2Lr9BygWNFHnHcZvNmTBswX8"
+        },
+        {
+          "title": "OTT Release this Week: अक्षय की वेलकम टू द जंगल से सीएम विजय की जन नायगन, इस हफ्ते मचेगा बवाल",
+          "url": "https://www.aajtak.in/entertainment/ott/photo/ott-release-this-week-welcome-to-the-jungle-jana-nayagan-jio-hotstar-zee5-netflix-prime-video-tmovj-2627079-2026-08-21",
+          "source": "AajTak",
+          "published_at": "2026-08-21T12:56:01+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTncDeTL05SFWepZjPOTmsQghGJJSxTW3YOzU4U84Y4QvrRqbmYXhsqXKuOnDc"
+        },
+        {
+          "title": "फ्राइडे को OTT पर महा एंटरटेनमेंट, रिलीज हुई जना नायकन से वेलकम टू द जंगल तक 8 नई",
+          "url": "https://www.abplive.com/entertainment/ott/friday-ott-release-21st-august-jana-nayagan-welcome-to-the-jungle-pyaar-prema-kalyanam-on-netflix-zee5-prime-video-3178036",
+          "source": "ABP News",
+          "published_at": "2026-08-21T06:31:40+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLQUySXcfJRLlbWVwZBHmS03xF_QWLKtfgk7RoEBueB_hDFCYv9W_gHGeZ7B4"
+        },
+        {
+          "title": "OTT Release: ‘वेलकम टू द जंगल’ से लेकर ‘जन नायकन’ तक, इस हफ्ते रिलीज हो रही हैं ये फिल्‍में और सीरीज",
+          "url": "https://www.jansatta.com/entertainment/ott-releases-this-week-welcome-to-the-jungle-to-jana-nayagan-netflix-prime-video-jio-hotstar-zee5-sonyliv/4669673/",
+          "source": "Jansatta",
+          "published_at": "2026-08-20T10:12:07+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRr_PWEPFvYW2PmLDQAxIA8jxWCTIpmpkjXFyfqsDDG5gh_jq21f_VcjrUPhRo"
+        },
+        {
+          "title": "'वेलकम टू द जंगल' का इंतजार खत्म, सिनेमाघरों के बाद आपके घर पहुंची फिल्म, इस ओटीटी पर उठा सकते हैं लुत्फ",
+          "url": "https://hindi.news18.com/photogallery/entertainment/web-series-welcome-to-the-jungle-ott-release-date-akshay-kumar-comedy-movie-streaming-platform-jiohotstar-ws-ln-10770037.html",
+          "source": "News18 Hindi",
+          "published_at": "2026-08-21T06:48:49+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHF_iekJ0ZFKtI1TC3zW9S8zD57sVkH8ALjkxLngGAVLH39Tv6QETDd6lv9us"
+        },
+        {
+          "title": "Friday OTT Release: झन्नाटेदार होगा यह वीकएंड; ओटीटी पर मिलेगी एक्शन-रोमांस और रोमांच की खुराक, देखिए लिस्ट",
+          "url": "https://www.amarujala.com/entertainment/friday-ott-releases-jana-nayagan-welcome-to-the-jungle-lanterns-the-great-grand-superhero-stream-this-weekend-2026-08-19",
+          "source": "Amar Ujala",
+          "published_at": "2026-08-20T00:30:03+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQq7HL01894srH3Yno9DPYWJUl1ayCW8VI27Dxaxz54l5Z6tliUYifJ_uI_Qzs"
+        },
+        {
+          "title": "OTT Release This Week: अक्षय की Welcome To The Jungle से Vijay की Jana Nayagan, इस हफ्ते क्या देखें?",
+          "url": "https://www.lokmatnews.in/photos/bollywood/ott-release-this-week-welcome-to-the-jungle-jana-nayagan-b427/",
+          "source": "Lokmat News Hindi",
+          "published_at": "2026-08-21T15:54:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4EIYOmpfJbgOfSJJ24Wk-l1ONZp34E6C5bojsueIdROWYchDl0Sy8fXqgMw"
+        },
+        {
+          "title": "21 अगस्त को OTT से थिएटर तक मचेगा धमाल, फ्राइडे को रिलीज होंगी ये फिल्में और सीरीज, देखें पूरी लिस्ट",
+          "url": "https://ndtv.in/bollywood/21-august-ott-and-theater-releases-this-friday-new-movies-and-web-series-releasing-jana-nayagan-to-welcome-to-the-jungle-11936083",
+          "source": "NDTV India",
+          "published_at": "2026-08-20T11:59:31+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSp4s25SKKFiV5sGF46f8EIdslfENISraF2UVNCKz3oZaAjNXRFzhbCQBpkLgc"
+        },
+        {
+          "title": "New OTT Releases This Weekend: धमाचौकड़ी मचाने आई ये धमाकेदार फिल्में-सीरीज, जानें कब और कहां होगीं स्ट्रीम",
+          "url": "https://www.etvbharat.com/hi/entertainment/new-ott-releases-this-weekend-jana-nayagan-pyaar-prema-kalyanam-welcome-3-and-more-new-movies-and-series-hin26082106758",
+          "source": "ETV Bharat",
+          "published_at": "2026-08-21T14:50:09+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwPiyzhU3JBoXHq2aGSDHJkcJoAF28vrWiWbAP3K9EL_k6vyB6Z1ZhpCH0a9A"
+        },
+        {
+          "title": "New OTT Release: आज ओटीटी पर आईं ये 6 धमाकेदार फिल्में-सीरीज, लिस्ट देख बनाएं वीकेंड का प्लान",
+          "url": "https://www.livehindustan.com/entertainment/bollywood/21-august-release-list-of-upcoming-movies-and-series-on-ott-this-friday-201787195089328.html",
+          "source": "Hindustan",
+          "published_at": "2026-08-21T05:56:18+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj2YH6dBwyTlVANWT5J1bAcRG3uc6qhApZaNvHMnw3CquVeUn532TQvcwcpxA"
+        },
+        {
+          "title": "जना नायकन से चेन्नई लव स्टोरी तक, इस हफ्ते OTT पर रिलीज हो रहीं 5 धांसू साउथ फिल्में",
+          "url": "https://www.abplive.com/entertainment/ott/south-ott-release-this-week-jana-nayagan-chennai-love-story-pyaar-prema-kalyanam-on-netflix-zee5-jio-hotstar-3176971",
+          "source": "ABP News",
+          "published_at": "2026-08-19T04:21:21+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhkbx7eZBtOhuvguJdrt63NlY36ZBjn_Vq7NcbLWf4eOadjdFAfqkErH4PblI"
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "topic": "pakhi hegde",
+      "approx_traffic": 200,
+      "started_at": "2026-08-21T18:50:00+00:00",
+      "related_queries": [
+        "pakhi hegde"
+      ],
+      "news": [
+        {
+          "title": "‘निरहुआ ने मुझे प्रपोज किया', बोलकर रो पड़ी भोजपुरी हसीना, चौंकी आम्रपाली, पानी पीते रह गए दिनेश लाल यादव",
+          "url": "https://www.aajtak.in/entertainment/ott/story/married-nirahua-aka-dinesh-lal-yadav-proposed-pakhi-hegde-reveals-left-amrapali-dubey-shocked-bhojpuri-bawal-tmova-dskc-2627236-2026-08-21",
+          "source": "AajTak",
+          "published_at": "2026-08-21T16:40:04+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0mRe2gHtixonXaMDdASliffXHimlXDeBoxLj4mPNNPFxVK2XJLaz5FENAYM4"
+        },
+        {
+          "title": "दिनेश लाल यादव ने इस एक्ट्रेस को किया था प्रपोज, सुनते ही आम्रपाली के उड़े होश",
+          "url": "https://www.livehindustan.com/entertainment/bhojpuri/dinesh-lal-yadav-proposed-to-pakhi-hegde-actress-amrapali-dubey-shocked-201787301751508.html",
+          "source": "Hindustan",
+          "published_at": "2026-08-21T09:03:57+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaU_i6SR7X0bbSwDn_tqdIdAPeCUlZx-IRMRJN2tmLVTL2HbhM0BkJTpBZCY"
+        },
+        {
+          "title": "निरहुआ का खुला बरसों पुराना राज, पाखी हेगड़े ने कबूली रिलेशनशिप की बात, आम्रपाली",
+          "url": "https://www.abplive.com/entertainment/regional-cinema/pakhi-hegde-reveals-dinesh-lal-yadav-nirahua-proposed-to-marry-amrapali-dubey-shocked-3178247",
+          "source": "ABP News",
+          "published_at": "2026-08-21T13:53:31+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyPTb-Kig7axkRuK0dfHhU7O9B7C43LkhQbj5oRPbs619ghoNAZxBFsZbZaJ8"
+        },
+        {
+          "title": "Bhojpuri Bawal: भोजपुरी बवाल में हेलमेट और बैट लेकर मैदान में उतरीं आम्रपाली दुबे, सवालों का जवाब देने का अतरंगी अंदाज",
+          "url": "https://ndtv.in/television/bhojpuri-bawal-aamrapali-dubey-actress-question-unique-way-answer-wearing-helmet-bat-viral-video-style-11929157",
+          "source": "NDTV India",
+          "published_at": "2026-08-19T04:52:12+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8qnjxcdyIWtncnS0U9ci_Rh_Eon0Dv6LdwtEzAQXBFYuOFSH9CSjVbfC8zXA"
+        },
+        {
+          "title": "निरहुआ ने कही ऐसी बात कि टूट गया आम्रपाली का दिल, शो ‘भोजपुरी बवाल’ में हुईं भावुक; भारती सिंह ने संभाला",
+          "url": "https://www.amarujala.com/entertainment/bhojpuri/nirahua-comment-on-amrapali-dubey-actress-became-sad-in-show-bhojpuribawal-2026-08-19",
+          "source": "Amar Ujala",
+          "published_at": "2026-08-19T09:14:53+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXcMkODChGfjEnS-bACCNMJC3JOJNXaM7FEtG2-nahxyXRgsb_g7bEzRV64x4"
+        },
+        {
+          "title": "Aamrapali Dubey's angry reaction to being called Nirahua's girlfriend; public trolling...",
+          "url": "https://www.boldsky.com/videos/aamrapali-dubeys-angry-reaction-to-being-called-nirahuas-girlfriend-public-trolling-125170.html",
+          "source": "Boldsky",
+          "published_at": "2026-08-18T22:11:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9nW_klAQvX73JbuzchFSLaF5ls1unyskJUB6Dm1NYnF36i8xCB8iAYqz6-0"
+        },
+        {
+          "title": "आम्रपाली दुबे बोलीं- “निरहुआ मेरे भाई नहीं”, शुभांकर मिश्रा ने उठाए रिश्ते पर सवाल तो तिलमिला उठीं एक्ट्रेस",
+          "url": "https://www.jansatta.com/entertainment/amrapali-dubey-shocks-as-shubhankar-mishra-brutally-asked-reality-of-relationship-with-nirahua-says-aap-maan-lijiye-ki-pyar-karte-hai-ap-dono/4668109/",
+          "source": "Jansatta",
+          "published_at": "2026-08-19T09:10:18+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgP_1CJ7-l-nW2OJmZuTXu0ayCnA_2G5cqb15_F1ZNBa_-Y_rKAJITJO_bOhM"
+        },
+        {
+          "title": "Amrapali Dubey: ‘लड़कियों के शौकीन हैं’ आम्रपाली दुबे की बात पर भड़के पवन सिंह, भोजपुरी बवाल में मचा हंगामा",
+          "url": "https://newswatchindia.com/amrapali-dubey-pawan-singh-bhojpuri-bawal/",
+          "source": "News Watch India",
+          "published_at": "2026-08-19T11:22:55+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwWlBoHa_5FwF0eQvT2gbjN_yT-4k7L1S9oLZPpTLoWKqEboC7XHocUT_d7P0"
+        },
+        {
+          "title": "Nirahua संग रिश्ते पर Aamrapali Dubey का बड़ा बयान, Akshara Singh को लेकर हुईं Emotional",
+          "url": "https://www.abplive.com/short-videos/entertainment/aamrapali-dubey-opens-up-about-nirahua-gets-emotional-while-talking-about-akshara-singh-3177265",
+          "source": "ABP News",
+          "published_at": "2026-08-19T10:55:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqwYeOI18Qzq6VdInc-gcKlYi7ZOu4eLEnM41ekuGEfdE2Q_0dNpEbc1uBYk"
+        },
+        {
+          "title": "पाखी हेगड़े के दीवाने थे निरहुआ, किया था प्रपोज? जवाब सुन आम्रपाली दुबे हुई भौंचक्की बोली- Seriously",
+          "url": "https://hindi.news18.com/news/entertainment/bhojpuri-nirahua-stays-silent-pakhi-hegde-reveals-marriage-proposal-amrapali-dubey-shocked-bhojpuri-bawaal-10770301.html",
+          "source": "News18 Hindi",
+          "published_at": "2026-08-21T10:14:05+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8wxqTr3rBdzqdS8yr-aMcjdnxIAgdqLlbUITFJvT526BY1ZkabZw4yrFun88"
+        }
+      ]
+    }
+  ]
+}
