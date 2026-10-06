@@ -1,0 +1,712 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-10-06T00:14:45.279667+00:00",
+  "window_days": 4,
+  "count": 6,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "राशन कार्ड",
+      "approx_traffic": 200,
+      "started_at": "2026-10-05T23:20:00+00:00",
+      "related_queries": [
+        "राशन कार्ड"
+      ],
+      "news": [
+        {
+          "title": "DM ऑफिस पहुंचा दिव्यांग, हाथ जोड़कर बोला- साहब, भूखा हूं, राशन दिला दीजिए",
+          "url": "https://www.aajtak.in/uttar-pradesh/story/banda-disabled-brijbhushan-ration-card-pension-dm-office-complaint-lclar-strc-2661997-2026-10-05",
+          "source": "Aaj Tak",
+          "published_at": "2026-10-05T13:12:40+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR92LJDsdXWMo_BFF7Dib09XQtZvxyUIt53yBx5A8Q64SdPnDwdQppcdXx3_1o"
+        },
+        {
+          "title": "बांदा में 12 साल से राशन कार्ड का इंतजार: दफ्तरों के चक्कर काट रहा दिव्यांग; बोला- कार्ड मिल जाएगा तो पेट क...",
+          "url": "https://www.bhaskar.com/local/uttar-pradesh/banda/news/banda-disabled-man-ration-card-struggle-official-office-update-139255441.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-05T10:14:31+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3vChNfTt4PymoGdhzba7Y-yp_IzlvowFc2bgEO35ikbAND7UdLeOVeWLi9xM"
+        },
+        {
+          "title": "राशन कार्ड के लिए 12 साल से परेशान दिव्यांग, DM ने दिए कार्रवाई के आदेश",
+          "url": "https://www.aajtak.in/short-videos/video/banda-disabled-man-ration-card-12-years-dm-office-up-police-details-mmtm-2662204-2026-10-05",
+          "source": "Aaj Tak",
+          "published_at": "2026-10-05T15:15:36+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLfNfrryo-x9o2aFJS2TEvKlcX1TG6bpB2S5ydKL_yE6wBUM0AkWSaV0zrPWM"
+        },
+        {
+          "title": "अतरासी में राशन कार्ड शिविर लगा, 22 आवेदन मिले: 9 नए कार्ड के लिए और 13 संशोधन के लिए जमा हुए आवेदन",
+          "url": "https://www.bhaskar.com/local/uttar-pradesh/sambhal/pawasa/news/atrasi-sambhala-ration-card-camp-apply-online-update-139258976.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-05T15:37:20+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMeRQLZYkHHrDIAxQ0QmKbdz_aHuRYttTcGuyuuvAtJ0qDgnrwEDqhf6WC34"
+        },
+        {
+          "title": "अब देश में कहीं भी मिलेगा आपका राशन, ‘वन नेशन, वन राशन कार्ड’ से आसान हुई सुविधा",
+          "url": "https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-one-nation-one-ration-card-ration-anywhere-mara-ration-app-himachal-2026-10-05",
+          "source": "Amar Ujala",
+          "published_at": "2026-10-05T06:30:12+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtZ2JaXnnHm4NnDDAUKy5WCfVCU7YSagbMYI_kS1WASpeWWWCZxI-bl4lfc8"
+        },
+        {
+          "title": "राशनकार्ड में सुधार और ई-केवाईसी के लिए जिला मुख्यालय से जनपद तक लगे शिविर",
+          "url": "https://www.bhaskar.com/local/chhattisgarh/bilaspur/news/camps-were-organised-from-district-headquarters-to-district-level-for-correction-of-ration-cards-and-e-kyc-dbp-139184001.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-04T22:56:25+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-FeKBuVmZeWauKrehHtXvIETAfMhzRSjPnUIs1i3EWLEsQShSX_reOlt57fo"
+        },
+        {
+          "title": "यूपी राशन कार्ड लिस्ट 2026: घर बैठे ऐसे चेक करें नाम, नया राशन कार्ड बनवाने का भी आसान तरीका",
+          "url": "https://nownoida.com/important-info/details/9563/up-ration-card-list-2026-name-check-new-ration-card",
+          "source": "| Now Noida",
+          "published_at": "2026-10-05T05:30:05+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSL6YMN6kQSvsd2VMlNUHSCFtiltoQPPH5VQCF5LGpfP6ouJDSe5jmw8VoAd50"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "बिहार",
+      "approx_traffic": 200,
+      "started_at": "2026-10-05T23:40:00+00:00",
+      "related_queries": [
+        "बिहार"
+      ],
+      "news": [
+        {
+          "title": "बिहार MLC चुनाव से पहले JDU में 'गुटबाजी', अनंत के साथ ललन सिंह, नीरज के साथ नीतीश के बेटे निशांत",
+          "url": "https://www.aajtak.in/bihar/story/bihar-politics-jdu-divided-over-anant-singh-neeraj-kumar-dispute-ntc-apdy-rptc-2662134-2026-10-05",
+          "source": "Aaj Tak",
+          "published_at": "2026-10-05T13:28:11+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcROIFjrZIPh2FDq4dxJ4CZxKizO6lYnQfkeQ9vbTPrmi9gifSoRyPyDWXm1KCI"
+        },
+        {
+          "title": "अनंत के सपोर्ट में ललन सिंह, बोले-पार्टी से चूक हुई: नीतीश ने उम्मीदवार बनाया, विरोध हुआ तो उस वक्त एक्शन क...",
+          "url": "https://www.bhaskar.com/local/bihar/patna/news/patna-jdu-mlc-election-controversy-anant-singh-neeraj-kumar-nitish-139253273.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-05T05:57:14+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcFo8ZBnJQ-9ZmLvdByS3Q-2xNNLXvQhyx4rbCAFoi3uJrpU-YCKm16-KVm9E"
+        },
+        {
+          "title": "ललन सिंह से मिलने पहुंचे नीतीश कुमार, अनंत विवाद में लेंगे बड़ा फैसला?",
+          "url": "https://www.abplive.com/states/bihar/nitish-kumar-meets-lalan-singh-amidst-controversy-between-anant-singh-neeraj-kumar-ann-3197754",
+          "source": "ABP News",
+          "published_at": "2026-10-05T04:55:47+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUuuItqTXZh7QFjaIIIM5VY0PEBcthn_EWYCrig74QUNjRlZ4u1pl36YV6nHc"
+        },
+        {
+          "title": "Bihar MLC Election: अनंत सिंह के समर्थन में उतरे ललन, कहा- ताली एक हाथ से नहीं बजती; पार्टी से हुई चूक",
+          "url": "https://www.jagran.com/bihar/patna-city-lalan-singh-backs-anant-singh-amid-jdu-tensions-in-bihar-mlc-election-40395011.html",
+          "source": "Jagran",
+          "published_at": "2026-10-05T09:25:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-BD5iamvvP6VEDUqkFHFWwpvPbQakvOwntYPyjzNVLd2JqAA9fVu1HeQx0eU"
+        },
+        {
+          "title": "अनंत सिंह जनसुराज का दामन थामेंगे? सवाल सुन क्या बोले प्रशांत किशोर",
+          "url": "https://www.livehindustan.com/bihar/anant-singh-will-join-jan-suraaj-prashant-kishor-reacts-on-question-201791166619162.html",
+          "source": "Hindustan",
+          "published_at": "2026-10-05T02:36:44+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrBtx5-nEk_olH5_lHTMXMRlw2Au51_uNUOFjz0jjfOc2_HK-5T-Afa0nwV54"
+        },
+        {
+          "title": "क्या अनंत सिंह जैसे 'तूफानी गेंदबाज’ का सामना कर पाएंगे नवोदित निशांत? 4 साल पहले गारंटी देकर उखाड़ा था JDU का विकेट",
+          "url": "https://navbharattimes.indiatimes.com/state/bihar/patna/neeraj-anant-dispute-uprooted-jdu-wicket-four-years-ago-with-guarantee-bihar-mlc-election/articleshow/134699540.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-10-05T10:38:50+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBNSKuui8c26aM_4Up1P0wntO_aMMgq1D9d8mcTv9WQCV65BkHn0uwNXqaBoI"
+        },
+        {
+          "title": "Watch Video: नीरज के नामांकन में रविशंकर की एंट्री: सियासत गरमाई, जदयू...",
+          "url": "https://www.prabhatkhabar.com/state/bihar/lakhisarai/lakhisarai-politics-neeraj-kumar-ravishankar-singh-ashok",
+          "source": "Prabhat Khabar",
+          "published_at": "2026-10-05T13:24:31+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8yV9mY0bZCyQgtJEh40qeXFqLKSreXFmcKTbaGBaBBwGKMNvc1eD4JmaR_dU"
+        },
+        {
+          "title": "विधान परिषद चुनाव: एनडीए से नीरज कुमार और नवल किशोर यादव ने भरा पर्चा, नामांकन में पहुंचे निशांत ने क्या कहा?",
+          "url": "https://www.amarujala.com/bihar/mlc-election-neeraj-kumar-naval-kishore-yadav-submit-nomination-papers-amid-nda-show-of-strength-2026-10-05",
+          "source": "Amar Ujala",
+          "published_at": "2026-10-05T14:20:42+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDppQLjDBuxZZBJu7giufJ_iWXQUy_YjwhHvqE_9Clo5AmG3z8SWJddtFhBF4"
+        },
+        {
+          "title": "अनंत सिंह-नीरज कुमार विवाद में नीतीश कुमार की एंट्री? ललन सिंह से हुई चर्चा",
+          "url": "https://www.aajtak.in/india/news/story/bihar-mlc-election-nitish-kumar-lalan-singh-discuss-neeraj-kumar-anant-singh-dispute-ntc-acwi-rpti-2661702-2026-10-05",
+          "source": "Aaj Tak",
+          "published_at": "2026-10-05T06:12:25+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTvTAyXjzFwmomckbsMbRb_-ltFPFkbjXkemc9fI0jDdyPd_zJTXLwMO1dXEg"
+        },
+        {
+          "title": "बिहार MLC चुनाव: नीरज कुमार के समर्थन में उतरे निशांत कुमार",
+          "url": "https://www.aajtak.in/bihar/video/bihar-mlc-election-nishant-kumar-backs-jdu-candidate-neeraj-kumar-amid-anant-singh-rebellion-vdot-ytvd-2661621-2026-10-05",
+          "source": "Aaj Tak",
+          "published_at": "2026-10-05T11:22:36+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYe5-NwtMwr-ni9TTVMB1gZunOrSd66ROrGjgf8OD6bbANmnmGeklVo5SY3qI"
+        },
+        {
+          "title": "बिहार MLC चुनाव: रालोमो में बगावत! 3 विधायकों ने खोला मोर्चा, उपेंद्र कुशवाहा बोले- सियासी नशे में लोग मदहोश",
+          "url": "https://www.jagran.com/bihar/patna-city-rlm-mla-back-independent-in-saran-mlc-poll-upendra-kushwaha-denies-rift-40395505.html",
+          "source": "Jagran",
+          "published_at": "2026-10-05T15:42:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqYUeIltcAUaL5Vsnf2GC8wJWnOw6LAbXwMVggm-uU9IOWbuU9FFJ-82V_LRk"
+        },
+        {
+          "title": "MCLचुनाव: सारण शिक्षक सीट पर RLM में बगावत: आलोक सिंह समेत 3 विधायक राम पुकार सिन्हा के समर्थन में, बोले-का...",
+          "url": "https://www.bhaskar.com/local/bihar/patna/news/saran-teacher-election-rlm-rebellion-ram-pukar-sinha-alok-singh-139253873.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-05T07:29:36+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS42F5yXZV7P5VY8_FdfbYKyBupkTk9uSllnI3IFuuFzOeSmpc--LYRt4_b68I"
+        },
+        {
+          "title": "एनडीए हो या महागठबंधन, माहौल में नशा घुल गया है; उपेंद्र कुशवाहा ने क्यों दिया ऐसा बयान?",
+          "url": "https://www.livehindustan.com/bihar/whether-nda-or-grand-alliance-political-atmosphere-toxic-why-upendra-kushwaha-said-201791198924276.html",
+          "source": "Hindustan",
+          "published_at": "2026-10-05T11:22:25+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREZ11pe21ociOjH4I9bVUEQ18ME9ffFj3_1psES9OdSEFJqkh-2Ni2Sb2QX8"
+        },
+        {
+          "title": "MLC चुनाव के बीच उपेंद्र कुशवाहा की टेंशन बढ़ी, 3 विधायक NDA के खिलाफ",
+          "url": "https://www.abplive.com/states/bihar/upendra-kushwaha-party-3-mla-turn-against-nda-amidst-bihar-mlc-elections-ann-3197896",
+          "source": "ABP News",
+          "published_at": "2026-10-05T08:50:30+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjc2ame3aN72-pRvNHHBTelv_qEp4S2kNDHMHkjvGzDaateGEC3kKf2OOCUZc"
+        },
+        {
+          "title": "बिहार एमएलसी चुनाव के पहले उपेंद्र कुशवाहा की पार्टी RLM में बड़ी टूट, तीन विधायकों के बागी तेवर से जदयू की बढ़ी मुश्किलें",
+          "url": "https://navbharattimes.indiatimes.com/state/bihar/patna/split-in-upendra-kushwaha-party-rlm-ahead-of-bihar-mlc-election-rebellious-stance-of-3-mlas-adds-to-jdu-woes/articleshow/134689549.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-10-05T07:22:55+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVBk24OF1MX0uMwCEC7Ip_kViL7XYUZgpap9HBjGUr0PjPFX1hHqWo2Wf001w"
+        },
+        {
+          "title": "बिहार: एनडीए के निर्देश के बावजूद रामपुकार के साथ दिखे आरएलएम के तीन विधायक, गठबंधन अनुशासन पर उठे सवाल",
+          "url": "https://www.amarujala.com/bihar/saran/upendra-kushwahas-directive-goes-in-vain-rlm-splits-in-saran-teacher-constituency-saran-news-c-1-1-noi1370-4800056-2026-10-05",
+          "source": "Amar Ujala",
+          "published_at": "2026-10-05T12:48:36+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_EYt_Hu0BG2eRpN_A_DOqmtaTrOnqhGt_Ga9IVXSIqQgKSUjv2oUVU2X8CWI"
+        },
+        {
+          "title": "उपेंद्र कुशवाहा के आदेश के खिलाफ उतरे RLM नेता, तीन विधायक भी साथ, इस सीट पर JDU पहले ही उतार चुका है उम्मीदवार",
+          "url": "https://www.prabhatkhabar.com/state/bihar/bihar-mlc-election-saran-teacher-seat-rlm-rampukar-sinha-jdu-pushkar-anand-nda",
+          "source": "Prabhat Khabar",
+          "published_at": "2026-10-05T09:10:11+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsHQjFQFDcinGYcQqf0qk8YqiNOrm5m-IppReYomidNRDaiAZTcImLROHfiJY"
+        },
+        {
+          "title": "एमएलसी चुनाव में RLM विधायकों की बगावती गतिविधि पर उपेंद्र कुशवाहा का तंज, बोले- राजनीति का नशा भूलने पर लोग मदहोश हो जाते हैं",
+          "url": "https://kashishnews.com/news/jharkhand-news-321993",
+          "source": "Kashish News",
+          "published_at": "2026-10-05T09:01:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPUkfgm2VUHXIDUGc8YRH3tdowqHs6rlU09JU8nvUjVADyDkCrL05F3d5Uh6M"
+        },
+        {
+          "title": "सारण शिक्षक सीट पर RLM में बगावत: आलोक सिंह समेत 3 विधायक राम पुकार सिन्हा के समर्थन में, बोले-कार्यकर्ता क...",
+          "url": "https://www.bhaskar.com/g/local/bihar/patna/news/saran-teacher-election-rlm-rebellion-ram-pukar-sinha-alok-singh-139253873.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-05T07:29:36+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS42F5yXZV7P5VY8_FdfbYKyBupkTk9uSllnI3IFuuFzOeSmpc--LYRt4_b68I"
+        },
+        {
+          "title": "बिहार MLC चुनाव के बीच उपेंद्र कुशवाहा की पार्टी रालोमो दो फाड़, एनडीए उम्मीवार के खिलाफ हुए 3 विधायक",
+          "url": "https://www.livehindustan.com/bihar/revolt-in-upendra-kushwaha-party-rlm-madhav-anand-and-other-mlas-are-against-nda-candidate-on-saran-seat-201791182289931.html",
+          "source": "Hindustan",
+          "published_at": "2026-10-05T06:54:30+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT4SRmwR5wQV5X3PlS1uCLuFQC5KJG4LZR1BDR73BqYefRqqD5VV8N4Cu8hMI"
+        },
+        {
+          "title": "राहुल गांधी सरकार गिरा देते, लेकिन..., उपेंद्र कुशवाहा का बड़ा बयान",
+          "url": "https://www.abplive.com/states/bihar/upendra-kushwaha-attack-on-rahul-gandhi-kharge-tejashwi-yadav-statement-3197977",
+          "source": "ABP News",
+          "published_at": "2026-10-05T11:43:49+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOYUvqSBw0Dphi4_wPqvE5GpCWj8W4ldFZzdzcJ-YB32IOdKkJ0DGh-ASE9RI"
+        },
+        {
+          "title": "‘राहुल गांधी का बस चला होता तो कब का सरकार गिरा देते, लेकिन...’, उपेंद्र कुशवाहा का पलटवार, बोले-उनके बोलने...",
+          "url": "https://hindi.news18.com/news/bihar/patna-upendra-kushwaha-reaction-rahul-gandhi-statement-patna-bihar-politics-local18-10887742.html",
+          "source": "News18 Hindi",
+          "published_at": "2026-10-05T12:35:38+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNqpETRYuDxDPPANm_mKB6XMWee7gERlZFOoiEJ2o__F0rdJjMA_Dp1hBuJc8"
+        },
+        {
+          "title": "नीतीश को 'PM उम्मीदवार बनाने से विपक्ष होता मजबूत': RLM सुप्रीमो उपेंद्र कुशवाहा ने कांग्रेस पर मौका गंवाने...",
+          "url": "https://www.bhaskar.com/local/bihar/rohtas/sasaram/news/sasaram-rlm-upendra-kushwaha-statement-nitish-kumar-pm-candidate-139232524.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-03T07:43:29+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQAF3r9X51RjlEHPvDi3OqGBilLy9N6qu0iW1BbmCuxq-_ctaJaFdsLjCApKg"
+        },
+        {
+          "title": "'युद्ध हारने के बाद याद आता है दांव..' उपेंद्र कुशवाहा का कांग्रेस पर तंज, बोले-'नीतीश होते PM चेहरा तो मजबूत होता विपक्ष'",
+          "url": "https://www.etvbharat.com/hi/bharat/upendra-kushwaha-targets-congress-nitish-kumar-pm-face-india-alliance-bihar-politics-brn26100200641",
+          "source": "ETV Bharat",
+          "published_at": "2026-10-02T02:30:38+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1LkhFPPDHATWk1SH9NR98jQEZqK3WxlR_AK4ocCrfQLCKPZn2Wzy73Nkstlw"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "सूर्यकुमार यादव",
+      "approx_traffic": 100,
+      "started_at": "2026-10-05T23:20:00+00:00",
+      "related_queries": [
+        "सूर्यकुमार यादव"
+      ],
+      "news": [
+        {
+          "title": "सूर्यकुमार यादव को बड़ा झटका, टीम इंडिया के बाद मुंबई की रणजी टीम से भी छुट्टी!",
+          "url": "https://www.abplive.com/sports/cricket/suryakumar-yadav-has-been-left-out-of-mumbai-ranji-trophy-2026-27-squad-for-first-match-against-chandigarh-3198136",
+          "source": "ABP News",
+          "published_at": "2026-10-05T16:59:14+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ9KgBkDLL47Ly1R2SJnw6mbClsu4dB3gGbdcHquQXXlTv3EzdXfwePFT6-OU"
+        },
+        {
+          "title": "Ranji Trophy: टीम इंडिया के बाद मुंबई क्रिकेट से भी मिला झटका, सूर्यकुमार यादव को ड्रॉप किया गया",
+          "url": "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/suryakumar-yadav-did-not-find-place-in-mumbai-squad-for-first-match-of-ranji-trophy/articleshow/134711402.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-10-05T15:43:28+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSUktnH-26Vxa1fEY8SRfuEE2tmghKbfHCd-ulRtmhn3PuGn32i5I560HGXIc"
+        },
+        {
+          "title": "यशस्वी जायसवाल-सरफराज खान टीम में शामिल, इस प्लेयर को मिली मुंबई की कप्तानी, पहले रणजी मैच के लिए टीम का ऐलान",
+          "url": "https://www.livehindustan.com/cricket/ayush-mhatre-named-vice-captain-yashasvi-jaiswal-and-sarfaraz-khan-included-in-mumbai-s-squad-for-first-ranji-match-201791215011488.html",
+          "source": "Hindustan",
+          "published_at": "2026-10-05T16:29:30+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj9zJmGkGkm4j_77D4OJoSzF3g4cmeprWQrtd0yAu6NKw0Onjw77R5Eb8zxMk"
+        },
+        {
+          "title": "सूर्यकुमार यादव रणजी ट्रॉफी में लौटेंगे: मुंबई के लिए 11 अक्टूबर से खेल सकते हैं, शार्दूल ठाकुर चोट के कारण...",
+          "url": "https://www.bhaskar.com/sports/cricket/news/mumbai-ranji-trophy-suryakumar-yadav-shardul-thakur-update-139253809.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-05T07:19:28+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT459z3eMoEzEf8yPKqqx9XJo7KfLAHR_R_qEcFF0FaUzwoAnyGwE24Q6T7TRA"
+        },
+        {
+          "title": "आयुष म्हात्रे बने उपकप्तान, यशस्वी-सरफराज भी शामिल, सूर्यकुमार यादव को जगह नहीं; रणजी ट्रॉफी के लिए मुंबई की टीम का ऐलान",
+          "url": "https://www.jansatta.com/khel/ayush-mhatre-vice-captain-yashasvi-jaiswal-sarfaraz-khan-musheer-khan-included-suryakumar-yadav-out-ranji-trophy-2026-27-mumbai-team-squad-announced/4732650/",
+          "source": "Jansatta",
+          "published_at": "2026-10-05T15:40:34+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxiHp9wmngIG8TWqFC9o3xY4DousGp3WaYVb_ckGZ7YCvJFcJiZs70-04xYuI"
+        },
+        {
+          "title": "मुंबई रणजी ट्रॉफी 2026-27 स्क्वाड: सीजन के पहले मैच के लिए यशस्वी जायसवाल और तुषार देशपांडे टीम में शामिल",
+          "url": "https://www.rajasthanroyals.com/hi/latest-news/mumbai-ranji-trophy-2026-27-squad-yashasvi-jaiswal-tushar-deshpande-hi",
+          "source": "www.rajasthanroyals.com",
+          "published_at": "2026-10-05T20:55:28+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-wipz4HiJHWXusTtK669eJRERGF2i02mp6HgmQe9OB-In258aoJW4aSP5Y8"
+        },
+        {
+          "title": "मुंबई के रणजी ट्रॉफ़ी दल में सरफ़राज़ और जायसवाल शामिल, पहला राउंड नहीं खेलेंगे शार्दुल ठाकुर",
+          "url": "https://www.cricinfo.com/hindi/story/yashasvi-jaiswal-sarfaraz-khan-in-mumbai-ranji-squad-shardul-thakur-to-miss-first-round-1557246",
+          "source": "Cricinfo",
+          "published_at": "2026-10-05T05:19:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmEVgEf7m04y3Pdu9X2KrYXiqfGun5c-HaL8ouWrBhIklNkzu9jg_chp-7_dE"
+        },
+        {
+          "title": "मुंबई के रणजी ट्रॉफी में पहले मैच के लिए म्हात्रे को उप-कप्तान, जायसवाल शामिल",
+          "url": "https://bhasha.ptinews.com/home-detail/4134044",
+          "source": "Press Trust of India",
+          "published_at": "2026-10-05T14:59:22+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNv6uqZnWy_y52M9xC2ur4qaVNWAuQqZCUeOT9sKWs6ON5w0yNfRE3i17JNKw"
+        },
+        {
+          "title": "खेल : यशस्वी मुंबई की रणजी ट्रॉफी में, म्हात्रे उप कप्तान",
+          "url": "https://www.livehindustan.com/national/story-india-s-yashasvi-jaiswal-joins-mumbai-team-for-ranji-trophy-2023-201791215050805.html",
+          "source": "Hindustan",
+          "published_at": "2026-10-05T15:44:13+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRose3dmNVltB_F-ZrHUhC8N2uTqE2OgqsWHn2rMPKKtDfmTzgO64xSijoOxaY"
+        },
+        {
+          "title": "मुंबई के रणजी ट्रॉफी में पहले मैच के लिए म्हात्रे को उप-कप्तान, जायसवाल शामिल",
+          "url": "https://hindi.theprint.in/sports/mhatre-named-vice-captain-jaiswal-included-for-mumbais-first-ranji-trophy-match/1039377/",
+          "source": "ThePrint Hindi",
+          "published_at": "2026-10-05T15:04:58+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnroKhCCSLqrqzHKAJR4Q3RZtH5dUh84f1Cpyo4ghkNByEaiQd5sWS7zHulTM"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "lionel messi argentina",
+      "approx_traffic": 100,
+      "started_at": "2026-10-05T23:30:00+00:00",
+      "related_queries": [
+        "lionel messi argentina"
+      ],
+      "news": [
+        {
+          "title": "Lionel Messi to join Argentina for farewell match against Benin",
+          "url": "https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin",
+          "source": "Al Jazeera",
+          "published_at": "2026-10-05T12:30:56+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa_6FQXXqr-k6C2W_0Oe4N68SV81V-43TePTcdUEYAKZ5X6mRewUw_pOTU9yM"
+        },
+        {
+          "title": "Messi's last tango in Buenos Aires",
+          "url": "https://www.newindianexpress.com/opinion/2026/Oct/05/messis-last-tango-in-buenos-aires",
+          "source": "The New Indian Express",
+          "published_at": "2026-10-05T18:30:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYqGnqON3huwmhf3dPzRW5KLBMWra88pZLVdvkvz4cp1gm1v1SWHWry2X3xJc"
+        },
+        {
+          "title": "Messi didn’t want to play in his farewell, suspects AFA is using last game to earn millions in his name:",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/messi-didnt-want-to-play-in-his-farewell-suspects-afa-is-using-his-last-game-to-earn-millions-in-his-name-reports/articleshow/134713014.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-05T18:31:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXYgzJiug9wGA9q4w33pQdERXyWHCRIuQ4zeAXIYiofHPDJ9ig1qJU5VUKONI"
+        },
+        {
+          "title": "Argentine - Les fans se préparent à faire leurs adieux à Lionel Messi",
+          "url": "https://onefootball.com/en/video/argentine-les-fans-se-preparent-a-faire-leurs-adieux-a-lionel-messi-43565692",
+          "source": "OneFootball",
+          "published_at": "2026-10-05T18:38:32+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6DSj4F1Tp1tc4rWOzZ19c1xVEcm9SktUm5Ej16E6OEX0Uu1ZXXkOJ47AGK4"
+        },
+        {
+          "title": "Life after Lionel Messi: Who will be Argentina's next No.10?",
+          "url": "https://www.goal.com/en-in/originals/life-after-lionel-messi-argentina-next-no-10/blt8d51511076ead3d7",
+          "source": "Goal.com",
+          "published_at": "2026-10-05T11:06:27+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC79KWDOOacvmicdnSwM5HfWIB-BXsinSJGYj8vFpDqmwa5VOeNPWc-R5qKbA"
+        },
+        {
+          "title": "“Don't mark Messi”: a Benin defender's unusual \"plan\" to stop the No. 10",
+          "url": "https://www.marca.com/en/football/2026/10/05/don-t-mark-messi-benin-defender-s-unusual-plan-to-stop-the-10.html",
+          "source": "MARCA",
+          "published_at": "2026-10-05T19:18:23+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDg3wA5ZZ9WPtwZGnrAdMvpH2g3QMbR6u-IVZKp-KV7V2e3omNaYwX0dSwVCI"
+        },
+        {
+          "title": "‘Barbecue’—Emiliano Martinez Reveals Argentina’s Plan for Lionel Messi’s Farewell",
+          "url": "https://www.fotmob.com/embed/news/01m46qaz055n/barbecueemiliano-martinez-reveals-argentinas-plan-lionel-messis-farewell",
+          "source": "FotMob",
+          "published_at": "2026-10-05T21:39:08+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTI-N14DiAI_d5eA_DFpMOt_XGvHiJ9czSqzwLmADNSLqZB-xnKtcnLFbjSEE"
+        },
+        {
+          "title": "Argentina vs Benin predictions and betting tips: Argentina to give Messi a goal-filled farewell",
+          "url": "https://www.squawka.com/en/news/argentina-vs-benin-predictions-betting-tips-06-10-26/",
+          "source": "Squawka",
+          "published_at": "2026-10-05T12:19:58+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNsDrfN6PuBhg31LlL8g85JxE8g39ZGt2HErQOq0kuctgKDsK7kC2-wn8QJTc"
+        },
+        {
+          "title": "Lionel Messi returns to Argentina ahead of emotional farewell match with national team",
+          "url": "https://apnews.com/article/lionel-messi-argentina-scaloni-62d8dafe02ccae1a625cc2d7b1448b42",
+          "source": "AP News",
+          "published_at": "2026-10-02T17:30:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3SoQjdH9D6K1B17Ucni9cMcrLccqdmuuYrFWC7jWgR9XUtI68hb0LiqGxD1A"
+        },
+        {
+          "title": "‘Farewell he truly deserves’: Lionel Messi joins Argentina camp ahead of emotional swansong",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/farewell-he-truly-deserves-lionel-messi-joins-argentina-camp-ahead-of-emotional-swansong/articleshow/134688787.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-05T06:56:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRakb8JGn5FZgWgodLli6CkSceXjJgVce10oVBpPvM8LJibRqZE5vYimFUrY-Y"
+        },
+        {
+          "title": "A nation divided as Ronaldo left with big decision on Portugal future",
+          "url": "https://www.bbc.com/sport/football/articles/crwyd31nw2w4o",
+          "source": "BBC",
+          "published_at": "2026-10-05T10:22:57+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRR0kgAH45cZD5ff6EeTxYFQrII4WThCgbrGaj0orzi_XgZlTOS5nVXPKsj7Sw"
+        },
+        {
+          "title": "Cristiano Ronaldo row 'a misunderstanding to be resolved' - Portugal FA boss",
+          "url": "https://www.espn.in/football/story/_/id/50107997/cristiano-ronaldo-door-open-portugal-return-jorge-jesus",
+          "source": "ESPN India",
+          "published_at": "2026-10-05T07:39:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-XhqGaQNpuIIdZEw8p85WJqebSRHNFUxDMFjv4CS0mRgSCFe8ae1Dni7C_5w"
+        },
+        {
+          "title": "Cristiano Ronaldo's Portugal dispute happening against the backdrop of Lionel Messi's Argentina farewell feels fitting",
+          "url": "https://www.skysports.com/football/news/13594313/cristiano-ronaldos-portugal-dispute-happening-against-the-backdrop-of-lionel-messis-argentina-farewell-feels-fitting",
+          "source": "Sky Sports",
+          "published_at": "2026-10-05T22:30:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk8IFlBwzA5XUhMLN0QV7U_pRwkJzGrHGmvCrKjK94U83UpLzrsNTd9phwFog"
+        },
+        {
+          "title": "Jorge Jesus on Ronaldo row: 'You can’t break up a year-long friendship over a situation I can’t even unde",
+          "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/jorge-jesus-on-ronaldo-row-you-cant-break-up-a-year-long-friendship-over-a-situation-i-cant-even-understand-i-dont-apologise-to-anyone/articleshow/134691081.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-05T08:58:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHR7krd72VYqlz2iym4cmFAcF7VSPIo1PKY09aGisTKEjhIwptYHQlT14rIuE"
+        },
+        {
+          "title": "Ronaldo’s break with Portugal is sad, fitting, and long overdue | Jonathan Wilson",
+          "url": "https://www.theguardian.com/football/2026/oct/05/cristiano-ronaldo-portugal-rift",
+          "source": "The Guardian",
+          "published_at": "2026-10-05T15:38:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFLXCAm4JPQ8LEjEtTHb3xOytLVS_jS4lFdo1BSiAuL4gbur5_f-LCAjjiDBU"
+        },
+        {
+          "title": "Cristiano Ronaldo can return to Portugal team if he wants, says Jesus",
+          "url": "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus",
+          "source": "Al Jazeera",
+          "published_at": "2026-10-04T23:16:49+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSBvizchY7x6K-PGbdkc7ifQQVfk2Sffa2miGBpPFx_yWmnMEvwe1r4S38WLvs"
+        },
+        {
+          "title": "\"You will go to the elephants' graveyard\": world champion issues harsh warning to Ronaldo",
+          "url": "https://www.goal.com/en-in/news/you-will-go-to-the-elephants-graveyard-world-champion-issues-harsh-warning-to-ronaldo/blta348ce9f1d5e20a3",
+          "source": "Goal.com",
+          "published_at": "2026-10-05T07:29:27+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUJ-LFja7aSZ55OCGxVDCAM4gUqPd0wjnj3t8BHakWih9PEWKXVIAVgr4zEuo"
+        },
+        {
+          "title": "Cristiano Ronaldo enjoys family time as Portugal tries to bring him back",
+          "url": "https://www.marca.com/en/football/2026/10/05/cristiano-ronaldo-enjoys-family-time-as-portugal-tries-to-bring-him-back.html",
+          "source": "MARCA",
+          "published_at": "2026-10-05T04:15:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxuXRMmwTMjy0L9PwXjVxCMooxh2nF6xeqiOYY3w30MXTAFXHykIk3Js70bkk"
+        },
+        {
+          "title": "Jesus, FPF chief fail in airport bid to stop Ronaldo leaving Portugal camp, Marca reports",
+          "url": "https://www.reuters.com/sports/soccer/jesus-fpf-chief-fail-airport-bid-stop-ronaldo-leaving-portugal-camp-marca-2026-10-01/",
+          "source": "Reuters",
+          "published_at": "2026-10-01T12:06:09+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHVf4uafPWF0C4mfhG7DWsKMk6g59xs2LzoUrJnGf5r4stGZwmMjv0KR7Da7o"
+        },
+        {
+          "title": "Ronaldo quits Portugal camp ahead of Denmark clash, promising to reveal 'the truth'",
+          "url": "https://www.euronews.com/2026/09/30/ronaldo-quits-portugal-camp-ahead-of-denmark-clash-promising-to-reveal-the-truth",
+          "source": "Euronews.com",
+          "published_at": "2026-09-30T19:37:08+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6LxtyA1UwMpacW_o_hieZHzRISEUhQUzN_gIutN-xQ7A006YIyoYRI5vbMFs"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "हरदीप सिंह पुरी",
+      "approx_traffic": 100,
+      "started_at": "2026-10-05T23:30:00+00:00",
+      "related_queries": [
+        "हरदीप सिंह पुरी"
+      ],
+      "news": [
+        {
+          "title": "राज्यसभा चुनाव: सपा का तीसरा उम्मीदवार आज करेगा नामांकन, BJP से होगी कड़ी टक्कर",
+          "url": "https://www.aajtak.in/uttar-pradesh/story/up-rajya-sabha-election-2026-sp-third-candidate-to-file-nomination-ntc-drmt-rpti-2662229-2026-10-05",
+          "source": "Aaj Tak",
+          "published_at": "2026-10-05T16:16:40+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFH2fbg21h3gAas4FP7khZ4-72-KB6cgnJGxUr612ygMmH3OQBX1SGfJVFhuA"
+        },
+        {
+          "title": "UP राज्यसभा चुनाव: BJP ने 8 उम्मीदवारों के नाम किए घोषित, धर्मपाल सिंह को मौका; हरदीप सिंह पुरी का पत्ता कट",
+          "url": "https://www.indiatv.in/india/politics/bjp-announced-names-of-8-candidates-for-up-rajya-sabha-elections-dharmpal-singh-gets-a-chanc-while-hardeep-singh-puri-is-dropped-2026-10-05-1247054",
+          "source": "India TV Hindi",
+          "published_at": "2026-10-05T09:45:15+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsXRXOQf3UbscV01KAdxAAUaq4a5dKW2n3sXr7ebSTZ6GnUx6c7aTBpVTzrRA"
+        },
+        {
+          "title": "झारखंड के राज्यपाल संतोष कुमार गंगवार की पुत्री यूपी भाजपा से राज्यसभा चुनाव में उम्मीदवार",
+          "url": "https://www.jagran.com/jharkhand/ranchi-bjp-nominates-shruti-gangwar-for-rajya-sabha-from-up-40395514.html",
+          "source": "Jagran",
+          "published_at": "2026-10-05T15:49:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1cSCIRBnIG5nAakvZFYLDxCm9mIvfS81OxRbKucAoygEgWCuRcix2t8NHhW8"
+        },
+        {
+          "title": "भाजपा ने विद्यासागर सोनकर को राज्यसभा प्रत्याशी बनाया: बूथ अध्यक्ष से शुरू किया सफर, अब बनेंगे संसद के उच्च...",
+          "url": "https://www.bhaskar.com/local/uttar-pradesh/jaunpur/news/vidyasagar-sonkar-bjp-rajya-sabha-candidate-uttar-pradesh-nomination-139256837.html",
+          "source": "Dainik Bhaskar",
+          "published_at": "2026-10-05T12:17:17+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEMj4EyleocSVosBIHRjHCmHWKd0dljVnpUyG5amKzfBYxQaMi1oNUA8d3t4Y"
+        },
+        {
+          "title": "'कोई दीवाना कहता है...' कुमार विश्वास का राज्यसभा ख्वाब फिर क्यों अधूरा रहता है? BJP की 5 रणनीतियों ने कैसे...",
+          "url": "https://hindi.news18.com/news/uttar-pradesh/lucknow-why-bjp-not-confirmed-kumar-vishwas-rajya-sabha-2026-election-ticket-5-strategies-reason-ws-l-10887777.html",
+          "source": "News18 Hindi",
+          "published_at": "2026-10-05T13:01:15+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAXkGfyzxCE5JEihjcyurSRqxZc3Jdr44t2egpEzS_NaWFyO6YZ3AFXpP0zgg"
+        },
+        {
+          "title": "क्या राज्यसभा चुनाव में SP की रणनीति हुई नाकाम? दिखी BJP की PDA पालिटिक्स, उम्मीदवारों के ऐलान से गरमाई राजनीति",
+          "url": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/lucknow/rajya-sabha-election-2026-sp-strategy-broke-by-bjp-in-candidate-announcement/articleshow/134703876.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-10-05T11:54:34+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtBcGM4qJ3g-KGL43N-T54pxIhJdIVSFcfikBY9LmvuNGl8GxWFH5jiIRtWY4"
+        },
+        {
+          "title": "योगी से मिले संतोष, फिर जारी हुई भाजपा की सूची",
+          "url": "https://www.livehindustan.com/national/story-bjp-national-organizer-discusses-up-elections-amid-state-rajya-sabha-candidates-announcement-201791213352242.html",
+          "source": "Hindustan",
+          "published_at": "2026-10-05T15:15:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRose3dmNVltB_F-ZrHUhC8N2uTqE2OgqsWHn2rMPKKtDfmTzgO64xSijoOxaY"
+        },
+        {
+          "title": "राज्यसभा चुनाव में अधिवक्ता राधाकांत को प्रत्याशी बनाए जाने पर वकीलों ने जताई खुशी",
+          "url": "https://www.amarujala.com/video/uttar-pradesh/allahabad/video-lawyers-expressed-happiness-over-advocate-radhakant-being-named-a-candidate-for-the-rajya-sabha-election-2026-10-05",
+          "source": "Amar Ujala",
+          "published_at": "2026-10-05T12:27:43+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYtJAzTgV7wMRn-eXAOtx6xqYXGk3z5QvXi2ZLTjXeCG3-gcrqRKu8ckW_rUU"
+        },
+        {
+          "title": "Exclusive: नरेंद्र मोदी के साथ 25 साल पहले देखी थी 'गदर' फिल्म, अब उस नेता को मिला राज्यसभा का टिकट",
+          "url": "https://www.aajtak.in/uttar-pradesh/story/gopi-krishna-pandey-bjp-rajya-sabha-candidate-kanpur-ntc-dhrj-rpti-2662253-2026-10-05",
+          "source": "Aaj Tak",
+          "published_at": "2026-10-05T17:09:14+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHPDfS4UPLM1sTv0jnNPnA44rw7z2ynf8avb-5Dd11dKsLEihfxbx6Dj_sfdE"
+        },
+        {
+          "title": "कैबिनेट फेरबदल से लेकर यूपी चुनाव, हरदीप पुरी समेत 8 राज्यसभा सांसदों का कटा टिकट; BJP के इस सरप्राइज के क्या मायने",
+          "url": "https://navbharattimes.indiatimes.com/india/up-rajya-sabha-elections-ticket-cut-for-8-mp-including-hardeep-puri-what-are-the-implications-of-this-bjp-decision-up-election-2027/articleshow/134711871.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-10-05T16:09:50+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXBGACwJmIGGoXOUZePbFoVOF0wilRZC7Zp7TZHVOvtxck0muM2kZub9cSoQ"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic": "zee5",
+      "approx_traffic": 100,
+      "started_at": "2026-10-05T23:20:00+00:00",
+      "related_queries": [
+        "zee5"
+      ],
+      "news": [
+        {
+          "title": "Zee5 launches Clips with Google Cloud to turn movies, shows into AI-powered short videos",
+          "url": "https://m.economictimes.com/industry/media/entertainment/media/zee5-launches-clips-with-google-cloud-to-turn-movies-shows-into-ai-powered-short-videos/articleshow/134706082.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-10-05T12:41:10+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCCSWlHuri4W8cpORjdXqrd2KA2aKVUzebOKVSiiTVk971UCQEVoEusn2aC-Y"
+        },
+        {
+          "title": "ZEE5 taps Gemini AI to make long-form catalogue easier to discover",
+          "url": "https://indiantelevision.com/iworld/zee5-taps-gemini-ai-to-make-long-form-catalogue-easier-to-discover/",
+          "source": "Indian Television Dot Com",
+          "published_at": "2026-10-05T17:55:43+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdmzq2vNNzQyss1Z5G4ku-sNEkaVtIRlgopshnEVs7O6WqjOBpflPr0HgELbc"
+        },
+        {
+          "title": "Zee 5 launches AI-powered Clips with Google Cloud",
+          "url": "https://www.thehindubusinessline.com/companies/zee-5-launches-short-video-vertical-to-sample-platform-content/article71546281.ece",
+          "source": "BusinessLine",
+          "published_at": "2026-10-05T08:07:37+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0xgT6QeiQpk8Pf8L3nhXjdWt3K2-u0qqszOuH0CGxjnfY-vq0fq5nvrp-FQA"
+        },
+        {
+          "title": "Zee 5 partners with Google Cloud to power AI-driven content discovery through ‘Clips’",
+          "url": "https://www.fonearena.com/blog/494102/zee-5-clips-google-cloud.html",
+          "source": "FoneArena.com",
+          "published_at": "2026-10-05T09:07:57+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9vLPA3upZCGrFpn1xMGoonKbVmZkvIpWSq80imyLWVl66zrlUTxI1EUJ5m2Q"
+        },
+        {
+          "title": "Zee5 Uses AI and Google Cloud to Reinvent Streaming Content Discovery",
+          "url": "https://www.konsulteer.com/article/zee5-uses-ai-and-google-cloud-to-reinvent-streaming-content-discovery",
+          "source": "Konsulteer",
+          "published_at": "2026-10-05T11:43:14+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKFZ9cjHcpFqWuzzqWW0KfyrtoSLX_TSpE0CfLEXfdC6-6OFP3fSl3oSKMcU"
+        },
+        {
+          "title": "Zee 5-Google Cloud Tie-Up",
+          "url": "https://www.fintechbiznews.com/fintech-technology/zee-5-google-cloud-tie-up",
+          "source": "https://www.fintechbiznews.com/",
+          "published_at": "2026-10-05T05:13:20+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPkXpXsYivHjdwjw560brkM5tDG3_Wn7CkfrIWEyT-lfARm1iMrctBvrMk1L8"
+        },
+        {
+          "title": "Zee 5 turns 1,200 titles into 13,000 AI-made short videos with Google Cloud",
+          "url": "https://t2online.in/tech/tech-news/zee-5-turns-1-200-titles-into-13-000-ai-made-short-videos-with-google-cloud/2008452",
+          "source": "t2ONLINE",
+          "published_at": "2026-10-05T08:01:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQC3Qpp44dS8-2f74TjZF8Gb1m1KkmshbPJod2NbLnKVgO8UZXIeqrGI75Vtb4"
+        },
+        {
+          "title": "Zee5’s AI-powered short-video experience Clips sees uptick",
+          "url": "https://www.indianbroadcastingworld.com/zee5s-ai-powered-short-video-exp/",
+          "source": "Indian Broadcasting World",
+          "published_at": "2026-10-05T06:28:49+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStZHoB-KjTbM9SV4snY5vo2aWJ68IJac4btYXuYLHxxd1sNKPcq_F93g2esO4"
+        },
+        {
+          "title": "Zee 5 launches AI 'Clips' short-video feature using Google Cloud",
+          "url": "https://www.newsbytesapp.com/news/entertainment/zee-5-launches-ai-clips-short-video-feature-using-google-cloud/tldr",
+          "source": "NewsBytes",
+          "published_at": "2026-10-05T08:43:52+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmrsOf-EZr60mLxcTybvEYo8W9oktaXioFafJJoCctWY5l1UVeYjByRY0zuPs"
+        },
+        {
+          "title": "Zee 5 and Google Cloud Collaborate to Reimagine Content Discovery with ‘Clips’",
+          "url": "https://www.itvoice.in/zee-5-and-google-cloud-collaborate-to-reimagine-content-discovery-with-clips",
+          "source": "IT Voice Media",
+          "published_at": "2026-10-05T07:54:07+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTc2H4c2-Tv6TRJLBu8x5AW6gFLrR3dGUnpjhjUNhyQIQ4_4mib7dZ137iBP8"
+        },
+        {
+          "title": "Bakaiti Season 2: Family Chaos and Comedy Now Streaming on Zee 5 Global",
+          "url": "https://www.themovieblog.com/2026/10/bakaiti-season-2-family-chaos-comedy-zee-5-global/",
+          "source": "The Movie Blog",
+          "published_at": "2026-10-05T22:00:55+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgnhJIgSXWURZcTLNZrcJcaBdtlIUzhapehev4hdrz7Te6YtqQrEcvy16Huow"
+        },
+        {
+          "title": "Rajesh Tailang: I want to do an age-appropriate love story like The Lunchbox",
+          "url": "https://www.cinemaexpress.com/ott/interviews/2026/Sep/28/rajesh-tailang-i-want-to-do-an-age-appropriate-love-story-like-the-lunchbox",
+          "source": "Cinema Express",
+          "published_at": "2026-09-28T06:08:57+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUeRnuQV5eGg19Kn7YVfZrD-DDRo5tgP8xMjvQsYtBhEj_5BHdCQ_VfI3ELbk"
+        },
+        {
+          "title": "Will there be a season 3 of ‘Bakaiti’? Here’s what we know about the Zee5 family drama",
+          "url": "https://www.lifestyleasia.com/ind/entertainment/streaming/will-there-be-a-bakaiti-season-3-zee5-comedy-drama/",
+          "source": "Lifestyle Asia Hong Kong",
+          "published_at": "2026-09-28T11:21:15+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJUoexB4TtP6e41rpwkMVC3gGH8_t9OMixi8ZQ3x-QurPfFmLreHbYt0ZmlFk"
+        },
+        {
+          "title": "Bakaiti 2 review: The second season of the series fills the gaps that the first season left behind!",
+          "url": "https://www.socialketchup.in/review/bakaiti-2-review-12586707",
+          "source": "Social Ketchup",
+          "published_at": "2026-09-28T12:46:52+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh3Ov-9dpOWOTZsAUAsXQGkgKXnqN8RA19jQY1TWoLDZ6ymSAgGeyH600jus4"
+        },
+        {
+          "title": "‘టాక్సిక్’ ఓటీటీ రిలీజ్ మరింత ఆలస్యం.. అక్టోబర్‌లోనూ డౌటే!",
+          "url": "https://www.chitrajyothy.com/2026/ott/toxic-ott-release-delayed-october-zee5-streaming-update-kbk-75941.html",
+          "source": "Chitrajyothy",
+          "published_at": "2026-10-03T06:33:13+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaMOmB5kN5Rp9Wx8-0_ajtcgJuG3baQUn0kStWgpmsYSWOdBHIS7dW4Z5GhXg"
+        },
+        {
+          "title": "Toxic OTT : టాక్సిక్ ఓటీటీ రిలీజ్ ఆలస్యం - నవంబర్ ఫస్ట్ వీక్‌లో వస్తుందా?... ఎందులో స్ట్రీమింగ్",
+          "url": "https://telugu.abplive.com/entertainment/ott-webseries/toxic-ott-release-date-yash-nayanthara-kiara-advani-action-entertainer-when-to-watch-on-zee5-260343",
+          "source": "ABP Desam",
+          "published_at": "2026-09-30T11:18:54+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTe-Gd3WijV5Yq_oonl7EkKHOhEV71k3_I84T-TKDQjhb_7NdbmWud6QMr8oOc"
+        },
+        {
+          "title": "ఓటీటీలోకి రాకింగ్ స్టార్ యశ్ టాక్సిక్.. స్ట్రీమింగ్‌పై మరింత ఆలస్యం?",
+          "url": "https://www.suryaa.com/telugu-news/cinema/toxic-movie-ott-release-date-update-yash-fans-wait",
+          "source": "Suryaa News",
+          "published_at": "2026-09-30T12:06:00+00:00",
+          "picture": null
+        },
+        {
+          "title": "TOXIC OTT: టాక్సిక్ ఓటీటీ రిలీజ్‌పై మరో ట్విస్ట్.. అక్టోబర్‌లోనూ రానట్టే.. అసలేం జరుగుతుందంటే?",
+          "url": "https://www.v6velugu.com/toxic-ott-release-delayed-again-no-streaming-in-october",
+          "source": "V6 Velugu",
+          "published_at": "2026-09-30T04:54:51+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrSiTa8RqNB567nigWfcY4xlCzgxVVD-Z2duN4oUbED_UERdbXo_O1rGKpx1o"
+        },
+        {
+          "title": "టాక్సిక్ ఓటీటీలో బిగ్ ట్విస్ట్?",
+          "url": "https://www.bigtvlive.com/ott/yash-toxic-movie-ott-streaming-post-pone-again-know-details.html",
+          "source": "BigTvLive",
+          "published_at": "2026-09-30T08:27:23+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqpiPi-CkO6YaE59Nteottz4JDg94toUqsx5eylI48SXpgXgJXEqoHKET6RQ"
+        },
+        {
+          "title": "Toxic OTT: టాక్సిక్ ఎక్కడ? ఓటీటీ ఆడియన్స్ కు మరో షాక్.. అక్టోబర్ లోనూ డిజిటల్ రిలీజ్ లేనట్లే.. అసలేం జరుగుతుందంటే? | Hindustan Times Telugu",
+          "url": "https://www.hindustantimes.com/telugu/entertainment/yash-toxic-movie-ott-release-date-zee5-delay-october-slate-geetu-mohandas-261790734723102.html",
+          "source": "Hindustan Times",
+          "published_at": "2026-09-30T03:35:18+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1smJ86ALUjEL3GsnwL_I8EudW4aU6_GpvmiCns-FMWl4sePcFYqv30p0AEBg"
+        }
+      ]
+    }
+  ]
+}
