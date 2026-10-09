@@ -1,0 +1,269 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-10-09T22:49:04.884550+00:00",
+  "window_days": 4,
+  "count": 2,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "fm radio",
+      "approx_traffic": 200,
+      "started_at": "2026-10-09T21:50:00+00:00",
+      "related_queries": [
+        "fm radio"
+      ],
+      "news": [
+        {
+          "title": "Restraining order issued against wife of former Kiss FM DJ",
+          "url": "https://www.wbay.com/2026/10/09/restraining-order-issued-against-wife-former-kiss-fm-dj/",
+          "source": "WBAY",
+          "published_at": "2026-10-09T16:55:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnYjx-9lJBnyL0dxrvnWYk8MikGe8qCrzViW59r_yhgcw4WNhtSagEVMxTQ4"
+        },
+        {
+          "title": "Natalie Jansen wins restraining order against former radio host's wife",
+          "url": "https://www.greenbaypressgazette.com/story/news/crime/2026/10/09/wixx-fm-radio-host-natalie-jansen-wins-another-restraining-order-against-otis-day-wife-melinda-dey/92155751007/",
+          "source": "Green Bay Press-Gazette",
+          "published_at": "2026-10-09T18:18:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfnK79762Yxpj5h-aETLEQ9s2vEsVEU4N4fE-m1hmj4576FW6CxZMc-OAqryw"
+        },
+        {
+          "title": "Restraining order granted against former local radio host’s wife",
+          "url": "https://wtaq.com/2026/10/09/1142880/",
+          "source": "WTAQ",
+          "published_at": "2026-10-09T20:22:17+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ3bIEBGACreiX7umLBfeVKQ7WABNoCxDknY9Itv5_kGTTwQhlR8hga3ECoIg"
+        },
+        {
+          "title": "Best of Show: Ecreso FM AiO Series 5 kW",
+          "url": "https://www.radioworld.com/resource-center/awards/best-of-show-awards-ibc/best-of-show-ecreso-fm-aio-series-5-kw",
+          "source": "Radio World",
+          "published_at": "2026-10-09T08:46:19+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYzip3vfZtotNVwbksXOfx2H9HL4OWljGwCDvSgQIVY4JaLP4ulMbcZNo5_aA"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "fm",
+      "approx_traffic": 200,
+      "started_at": "2026-10-09T22:20:00+00:00",
+      "related_queries": [
+        "fm"
+      ],
+      "news": [
+        {
+          "title": "EAM Jaishankar arrives in Ethiopia, looks forward to advancing strategic partnership",
+          "url": "https://government.economictimes.indiatimes.com/news/governance/eam-jaishankar-arrives-in-ethiopia-looks-forward-to-advancing-strategic-partnership/134822993",
+          "source": "ET Government",
+          "published_at": "2026-10-09T08:03:19+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbJR4-J1bYS2qB2ZMeVSbiUHAxXDUzd7CXvuQ8SkltkQqAM59Et-LjFfaSPys"
+        },
+        {
+          "title": "EAM Jaishankar Arrives in Ethiopia, Looks Forward to Advancing Strategic Partnership",
+          "url": "https://www.deccanchronicle.com/world/eam-jaishankar-arrives-in-ethiopia-looks-forward-to-advancing-strategic-partnership-1994310",
+          "source": "Deccan Chronicle",
+          "published_at": "2026-10-09T02:08:24+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoarPiRJkGpR9soBdNmREjFw22QuQa7C65Ot_zPbK0BT140_YYOFUOXKpDZlA"
+        },
+        {
+          "title": "Jaishankar holds talks with Ethiopian counterpart; discusses trade & investment, security",
+          "url": "https://www.thehindubusinessline.com/news/jaishankar-holds-talks-with-ethiopian-counterpart-discusses-trade-investment-security/article71563836.ece",
+          "source": "BusinessLine",
+          "published_at": "2026-10-09T12:58:31+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQNNUCYnOwtGB4DZDGbvXxLA0I0B2iQVu3h12L6qVsQgVD9ODRIr2brU3IQQ"
+        },
+        {
+          "title": "Jaishankar spotlights fair growth as India deepens Africa partnership",
+          "url": "https://www.indiatoday.in/amp/world/story/india-africa-partnership-jaishankar-highlights-trade-tech-health-cooperation-in-ethiopia-ptag-3013784-2026-10-10",
+          "source": "India Today",
+          "published_at": "2026-10-09T19:46:28+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAe1P0dwk4g5qC1SdB2Nx89Lppq5AuwAXUnf8ixf0bCWyMCz6HlU0B1hFYoCU"
+        },
+        {
+          "title": "Future partnerships must create capabilities, not dependencies: EAM Jaishankar in Addis Ababa",
+          "url": "https://ddnews.gov.in/en/future-partnerships-must-create-capabilities-not-dependencies-eam-jaishankar-in-addis-ababa/",
+          "source": "DD News",
+          "published_at": "2026-10-09T11:48:29+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTT7A2fJAoSeHf-YmY1Q7NH1rIdNjmuhCpgbll3Wqt-OfwYLj3675Gxxo4X27I"
+        },
+        {
+          "title": "‘$5 Billion at Stake’: India-Ethiopia Ties Grow as Abiy Faces Eritrean ‘Invasion’ | Firstpost Africa",
+          "url": "https://www.firstpost.com/web-show/firstpost-africa/5-billion-at-stake-india-ethiopia-ties-grow-as-abiy-faces-eritrean-invasion-firstpost-africa-vd2210576/",
+          "source": "Firstpost",
+          "published_at": "2026-10-09T17:57:34+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4pEo-RXl-_EECRnPy8xzfvfg-LNAnPMvWZX62XM9YTfixL88F7MTdO_jqRMM"
+        },
+        {
+          "title": "EAM Jaishankar visits National Palace and Museum in Ethiopia’s Addis Ababa",
+          "url": "https://tripurachronicle.in/world-news/eam-jaishankar-visits-national-palace-and-museum-in-ethiopias-addis-ababa/",
+          "source": "Tripura Chronicle",
+          "published_at": "2026-10-09T14:41:12+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA-Y7qb45C_jUM9tkmwvwkAyyLHRgTDfj8uoPGLnIXjs6quJKk1vKfQfKqHJs"
+        },
+        {
+          "title": "Ethiopian PM and EAM Jaishankar explore opportunities to strengthen bilateral relations",
+          "url": "https://ddindia.co.in/2026/10/ethiopian-pm-and-eam-jaishankar-explore-opportunities-to-strengthen-bilateral-relations/",
+          "source": "DD India",
+          "published_at": "2026-10-09T19:15:49+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNCirWSvn5gcSgl1teff9BrxtWa3HQBCd06GDShwl98G8wfRIkw6UI6IhtrGo"
+        },
+        {
+          "title": "India-Ethiopia seek to advance strategic partnership as Jaishankar arrives in Addis Ababa",
+          "url": "https://www.ptinews.com/story/international/india-ethiopia-seek-to-advance-strategic-partnership-as-jaishankar-arrives-in-addis-ababa/4145881",
+          "source": "Press Trust of India",
+          "published_at": "2026-10-09T06:41:15+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR98ZomgwW4X-slFz8F5-Sjx4vjtz8D8S_QtzFtrEEeIGTdE_3zemOhqEEOIw0"
+        },
+        {
+          "title": "EAM Jaishankar arrives in Ethiopia to boost strategic ties | Tap to know more | Inshorts",
+          "url": "https://inshorts.com/en/news/jaishankar-arrives-in-ethiopia-to-boost-strategic-ties-1791534791495",
+          "source": "Inshorts",
+          "published_at": "2026-10-09T08:37:49+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuYZsdLbfUHrQiBIAuUyLzKHoxeujtmhM2m1sX8s9LSLVbxK-ZGXw-oDXtugg"
+        },
+        {
+          "title": "Nirmala Sitharaman to hold high-level meetings with Singapore leadership, global investors",
+          "url": "https://ddnews.gov.in/en/nirmala-sitharaman-to-hold-high-level-meetings-with-singapore-leadership-global-investors/",
+          "source": "DD News",
+          "published_at": "2026-10-09T04:54:35+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6Ez47umM9qDe16jCJk1Cxy2lZfDpV2pGrKeezOrJCIqpgvXcEr3R0TOPInw"
+        },
+        {
+          "title": "India seeks greater global investment as Sitharaman meets fund managers in Singapore",
+          "url": "https://bfsi.economictimes.indiatimes.com/news/financial-services/india-seeks-greater-global-investment-as-sitharaman-meets-fund-managers-in-singapore/134832568",
+          "source": "bfsi.economictimes.indiatimes.com",
+          "published_at": "2026-10-09T11:40:18+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMLF2JpZYkoQNyiMDHRoKfxzILaYkNk2N01uNs0atNHyDcDorgMcxJUrMzOE"
+        },
+        {
+          "title": "FM Sitharaman to hold high-level meetings with Singapore leadership, top CEOs",
+          "url": "https://www.ap7am.com/en/137370/fm-sitharaman-to-hold-high-level-meetings-with-singapore-leadership-top-ceos",
+          "source": "AP7AM",
+          "published_at": "2026-10-09T04:22:37+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX_0LEZWqdMI-E0VHZfZAAMNvUKxVRO1zIalOKbPOR8f77XrNq5gwhkeKGHxo"
+        },
+        {
+          "title": "India's FM Discusses Economy, AI with Global Investors in Singapore",
+          "url": "https://money.rediff.com/news/market/india-s-fm-discusses-economy-ai-with-global-investors-in-singapore/55926020261009",
+          "source": "Rediff MoneyWiz",
+          "published_at": "2026-10-09T15:21:39+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSVSJyoRLA0RF-2VkH6UnuCRWZuX8QSP8I_oZTzudaHp_ZQ5A0t9dEMwkteshk"
+        },
+        {
+          "title": "FM Nirmala Sitharaman meets Singapore President, PM; discuss strengthening bilateral cooperation",
+          "url": "https://m.economictimes.com/news/economy/policy/fm-nirmala-sitharaman-meets-singapore-president-pm-discuss-strengthening-bilateral-cooperation/articleshow/134836830.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-10-09T14:39:27+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpFLCNyr69hX7_Qxu1nOm0MHhVoF9P_jBG4qZZVEFqfoItZVPO-2Z6emMA3MQ"
+        },
+        {
+          "title": "PM Wong welcomes Indian Finance Minister Nirmala Sitharaman back to Singapore",
+          "url": "https://www.tabla.com.sg/news/pm-wong-welcomes-indian-finance-minister-nirmala-sitharaman-back-singapore",
+          "source": "https://www.tabla.com.sg/",
+          "published_at": "2026-10-09T12:30:10+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3DoabGf0Vp6A2LkQtfkWmJ2XOge-VY-bVPuVyHo4yDpH0fgFVBUDM_xSjfak"
+        },
+        {
+          "title": "FM Nirmala Sitharaman begins three-day visit to Singapore",
+          "url": "https://newsonair.gov.in/fm-nirmala-sitharaman-begins-three-day-visit-to-singapore/",
+          "source": "News On AIR",
+          "published_at": "2026-10-09T05:53:46+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyUlW7ydlLOTRTWxLDTE1c9gtExs2K6lswQ42bOClyv_XFGBecA3y_57dvIsE"
+        },
+        {
+          "title": "India-Singapore business and investment developments",
+          "url": "https://www.ey.com/en_in/media/webcasts/2026/09/india-singapore-business-and-investment-developments",
+          "source": "EY",
+          "published_at": "2026-10-06T07:23:48+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG-WhP4oFE5m3PkkHDf_Bu2pOtDAqHvVcwJjAyYO_TgIqDr4ZPfEvdwJhdocA"
+        },
+        {
+          "title": "FM reaches Singapore; bilaterals, address to global investors on agenda during 3-day official visit",
+          "url": "https://cfo.economictimes.indiatimes.com/news/fm-reaches-singapore-bilaterals-address-to-global-investors-on-agenda-during-3-day-official-visit/134829346",
+          "source": "cfo.economictimes.indiatimes.com",
+          "published_at": "2026-10-09T10:30:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7yieQZAQPuq1juCnmhCBMSr9r-9bv6fuJsJMx1jxAVtouBk_2MYCm5Kf3GM"
+        },
+        {
+          "title": "Why Nirmala Sitharaman is visiting Singapore",
+          "url": "https://www.rediff.com/news/commentary/2026/oct/09/why-nirmala-sitharaman-is-visiting-singapore/14fafc665a38065339a7364e45ef9b3b",
+          "source": "Rediff",
+          "published_at": "2026-10-09T06:13:09+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkJM5IcG8k9U3p0aG9D_N5cCxmL-jSHbmyK47dVup0Ipk7RSgryHEbyGpsHBw"
+        },
+        {
+          "title": "Delivery completed: On the GST Council meet, reforms",
+          "url": "https://www.thehindu.com/opinion/editorial/delivery-completed-on-the-gst-council-meet-reforms/article71564732.ece",
+          "source": "The Hindu",
+          "published_at": "2026-10-09T18:50:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRm5qLWzCwXhEJt5wLuliDpZQGFn9ge5iWjeSCUAPZYDZNSM7zEV5MlNmTHoDQ"
+        },
+        {
+          "title": "GST Council eases compliance norms, raises prosecution threshold and curbs inspections",
+          "url": "https://www.telegraphindia.com/business/gst-council-reforms-new-compliance-rules-ease-refunds-penalties-and-registration-process-prnt/cid/2183839",
+          "source": "Telegraph India",
+          "published_at": "2026-10-09T02:15:29+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSe9qBl8Ov8ufuzTrk4ooAQ2pefxuQ2CvndeyA26uyOLlVAceeVksPd6uYA7kA"
+        },
+        {
+          "title": "Why did GST officers’ power to arrest ever exist? It’s withdrawal is good",
+          "url": "https://theprint.in/50-word-edit/why-did-gst-officers-power-to-arrest-ever-exist-its-withdrawal-is-good/3066838/",
+          "source": "ThePrint",
+          "published_at": "2026-10-09T11:45:19+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbQ8XB84JjXzwXtBn-c-257tcTtLmKett6I6TWRxqrGOvfno-fkQxhFyKF3iI"
+        },
+        {
+          "title": "GST reforms could ease cash-flow pressure for startups",
+          "url": "https://entrepreneur.economictimes.indiatimes.com/news/gst-reforms-could-ease-cash-flow-pressure-for-startups/134812943",
+          "source": "ET Entrepreneur",
+          "published_at": "2026-10-09T09:06:38+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxT-sljrtkG1bYrkhkDpbKaN73sEDDvFf8gAQAYdT9QJlUA8_5_7z3OtvBY7g"
+        },
+        {
+          "title": "GST Reforms 2026 – Easier Compliance, Faster Refunds and Reduced Prosecution Risks",
+          "url": "https://vajiramandravi.com/current-affairs/gst-reforms-2026/",
+          "source": "Vajiram & Ravi",
+          "published_at": "2026-10-09T05:28:59+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6_WDZ9p4ctlORlvuTanORhszhfs2SkA4Jeu9YRJAkv_tx4yrpEfqsZ6H2Ae8"
+        },
+        {
+          "title": "GST registration for small e-commerce sellers simplified, monthly limit set at Rs 2.5 lakh",
+          "url": "https://www.newindianexpress.com/business/2026/Oct/09/gst-registration-for-small-e-commerce-sellers-simplified-monthly-limit-set-at-rs-25-lakh",
+          "source": "The New Indian Express",
+          "published_at": "2026-10-09T17:31:38+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkLt3AQUh0Sb_nBuz9v_A6y_M5lWBgM5CFLGiwIVLeMbir5KoRns2RMWpBQJ0"
+        },
+        {
+          "title": "GST 2.0 makes it less taxing as govt scrap arrest powers, raise prosecution threshold to Rs 5 crore in maj",
+          "url": "https://m.economictimes.com/news/economy/policy/gst-2-0-makes-it-less-taxing-as-govt-scrap-arrest-powers-raise-prosecution-threshold-to-rs-5-crore-in-major-overhaul/articleshow/134803272.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-10-09T01:04:30+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpFLCNyr69hX7_Qxu1nOm0MHhVoF9P_jBG4qZZVEFqfoItZVPO-2Z6emMA3MQ"
+        },
+        {
+          "title": "GST Council Reforms: Is the Promise of a 'Good and Simple Tax' Within Reach?",
+          "url": "https://www.thequint.com/opinion/gst-council-reforms-arrest-powers-eased-prosecution-powers-remain",
+          "source": "The Quint",
+          "published_at": "2026-10-09T11:58:36+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSToOeaYPDzoSXXwPzRK6wAw534mFgE4oaG9ItOwSkkdfJc5wZzH4qia2gCsxo"
+        },
+        {
+          "title": "GST reforms will sustain growth momentum, help face global headwinds",
+          "url": "https://indianexpress.com/article/opinion/columns/gst-council-meeting-reforms-nirmala-sitharaman-10913053/",
+          "source": "The Indian Express",
+          "published_at": "2026-10-09T00:30:46+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEyVWZCMSCVWrbFA7YzkUmN6xZq9pA_pOZa9zjaAV62H92NV-0Dr14Rz6Dw2w"
+        },
+        {
+          "title": "Next-Gen GST and India’s next phase of growth",
+          "url": "https://www.thehindu.com/business/Economy/next-gen-gst-and-indias-next-phase-of-growth/article71541678.ece",
+          "source": "The Hindu",
+          "published_at": "2026-10-04T23:54:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZpsTKPngeNJsBD1D0OCYc4X-us3QtDnLQ3uKhcycKNmfpkYN6eMAWGCULg1U"
+        }
+      ]
+    }
+  ]
+}
