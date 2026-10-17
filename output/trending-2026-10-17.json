@@ -1,0 +1,1034 @@
+{
+  "source": "Google Trends - Trending Now",
+  "region": "IN",
+  "generated_at": "2026-10-17T20:50:55.960665+00:00",
+  "window_days": 4,
+  "count": 6,
+  "results": [
+    {
+      "rank": 1,
+      "topic": "west indies live cricket match",
+      "approx_traffic": 200,
+      "started_at": "2026-10-17T20:10:00+00:00",
+      "related_queries": [
+        "west indies live cricket match"
+      ],
+      "news": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - IND vs WI, 5th T20I",
+          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-5th-t20i-1529234/ball-by-ball-commentary",
+          "source": "Cricinfo",
+          "published_at": "2026-10-17T12:35:36+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQzDPzdNvuvY8_ffPF-wln6lgtCCBLTyiP68MyF0ayXMSNlP2ZUWuxa5QtWc"
+        },
+        {
+          "title": "It was a wet blanket on fan enthusiasm at Chinnaswamy",
+          "url": "https://www.thehindu.com/news/cities/bangalore/it-was-a-wet-blanket-on-fan-enthusiasm-at-chinnaswamy/article71597623.ece",
+          "source": "The Hindu",
+          "published_at": "2026-10-17T19:27:37+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXFa1B-xzaJ6LS5XpoZBkj6K3Iv1xcaCxMxiV2DIW86EaAx7pVKeYFzauJ2sY"
+        },
+        {
+          "title": "Cricbuzz Live: Match abandoned due to rain | Series drawn 2-2",
+          "url": "https://www.cricbuzz.com/cricket-videos/214107/cricbuzz-live-match-abandoned-due-to-rain-series-drawn-2-2",
+          "source": "Cricbuzz",
+          "published_at": "2026-10-17T03:59:46+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRf1HNWSYiywrkWFB3KToRGGCFJTdIsWIsdIY_RKP3AtisnKV3x5gAhwNVlReQ"
+        },
+        {
+          "title": "IND vs WI 2026, 5th T20I: Fall of Wickets",
+          "url": "https://www.bcci.tv/videos/s-ind-vs-wi-2026-5th-t20i-fall-of-wickets-7j7uvu",
+          "source": "BCCI",
+          "published_at": "2026-10-17T16:54:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxvoE8r8eJWyt8kAec8M-N1yoVyhwkCMeFVoMNwLxVtaL4zwRf8KEbMDJ4t9Q"
+        },
+        {
+          "title": "India-West Indies share T20I series honours",
+          "url": "https://www.icc-cricket.com/news/india-west-indies-share-t20i-series-honours",
+          "source": "ICC",
+          "published_at": "2026-10-17T17:19:45+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWUAdTY_bjQc8IRdU6ZASuXCCYLNNVMzmdvabL7tg64nEtmYyyKMYM1WQZiU"
+        },
+        {
+          "title": "Rain washes out Bengaluru series decider after India script history in fifth T20I against West Indies",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/rain-washes-out-bengaluru-series-decider-after-india-script-history-with-fastest-t20i-fifty-against-west-indies/articleshow/135017246.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-17T16:54:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOEaec7-tRDtEX7wzhA5bnbwcZaMgwkrdN606uqYVdKYgQCrX1EzkcJb0H1rY"
+        },
+        {
+          "title": "No result in Bengaluru! India, Windies split T20I series",
+          "url": "https://www.rediff.com/cricket/report/no-result-in-bengaluru-india-windies-split-t20i-series/20261017.htm",
+          "source": "Rediff",
+          "published_at": "2026-10-17T17:10:21+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRv-yidtVFztc3zLOih6K71AB1lAdSpSWrG27vvJ5uYxuBEDblBEnCo_HZ6Xw"
+        },
+        {
+          "title": "Ind vs WI 5th T20 | Toss delayed due to rain",
+          "url": "https://www.deccanherald.com/sports/cricket/ind-vs-wi-5th-t20-toss-delayed-due-to-rain-4186386",
+          "source": "Deccan Herald",
+          "published_at": "2026-10-17T13:01:01+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsy64w71z-RIorOXgIkZGJqQajvi1H3_ZG1AROspclxwXK8MGTG1y_R_IJzeY"
+        },
+        {
+          "title": "Rain plays spoilsport as India, West Indies share series honours",
+          "url": "https://www.newindianexpress.com/sport/cricket/2026/Oct/17/rain-plays-spoilsport-as-india-west-indies-share-series-honours",
+          "source": "The New Indian Express",
+          "published_at": "2026-10-17T17:42:07+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeF5npiwZRT-8FPwwQPE-gunVJH3tBIG9ZAchUe9XXA1kdXTTiubEgy5Ix0KM"
+        },
+        {
+          "title": "Another batting paradise greets India and West Indies in Hyderabad",
+          "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-4th-t20i-1529233/match-preview",
+          "source": "Cricinfo",
+          "published_at": "2026-10-13T09:36:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-2C7KqbhH4kdowP-8D1VFfLHruHC5PG-duzCFGDst4s0WfTVkYAGpsNfQuFA"
+        },
+        {
+          "title": "IND vs WI 5th T20I Live Score: भारत को दूसरा झटका, ईशान किशन लौटे पवेलियन",
+          "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-wi-5th-t20i-live-score-india-west-indies-match-m-chinnaswamy-stadium-bengaluru-aksp-dskc-2673327-2026-10-17",
+          "source": "AajTak",
+          "published_at": "2026-10-17T16:04:57+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrbbIVgEdM4DfByJ3rxeR8s_3soR5uMkBXXUmHlgX14cg9ig3QKnFcPZGMsU"
+        },
+        {
+          "title": "India Vs West Indies, Match Abandoned",
+          "url": "https://navbharattimes.indiatimes.com/sports/cricket/live-score/ind-vs-wi/10-17-2026/scoreboard/matchid-inwi10172026270278.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-10-17T13:38:09+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMNQDKcLzs1KgBcnwnRvx9tUolLwCWr-QFIFVnysfEHYScIjHWpoMC5kvFB_I"
+        },
+        {
+          "title": "अगर रद्द हुआ भारत-वेस्टइंडीज का पांचवां टी20, फिर किसे मिलेगी ट्रॉफी? जानें नियम",
+          "url": "https://www.abplive.com/sports/cricket/if-india-vs-west-indies-5th-t20-cancelled-called-of-duen-to-rain-then-who-will-get-the-trophy-know-rules-3203434",
+          "source": "ABP News",
+          "published_at": "2026-10-17T13:24:04+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkm-o6ueqPNmgi4KVDxE0bInzp-2yB6FAGRLGUU1doWIlXaW5QmYzHzehpU4s"
+        },
+        {
+          "title": "IND vs WI: भारतीय टीम को इंद्र देव की मिली मदद, 7 साल का सिलसिला टूटने से बचा; सीरीज 2-2 से बराबर",
+          "url": "https://www.jagran.com/cricket/match-report-ind-vs-wi-5th-t20-called-off-due-to-rain-series-ends-on-22-india-7-year-record-remains-40408545.html",
+          "source": "Jagran",
+          "published_at": "2026-10-17T17:11:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTawOkPwpQPFFvrQw8Jc-g2c9znxRl2hlkrINfGW6RViIDlP1Nd-90SxX85970"
+        },
+        {
+          "title": "बारिश के चलते पांचवां टी20 मैच हुआ रद्द, सीरीज 2-2 की बराबरी पर हुई खत्म",
+          "url": "https://www.amarujala.com/video/cricket/the-fifth-t20-match-was-abandoned-due-to-rain-the-series-ended-in-a-2-2-draw-2026-10-18",
+          "source": "Amar Ujala",
+          "published_at": "2026-10-17T20:00:03+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLpwLRpuLA27TSAdSCrlc5YuLxakVjp1wKGPFJZOSVjZZNDj7wCsIzfpGNzuw"
+        },
+        {
+          "title": "इशान किशन की टॉप-3 में एंट्री, अभिषेक शर्मा नंबर 1; T20I में एक साल में सबसे ज्यादा छक्के लगाने वाले टॉप-5 बल्लेबाज",
+          "url": "https://www.jansatta.com/khel/ishan-kishan-number-3-abhishek-sharma-on-top-most-sixes-in-a-calendar-year-in-mens-t20i-ind-vs-wi-team-india-shimron-hetmyer/4749676/",
+          "source": "Jansatta",
+          "published_at": "2026-10-17T16:43:02+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpq73G8A58lhm8oKtexJFQTnQXpQlPA-L7f5AnxuYpJN6ixwWfHewdn652cyg"
+        },
+        {
+          "title": "IND vs WI T20 Live Streaming: भारत-वेस्ट इंडीज के बीच T20 फाइनल मैच यहां देखें फ्री!",
+          "url": "https://hindi.gadgets360.com/internet/india-vs-west-indies-t20-final-live-stream-how-to-watch-on-tv-star-sports-jio-hotstar-dream-11-news-12199594",
+          "source": "Gadgets 360 Hindi",
+          "published_at": "2026-10-17T13:23:15+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzsffr-WFhsBrstUhmU1vVg41RMnIVJzGisPvWuh98O1a5niuapjF8CnmWVNo"
+        },
+        {
+          "title": "IND vs WI 5th T20I Pitch Report: बेंगलुरु की पिच का आज कैसा रहेगा मिजाजा? कितने बजे होगा टॉस",
+          "url": "https://www.livehindustan.com/cricket/ind-vs-wi-5th-t20i-pitch-report-in-hindi-today-17th-oct-m-chinnaswamy-stadium-t20i-stats-india-vs-west-indies-toss-201792221000704.html",
+          "source": "Hindustan",
+          "published_at": "2026-10-17T08:16:32+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_b0L5i7Ag-enmiip5TW-E4NmklfgRwv0lPyVxWJzZm0EUy_FxXILwA7LK7Xg"
+        },
+        {
+          "title": "IND vs WI: भारत-वेस्टइंडीज के बीच 9-9 ओवर का होगा मैच? बारिश के बाद कब शुरू होगा मुकाबला!",
+          "url": "https://www.aajtak.in/sports/cricket/story/ind-vs-wi-5th-t20i-toss-delayed-due-to-rain-in-bengaluru-aksp-dskc-2673439-2026-10-17",
+          "source": "AajTak",
+          "published_at": "2026-10-17T13:30:10+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTStDvZNbxRGkCDCtCTIkOTHQZ0dmWafL3oMU5fih9tfjVhk8cb8MW3GHeYzQQ"
+        },
+        {
+          "title": "फ्री में कैसे देखें इंडिया वर्सेस वेस्टइंडीज पांचवां टी20 मुकाबला? जानें लाइव स्ट्रीमिंग डिटेल्स",
+          "url": "https://www.indiatv.in/sports/cricket/how-to-watch-the-fifth-t20-match-between-india-and-west-indies-for-free-find-out-live-streaming-details-2026-10-17-1249368",
+          "source": "India TV Hindi",
+          "published_at": "2026-10-17T07:17:36+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpm6EierQ8NOqrcKim0_GOyZqsO13Mf3Twn3G1GW-k0BGgS-H9CFcEG0Dg6aU"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "topic": "lille fc",
+      "approx_traffic": 100,
+      "started_at": "2026-10-17T20:00:00+00:00",
+      "related_queries": [
+        "lille fc"
+      ],
+      "news": [
+        {
+          "title": "LOSC v Brest: Champions League chase meets free-scoring form",
+          "url": "https://onefootball.com/en/news/losc-v-brest-champions-league-chase-meets-free-scoring-form-43621213",
+          "source": "OneFootball",
+          "published_at": "2026-10-16T12:08:38+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6f9wXdT5O7GWS4Qaq6KC7x8mzGd1xLH7K5viUlSk6hGcWMV1L5RGEf2GCTEQ"
+        },
+        {
+          "title": "Lille vs Brestois match lineup | Ligue 1 · 17 Oct 2026",
+          "url": "https://www.ysscores.com/en/lineup/5802958/LOSC-Lille-vs-Stade-Brestois-29",
+          "source": "YSscores",
+          "published_at": "2026-10-17T18:10:28+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOnFds7Ygjfqmg2hiH_xeqI_pWmbhSkJGDtpgHEADSGh4bmotCX4uFYMzRrFQ"
+        },
+        {
+          "title": "Lille OSC vs. Stade Brest 29 Prediction, Picks, Live Odds – Oct. 17",
+          "url": "https://www.bleachernation.com/picks/2026/10/17/lille-osc-vs-stade-brest-29-prediction-picks-live-odds-oct-17/",
+          "source": "Bleacher Nation",
+          "published_at": "2026-10-17T09:24:13+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWyHcZf33_oFmvRch9Ukolym_aApwKFhN5J8ggr7gDIJIvMJduIbzNLslutRk"
+        },
+        {
+          "title": "Lille vs Brest Confirmed Lineups",
+          "url": "https://www.whoscored.com/news/4PjNSi-TyEmEWsRHmsqZMg/show/cng112-20261017-lille-vs-brest-confirmed-lineup-1792260185",
+          "source": "WhoScored.com",
+          "published_at": "2026-10-17T17:03:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbW7l2MTahvpJASAzbXMtbYxt5choC7SIk8mH1LaI_W2M2hPtHjnwkU8zdgYs"
+        },
+        {
+          "title": "Lille OSC vs Stade Brestois - Where to Watch, Stream Info, TV Channel, and Live Updates (October 17, 2026)",
+          "url": "https://www.fubo.tv/news/soccer/lille-osc-vs-stade-brestois-where-to-watch-stream-info-tv-channel-and-live-updates-october-17-2026/",
+          "source": "Fubo",
+          "published_at": "2026-10-17T13:32:54+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe_aqetT2ME0T7v4lc2S1Vo-EkIz5ZT7GTiYT0hPIDpsdP-NyuuFjxS5S0SAY"
+        },
+        {
+          "title": "Lille vs Brest Preview, Team News and Standings",
+          "url": "https://www.tapmad.com/blog/lille-vs-brest-match-preview-ligue-1/8529-2-0",
+          "source": "Tapmad",
+          "published_at": "2026-10-16T10:55:16+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJCFB9FFHQs_mltQm27CN1c0HR0NloOS3mkTJcca0RcLcJxsPZUJoxk7ZxtfI"
+        },
+        {
+          "title": "LIVE: Lille vs Stade Brest | Ligue 1",
+          "url": "https://www.beinsports.com/en-us/soccer/ligue-1/articles/live-lille-vs-stade-brest-ligue-1-2026-10-17",
+          "source": "beIN SPORTS",
+          "published_at": "2026-10-17T12:38:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn30KkMJu3wJQMmNFXMAvtkx9AuPgE4cM4mkL9k6QpPXgFkUMyc2EydgV3X1A"
+        },
+        {
+          "title": "How to get Lille vs Brest tickets: Ligue 1 prices, fixture information, last-minute sales & more",
+          "url": "https://www.goal.com/en-ae/tickets-travel/match/lille-brest-tickets/A~bltc3f87b1a2c2d66d0",
+          "source": "Goal.com",
+          "published_at": "2026-10-06T07:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7Uoyv4HMyHY-HkkvEtVLijBUqdUqRnRHfQD-R4ceFx8i8I2C_A1wYwfspuGg"
+        },
+        {
+          "title": "PREVIEW | Lille vs Brest: team news, lineups, predictions (Ligue 1 17/10)",
+          "url": "https://onefootball.com/en/news/preview-lille-vs-brest-team-news-lineups-predictions-ligue-1-1710-43618100",
+          "source": "OneFootball",
+          "published_at": "2026-10-15T19:05:22+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkgrD1mrOmBrfTqTnQPj4DxuA8jfTwQQ6S0HkiPXYGtejymhhhl9Us19tf974"
+        },
+        {
+          "title": "Lille vs Brest prediction and betting tips 17 October 2026",
+          "url": "https://dailysports.net/predictions/will-lille-break-through-the-breton-wall-at-the-pierre-mauroy-ligue-1-match-prediction-lille-vs-brest/",
+          "source": "Dailysports",
+          "published_at": "2026-10-17T05:32:54+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlSxBvHPBBAoxJPRE6ur1HTYicfpTvLenFNw8LlT7doVQIc9u5-GTMalZPCE4"
+        },
+        {
+          "title": "Troyes vs. Lens (18 Oct, 2026) Team Stats",
+          "url": "https://www.espn.in/football/team-stats/_/gameId/401876431/league/fra.1",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T19:27:24+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAk9QPolo7w3iVWJFWUVuL8V5AepbMX0rMm1fCiutdshkfPukgvklctGxshb4"
+        },
+        {
+          "title": "Lille vs. Brest (18 Oct, 2026) Team Stats",
+          "url": "https://www.espn.in/football/team-stats/_/gameId/401876436/league/fra.1",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T19:27:18+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6of3oOdFHm80ueq1ZMNLIUJkGtT-90NsGSPsg_4JUeRAiCSGMpU3YsS0gb-s"
+        },
+        {
+          "title": "Philadelphia vs. Charlotte (18 Oct, 2026) Team Stats",
+          "url": "https://www.espn.in/football/team-stats/_/gameId/761875/league/usa.1",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T19:27:19+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOfG46KF5chUg8DqakN1QDeDMDqUvxDFrmKorFSn-F-MmkFX8hq7fxdm04ScU"
+        },
+        {
+          "title": "Valencia vs. Athletic (18 Oct, 2026) Team Stats",
+          "url": "https://www.espn.in/football/team-stats/_/gameId/401882838/league/esp.1",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T19:27:19+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQr0zKSxW5g0YmAY4BkvyfG3FKb8bV-LSY44ItmVHpghJy6qd8UPigQC7ptet4"
+        },
+        {
+          "title": "Sparta vs. Willem II (18 Oct, 2026) Team Stats",
+          "url": "https://www.espn.in/football/team-stats/_/gameId/401875579/league/ned.1",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T19:27:23+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsOkALv07tuhjpGWC0x-w5qtzSe5QV29JQhine7Ltp_nq3DyuiO0Cb6omLgOE"
+        },
+        {
+          "title": "AS Roma vs. Genoa (18 Oct, 2026) Team Stats",
+          "url": "https://www.espn.in/football/team-stats/_/gameId/401874935/league/ita.1",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T19:26:13+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPH3rHTzWf52mvoOWVi9AjAG9bwjdozn6osj86fn7SKH_Yn5gu3SjVyr_RaCM"
+        },
+        {
+          "title": "Dundee vs. Rangers (18 Oct, 2026) Team Stats",
+          "url": "https://www.espn.in/football/team-stats/_/gameId/401878366/league/sco.1",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T19:27:20+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScHDESqil6vA2WBBiIVdIrK_si1MHbZwNh0DweIKoqRNOT5SIShyNSLCmizM4"
+        },
+        {
+          "title": "Real Madrid vs. Espanyol (18 Oct, 2026) Team Stats",
+          "url": "https://www.espn.in/football/team-stats/_/gameId/401882486/league/esp.w.1",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T19:27:21+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5x7OQJeNQM647sx7xzNO8YLXYj-jDzq-zIO7mjkvV9Vh9fmumYfaxiyfsxGs"
+        },
+        {
+          "title": "Brentford vs. Liverpool (17 Oct, 2026) Player Stats",
+          "url": "https://www.espn.in/football/player-stats/_/gameId/401879262",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T15:40:27+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyA9xtI1Kxi6Ee_pJd_SXA0cBoHLbk4G5CL2qXzPftTWuOgp0J9B6QjhTGjRY"
+        },
+        {
+          "title": "Man City vs. Ipswich (17 Oct, 2026) Player Stats",
+          "url": "https://www.espn.in/football/player-stats/_/gameId/401879259",
+          "source": "ESPN India",
+          "published_at": "2026-10-17T15:10:17+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDe12c9TUFlX0ywrkf6toitAh3jRtZ8Ea2d9jHmTL_QdMvWj776USJO8AY6mk"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "topic": "grand theft auto vi",
+      "approx_traffic": 100,
+      "started_at": "2026-10-17T19:50:00+00:00",
+      "related_queries": [
+        "grand theft auto vi"
+      ],
+      "news": [
+        {
+          "title": "Grand Theft Auto VI Launch Trailer",
+          "url": "https://www.rockstargames.com/VI/launch-trailer",
+          "source": "Rockstar Games",
+          "published_at": "2026-10-15T15:59:36+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR07ooftuCY2wq75iIh82tTWmD1cXAC0XRDEqsop84SROtog8TAOkBL5FzZxF4"
+        },
+        {
+          "title": "GTA 6 Launch Trailer Analysis: Has a Long-Standing Tech Issue Been Fixed?",
+          "url": "https://www.digitalfoundry.net/features/gta-6-launch-trailer-analysis-has-a-long-standing-tech-issue-been-fixed",
+          "source": "Digital Foundry",
+          "published_at": "2026-10-16T16:04:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_-3RglJErsCTfKx9MIQFXRza-MV8Bwgp83gOjbLJnTDexMqYU_d3ZuyDE04k"
+        },
+        {
+          "title": "GTA 6 PS5 Features Revealed by PlayStation Ahead of Launch",
+          "url": "https://www.vice.com/en/article/gta-6-ps5-features-ps5-pro-enhanced/",
+          "source": "VICE",
+          "published_at": "2026-10-16T12:10:38+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRs8CepA8Yr-ajtHe314aePUAJNHrCOIkquaf5683jgjimiu1V9RbWB4Hcnotg"
+        },
+        {
+          "title": "Justice Created the Score for ‘Grand Theft Auto VI’: Hear the Duo’s New Song With Tame Impala, SZA & More",
+          "url": "https://www.billboard.com/music/music-news/grand-theft-auto-vi-score-justice-1236361230/",
+          "source": "Billboard",
+          "published_at": "2026-10-15T15:43:24+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAH5UUDMAMfWEAXH0nfwR4GfztftxHfBxvYfEHzuuxXBpONPB2zICLUhW91nw"
+        },
+        {
+          "title": "GTA VI’s new trailer gives you one more look at Vice City",
+          "url": "https://www.theverge.com/entertainment/1011879/gta-6-launch-trailer",
+          "source": "The Verge",
+          "published_at": "2026-10-15T13:17:17+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRM2d8YpikUCPMb1gB_nAFPfOz00G-DE0lb-21uy2ca8Gnb5h5dtSWb_VoLPbg"
+        },
+        {
+          "title": "‘Are we gonna be okay?’ GTA VI’s exploded trailer shows Lucia questioning her future with Jason",
+          "url": "https://m.economictimes.com/world/us/are-we-gonna-be-okay-gta-vis-exploded-trailer-shows-lucia-questioning-her-future-with-jason/articleshow/134981393.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-10-16T03:40:35+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9e8Vf82w6-EhHKOuwD6Ta7zo_ARJM-6DqCrgZi_6WAG-5ppzDhSKYiZ-wgU4"
+        },
+        {
+          "title": "GTA 6 fans spot mysterious detail at 0:55 in new trailer",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/gta-6-fans-spot-mysterious-200428909.html",
+          "source": "Yahoo Finance",
+          "published_at": "2026-10-16T20:04:28+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRkifaLBp6c7Q81UIb1g46x2Nu6DqFuifv7NWL2EoivXGLmGAMUyyEcot_9I"
+        },
+        {
+          "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
+          "url": "https://mashable.com/entertainment/gta-6-preorders",
+          "source": "Mashable",
+          "published_at": "2026-10-15T09:40:58+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdmA_efpAnXkM-6IQ91r5-1Of-3-mrHtIV-cVBipHJPOVhYKG9_AqZojINtl4"
+        },
+        {
+          "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
+          "url": "https://www.ign.com/articles/gta-6-rockstar-releases-brand-new-official-screenshots-showing-off-stunning-reflections",
+          "source": "IGN",
+          "published_at": "2026-10-08T07:00:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRofbr54VyGudW3TLqF9SPeNV5b1nfvrl16410GDUfhbx5ai7hJ6-2mahI2ioU"
+        },
+        {
+          "title": "Watch the Grand Theft Auto VI Launch Trailer",
+          "url": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer?utm_source=instagram_story&amp;amp%3Butm_medium=o_social&amp;amp%3Butm_campaign=gtavi_announcement_launch-trailer-20261015",
+          "source": "Rockstar Games",
+          "published_at": "2026-10-15T13:20:56+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRj1D0yp_BIWL_yP966JG8zCQW-W5FFEZkmPLUw2H7XkJIkrhx2lM54zoRAq3A"
+        },
+        {
+          "title": "‘Grand Theft Auto III’ Reaches 25th Anniversary as GTA 6 Release Draws Near",
+          "url": "https://www.mensjournal.com/entertainment/grand-theft-auto-iii-reaches-25th-anniversary-as-gta-6-release-draws-near",
+          "source": "Men's Journal",
+          "published_at": "2026-10-17T17:43:21+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHClL2cNYDnT8duEYPo38Qkr9aGzMHund3iSiTZqNwreDoDwXD9AEiqkAiX0E"
+        },
+        {
+          "title": "Why E3 2001 Made Rockstar Nervous About GTA 3",
+          "url": "https://www.ign.com/videos/why-e3-2001-made-rockstar-nervous-about-gta-3",
+          "source": "IGN",
+          "published_at": "2026-10-13T15:15:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT39xoQ67EgNjlqxX9KDZ7TmQfXTxZqGgSHDiBEesIWkI3Ab2vREAi117ymTOM"
+        },
+        {
+          "title": "Why E3 2001 Made Rockstar Nervous About GTA 3",
+          "url": "https://in.ign.com/video/274302/why-e3-2001-made-rockstar-nervous-about-gta-3",
+          "source": "IGN India",
+          "published_at": "2026-10-13T15:15:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvC98tP2sQ5xsMZUaMLsl6W6YZ7-6IAC_-gUKOuQP5Avjbnp49FL-WaTzAQWE"
+        },
+        {
+          "title": "Why E3 2001 Made Rockstar Nervous About GTA 3",
+          "url": "https://za.ign.com/grand-theft-auto-iii/243288/why-e3-2001-made-rockstar-nervous-about-gta-3",
+          "source": "IGN Africa",
+          "published_at": "2026-10-13T15:15:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvC98tP2sQ5xsMZUaMLsl6W6YZ7-6IAC_-gUKOuQP5Avjbnp49FL-WaTzAQWE"
+        },
+        {
+          "title": "‘We got flying cars before GTA 6’: White House shares futuristic car post amid Tesla Roadster buzz",
+          "url": "https://www.moneycontrol.com/technology/we-got-flying-cars-before-gta-6-white-house-post-sparks-buzz-after-tesla-roadster-s-flying-demo-article-14054403.html",
+          "source": "Moneycontrol.com",
+          "published_at": "2026-10-17T08:03:19+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ39AXkLP5qq9dxWfvlpi93KRCYDiTmzXFN7ks_y8FtK9Q6BOyRKHrxnH5KHAo"
+        },
+        {
+          "title": "The White House just posted yet another Grand Theft Auto meme",
+          "url": "https://www.indy100.com/politics/trump/white-house-grand-theft-auto-meme",
+          "source": "Indy100 | News",
+          "published_at": "2026-10-17T17:00:24+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8B3gaQ865icpFBrtB6rNSs1oF-6612lXSQHt1NNbB-KyVPZzVecJx1BCJv_0"
+        },
+        {
+          "title": "US govt trolls Rockstar Games, says 'Got flying cars before GTA 6' | 'GTA 6 way behind, lol' | Inshorts",
+          "url": "https://inshorts.com/en/news/us-govt-trolls-rockstar-games--says--got-flying-cars-before-gta-6--1792231060513",
+          "source": "Inshorts",
+          "published_at": "2026-10-17T10:01:01+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUByQqtbi8BWadPWIpW6J7oDhOGZdeyDrfHlb43w4KNs2kzqYAX9SnMehF8nQ"
+        },
+        {
+          "title": "White House Says Elon Musk's Flying Tesla Roadster Arrived Before GTA 6",
+          "url": "https://coinpaper.com/37467/white-house-says-elon-musks-flying-tesla-roadster-arrived-before-gta-6",
+          "source": "Coinpaper",
+          "published_at": "2026-10-17T18:50:03+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE0UogN5lQS8bDstTz28ja0ttgUCuK6gnXoKgR08ZRxqefmGPdr8dokw2D88o"
+        },
+        {
+          "title": "Donald Trump’s White House shares another GTA 6 AI image, now with “flying cars”",
+          "url": "https://www.aol.com/articles/donald-trump-white-house-shares-115332000.html",
+          "source": "AOL.com",
+          "published_at": "2026-10-17T12:26:12+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbX_x7ttUJEXyBBFg1tk-lXkC0neu7-trmzeKh_XIgG9esjB938hId4VcaQck"
+        },
+        {
+          "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
+          "url": "https://autos.yahoo.com/ev-and-future-tech/articles/white-house-mocks-gta-6-093000471.html",
+          "source": "Yahoo Autos",
+          "published_at": "2026-10-17T09:30:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSlK8_67XrxoDJbnxM5PWAnI2qOhbiygQ38Sf9KV_HoHtjjSUyXv3SD98PZABE"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "topic": "jailer 3",
+      "approx_traffic": 100,
+      "started_at": "2026-10-17T20:30:00+00:00",
+      "related_queries": [
+        "jailer 3"
+      ],
+      "news": [
+        {
+          "title": "Jailer 2 Is a Rajini Rave! How Nelson Gets the Superstar Right | 3D Movie Review Ep 1",
+          "url": "https://www.thehindu.com/videos/jailer-2-is-a-rajini-rave-how-nelson-gets-the-superstar-right-3d-movie-review-ep-1/article71596007.ece",
+          "source": "The Hindu",
+          "published_at": "2026-10-17T11:30:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTptwCeX54NzCRzzl75jO1wY45wKw33ysVTZVt6yvYmH3CRcCMC-e0P9WD57d8"
+        },
+        {
+          "title": "Jailer 2 Box Office Collection Day 2: Rajinikanth Film Crosses Rs 200 Crore Mark Worldwide",
+          "url": "https://www.ndtv.com/entertainment/jailer-2-box-office-collection-day-2-rajinikanth-film-crosses-rs-200-crore-mark-worldwide-12198023",
+          "source": "NDTV",
+          "published_at": "2026-10-17T05:12:44+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1AV1-xNK3YtKevlfPFgx8rdokU1cLmALOaV4FlDWGgBClWfhBlXrff5AMzag"
+        },
+        {
+          "title": "'Jailer 2' box office collection Day 3 [Live]: Rajinikanth, Nelson Dilipkumar, and Anirudh Ravichander’s",
+          "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-3-live-rajinikanth-nelson-dilipkumar-and-anirudh-ravichanders-film-crosses-rs-100-crore-india-net-exceeds-vijays-jana-nayagan/articleshow/135010070.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-17T08:08:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6BQ_u22ysmtU5krn8RIXlzbYBE9iEQv_RASQtnPe8-No9fnKekk-kky2sHc"
+        },
+        {
+          "title": "Rajinikanth’s ‘Jailer 2’ earns over Rs 100 crore worldwide on Day 1",
+          "url": "https://www.telegraphindia.com/entertainment/rajinikanths-jailer-2-earns-over-rs-100-crore-worldwide-on-day-1/cid/2185015",
+          "source": "Telegraph India",
+          "published_at": "2026-10-16T07:26:43+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8d-g1qd12t6ItI4lEQNOb2HxZnhmGePtCMpblI655vUBGz18GZzEhY18SCCc"
+        },
+        {
+          "title": "Jailer 2 Movie Review: Rajinikanth, Nelson dish out a fulfilling but familiar sequel",
+          "url": "https://www.newindianexpress.com/entertainment/review/2026/Oct/17/tamilreview2026oct15jailer-2-movie-review-rajinikanth-nelson-dish-out-a-fulfilling-but-familiar-sequel",
+          "source": "The New Indian Express",
+          "published_at": "2026-10-17T06:30:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS7PzmaO89NYkrbn3E_wVlefDJ0hjo3H5r3lTvwBlKm9eBf6gJG22SzuZNL4A"
+        },
+        {
+          "title": "‘Jailer 2’ has me watching on repeat, says Rajinikanth fan Raghava Lawrence",
+          "url": "https://telanganatoday.com/jailer-2-has-me-watching-on-repeat-says-rajinikanth-fan-raghava-lawrence",
+          "source": "Telangana Today",
+          "published_at": "2026-10-17T10:06:35+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3fK4OhrA3wNy0WDtlQASCuREeaUAufYyqJfJuq4DVeaT7E0S1np_fTrzo630"
+        },
+        {
+          "title": "Jailer 2 exposes the UGLY truth of pan-India cinema: Audiences wake up at 4:30 am for Rajinikanth, but theatres cant even guarantee English subtitles!",
+          "url": "https://www.bollywoodhungama.com/news/features/jailer-2-exposes-the-ugly-truth-of-pan-india-cinema-audiences-wake-up-at-430-am-for-rajinikanth-but-theatres-cant-even-guarantee-english-subtitles/",
+          "source": "Bollywood Hungama",
+          "published_at": "2026-10-17T06:30:43+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZ_KaKPihUKrIlaawhmoxbJVZYW0e1r6q3gYIaqBsW8exFeino2dOZ5DO5agQ"
+        },
+        {
+          "title": "Jailer 2 Box Office Collection Day 2 Live Updates: Rajinikanth film beats Dhurandhar 2 for 2026’s biggest international opening; earns Rs 213 cr worldwide",
+          "url": "https://indianexpress.com/article/entertainment/tamil/jailer-2-box-office-collection-day-2-live-updates-rajinikanth-film-earns-rs-209-crore-10925037/",
+          "source": "The Indian Express",
+          "published_at": "2026-10-17T14:30:13+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrntjN7dKAFHp5mb8wc1YmcQDwvoX_C4DvMwU0_a8Oqutpmw2qzo6X-8A7gIs"
+        },
+        {
+          "title": "Rajinikanth-starrer ‘Jailer 2’ crosses Rs 200-crore mark worldwide in two days",
+          "url": "https://www.telegraphindia.com/entertainment/rajinikanth-starrer-jailer-2-crosses-rs-200-crore-mark-worldwide-in-two-days/cid/2185147",
+          "source": "Telegraph India",
+          "published_at": "2026-10-17T04:14:19+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuEkPQDzuCeDqxyEyZYEZywXGyfxQATpFmaV3zQqYreBXhrX9PXUNweAN8RjE"
+        },
+        {
+          "title": "Rajinikanth's Jailer 2 Makes A Thunderous Box-Office Entry, But Is Jailer 3 On The Cards?",
+          "url": "https://www.ndtv.com/entertainment/rajinikanth-s-jailer-2-makes-a-thunderous-box-office-entry-but-is-jailer-3-on-the-cards-12194023",
+          "source": "NDTV",
+          "published_at": "2026-10-16T09:36:37+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREvDZm1J31GVV9ayiHCAbTZvnMZbqCuvI_ZRlp0b3QSftMKwHoNZI7vtf6h1k"
+        },
+        {
+          "title": "Hrithik Roshan Goes Massy In Rajinikanth's Jailer 2, 40 Years After Bhagwan Dada",
+          "url": "https://www.ndtv.com/entertainment/hrithik-roshan-goes-massy-in-rajinikanths-jailer-2-40-years-after-bhagwan-dada-12187881",
+          "source": "NDTV",
+          "published_at": "2026-10-15T05:03:53+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR7AqzFurOxqxX2OXVd5Z4PhAsGAovU82858e1bwCQPCWkfe5qIhsSytdtrFSU"
+        },
+        {
+          "title": "Hrithik-Rajinikanth reunion after 40 years becomes a Jailer 2 highlight",
+          "url": "https://theprint.in/entertainment/hrithik-rajinikanth-reunion-after-40-years-becomes-a-jailer-2-highlight/3074414/",
+          "source": "ThePrint",
+          "published_at": "2026-10-17T05:25:28+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGsx7GfLMwl-dOph9Bcmu-wPy-UhMMxhe6LHI1yRljDc8SsIA_jAxk8SUUuM"
+        },
+        {
+          "title": "Bollywood Fans Fume Over Star Cameos in Kollywood",
+          "url": "https://www.deccanchronicle.com/tabloid/hyderabad-chronicle/bollywood-fans-fume-over-star-cameos-in-kollywood-1996442",
+          "source": "Deccan Chronicle",
+          "published_at": "2026-10-16T14:52:59+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPW5PU1ne0Xy3AbKH5PE-BaMV_Xa__yBDM0b4is5lbzMthi27i7nCHpDfbN24"
+        },
+        {
+          "title": "Hrithik Roshan’s ‘Jailer 2’ cameo completes a 40-year story with Rajinikanth",
+          "url": "https://gulfnews.com/entertainment/bollywood/hrithik-roshans-jailer-2-cameo-reunites-him-with-rajinikanth-after-40-years-1.500713391",
+          "source": "Gulf News",
+          "published_at": "2026-10-16T14:27:53+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEMaSXhZs__oiO3dsaBaZvL0VUnTIxGOEEr_2GZ4pGBom6ZKvrhYvvYvLYAI"
+        },
+        {
+          "title": "Hrithik Roshan’s Jailer 2 fee: How much did Bollywood star charge for his cameo in Rajinikanth's mass thri",
+          "url": "https://m.economictimes.com/magazines/panache/hrithik-roshans-jailer-2-fee-how-much-did-bollywood-star-charge-for-his-cameo-in-rajinikanths-mass-thriller/articleshow/134989161.cms",
+          "source": "The Economic Times",
+          "published_at": "2026-10-16T10:15:41+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVAmMzUxWCLM40dnKka0sZueMIFHZS1awo6m5_MHiYo729U31VI5mH5GiDZIs"
+        },
+        {
+          "title": "Jailer 2 climax explained: How Vijay Sethupathi’s cameo, Vidya Balan’s reveal set up Jailer 3",
+          "url": "https://indianexpress.com/article/entertainment/tamil/jailer-2-ending-explained-rajinikanth-vijay-sethupathi-cameo-jailer-3-vidya-balan-10923898/",
+          "source": "The Indian Express",
+          "published_at": "2026-10-16T04:19:50+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRARMh1Kw7futpIY5EgfjR-DzrNSXsZX8Cc8kW61QqH9IWHGOF3TtCVt2TM2t8"
+        },
+        {
+          "title": "'Jailer 2' ENDING EXPLAINED: Vidya Balan’s shocking twist leaves Rajinikanth’s Tiger with new enemy",
+          "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-ending-explained-vidya-balans-shocking-twist-leaves-rajinikanths-tiger-with-new-enemy/articleshow/134981579.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-16T03:43:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZgFOoW5hTuGNtMCPGdDmgNnbUdeXkgDM86C1XdxIrDQ6cpSyAyrXuYgxWlk"
+        },
+        {
+          "title": "Jailer 2 ends with the promise of third part",
+          "url": "https://www.fbcnews.com.fj/entertainment/jailer-2-ends-with-the-promise-of-third-part/",
+          "source": "FBC News",
+          "published_at": "2026-10-17T00:56:44+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR32crLTGc0Zg9zxMhaF8bsEV2vT4h5KwzhMGzJZvMv6mYfHNS-AlIRu8fkDmM"
+        },
+        {
+          "title": "‘Pure fire’: First-day viewers praise Hrithik Roshan’s cameo in Rajinikanth-starrer ‘Jailer 2’",
+          "url": "https://www.telegraphindia.com/entertainment/pure-fire-first-day-viewers-praise-hrithik-roshans-cameo-in-rajinikanth-starrer-jailer-2/cid/2184883",
+          "source": "Telegraph India",
+          "published_at": "2026-10-15T11:06:11+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZOkvTkNIcpldQVDZcJQkSRphZl2GnhiKEN62mja0U9KT8yEBk0DCBGb1lg6w"
+        },
+        {
+          "title": "Hrithik Roshan shares the screen with Rajinikanth after 40 yrs. Last time, he was 9",
+          "url": "https://theprint.in/feature/hrithik-roshan-shares-the-screen-with-rajinikanth-after-40-yrs-last-time-he-was-9/3072485/",
+          "source": "ThePrint",
+          "published_at": "2026-10-15T08:04:24+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIGsx7GfLMwl-dOph9Bcmu-wPy-UhMMxhe6LHI1yRljDc8SsIA_jAxk8SUUuM"
+        },
+        {
+          "title": "ಮೊದಲ ದಿನವೇ 125 ಕೋಟಿ ಬಾಚಿಕೊಂಡ ‘ಜೈಲರ್ 2’: ಬಾಕ್ಸ್ ಆಫೀಸ್‍ನಲ್ಲಿ ರಜನಿಕಾಂತ್-ನೆಲ್ಸನ್ ಜೋಡಿಯ ಹೊಸ ದಾಖಲೆ",
+          "url": "https://sanjevani.com/%E0%B2%AE%E0%B3%8A%E0%B2%A6%E0%B2%B2-%E0%B2%A6%E0%B2%BF%E0%B2%A8%E0%B2%B5%E0%B3%87-125-%E0%B2%95%E0%B3%8B%E0%B2%9F%E0%B2%BF-%E0%B2%AC%E0%B2%BE%E0%B2%9A%E0%B2%BF%E0%B2%95%E0%B3%8A%E0%B2%82%E0%B2%A1/",
+          "source": "Sanjevani",
+          "published_at": "2026-10-16T08:15:27+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQHdOOZujg9VVYAqfyVIB7e8M8bFf2HcoUZn62_iH22SnMpQQv3cmRkyzsDtU"
+        },
+        {
+          "title": "Jailer-2 Review: ವಿದ್ಯಾ ಬಾಲನ್ ಮೇಲೆ ರಜನಿಗೆ ಕ್ರಶ್! ಜೈಲರ್-3 ಚಿತ್ರಕ್ಕೆ ಸಿಕ್ತಾ ಲೀಡ್?",
+          "url": "https://kannada.news18.com/news/entertainment/super-star-rajinikanth-jailer-2-left-lead-for-jailer-3-in-the-end-of-the-movie-rvj-dvp-2508838.html",
+          "source": "News18 Kannada",
+          "published_at": "2026-10-16T06:27:00+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrDVlw2KKV7qpp8XMTD4BdB9PDbhhpA041WLd5KGZnWdfxpannRScrG2G_hXE"
+        },
+        {
+          "title": "‘ಮೆಂಟಲ್ ಮಾಸ್ ನರಸಿಂಹ’: ಜೈಲರ್ 2ನಲ್ಲಿ ಲಾಂಗ್ ಹಿಡಿದು ಖಡಕ್ ಹವಾ ಸೃಷ್ಟಿಸಿದ ಶಿವಣ್ಣ!",
+          "url": "https://kannada.asianetnews.com/entertainment/kannada-actor-shiva-rajkumar-steals-the-show-in-jailer-2-with-his-powerful-long-scene-gvd/articleshow-x14ah0k",
+          "source": "Asianet News Kannada",
+          "published_at": "2026-10-16T10:57:07+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3rsGhR_3NgUa8dgXnA106EgtH-gC5-hEV2oPvyM_ybyn0bpZEXbb0o-syJOo"
+        },
+        {
+          "title": "‘ಕುಟುಂಬದ ಕನಸು ಈಡೇರಿತು’...ಜೈಲರ್ 2 ಬಿಡುಗಡೆ ‌ಬೆನ್ನಲ್ಲೇ ಮೇಘನಾ ರಾಜ್ ಮಾತು",
+          "url": "https://www.prajavani.net/entertainment/cinema/meghana-raj-on-jailer-two-release-and-rajinikanth-4331868",
+          "source": "Prajavani",
+          "published_at": "2026-10-15T09:34:18+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-QvfDjOSFEKm1JFysi32DJzO806i0JdEE0G7Yz6y55XIgR-tAgFucRCtyk0E"
+        },
+        {
+          "title": "ಜೈಲರ್ 2 ಸಿನಿಮಾ ವೀಕ್ಷಿಸಿದ ಕಾಸಾಗ್ರ್ಯಾಂಡ್‌ನ ಉದ್ಯೋಗಿಗಳು",
+          "url": "https://www.facebook.com/prajavani.net/posts/%E0%B2%9C%E0%B3%88%E0%B2%B2%E0%B2%B0%E0%B3%8D-2-%E0%B2%B8%E0%B2%BF%E0%B2%A8%E0%B2%BF%E0%B2%AE%E0%B2%BE-%E0%B2%B5%E0%B3%80%E0%B2%95%E0%B3%8D%E0%B2%B7%E0%B2%BF%E0%B2%B8%E0%B2%BF%E0%B2%A6-%E0%B2%95%E0%B2%BE%E0%B2%B8%E0%B2%BE%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B3%8D%E0%B2%AF%E0%B2%BE%E0%B2%82%E0%B2%A1%E0%B3%8D%E0%B2%A8-%E0%B2%89%E0%B2%A6%E0%B3%8D%E0%B2%AF%E0%B3%8B%E0%B2%97%E0%B2%BF%E0%B2%97%E0%B2%B3%E0%B3%81/1611940617636548/",
+          "source": "Facebook",
+          "published_at": "2026-10-17T16:47:54+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsLf7Dmbsbaf83jI-R5mY6GFM8RY1kkGvFd5yTYWsCkuTij3m_fBiEx8l7mrE"
+        },
+        {
+          "title": "Jailer 2 Review: ಜೈಲರ್ 2 ಸಿನಿಮಾ ಹೇಗಿದೆ? ರಜನಿಕಾಂತ್ ಜೊತೆ ಶಿವಣ್ಣ ಮಾಸ್ ಅಬ್ಬರಕ್ಕೆ ಫ್ಯಾನ್ಸ್ ಫಿದಾ!",
+          "url": "https://kannadanews.today/sandalwood-news/jailer-2-cinema-review-rajinikanth-and-shivarajkumar-mass-appeal/",
+          "source": "Kannada News Today",
+          "published_at": "2026-10-15T16:23:01+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx1dcO1DdkBnxoz3OQ_EAl-EQFe2o_p4oO8yt3FiNo3wjo07DOBYT0GfhqCRg"
+        },
+        {
+          "title": "ಬಿಡುಗಡೆಯಾದ ಎರಡೇ ದಿನಕ್ಕೆ 'ಜೈಲರ್ 2' ದಾಖಲೆ; ₹200 ಕೋಟಿಗೂ ಅಧಿಕ ಗಳಿಕೆ ಕಂಡ ರಜಿನಿಕಾಂತ್ ನಟನೆಯ ಚಿತ್ರ!",
+          "url": "https://www.kannadaprabha.com/cinema/news/2026/Oct/17/jailer-2-box-office-collection-rajinikanths-film-crosses-200-crore-worldwide-in-two-days",
+          "source": "Kannada Prabha Online",
+          "published_at": "2026-10-17T07:52:56+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRu0vRWi8O0f2xQZmI3XzKqWMzQgAj55xZLEfq58YTXfFxnwSqxKwA_ZZR5eU4"
+        },
+        {
+          "title": "Jailer 2: 5 ನಿಮಿಷಗಳ ಪಾತ್ರಕ್ಕೆ ಹೃತಿಕ್‌, ಶಿವರಾಜ್‌ಕುಮಾರ್‌ಗೆ ಎಷ್ಟು ಸಂಭಾವನೆ? ಮುಮ್ಮಟಿ, ವಿದ್ಯಾ ಬಾಲನ್ ಇರೋ ಚಿತ್ರ",
+          "url": "https://kannada.filmibeat.com/gossips/jailer-2-hrithik-roshans-shivarajkumar-vidya-balan-staggering-remuneration-for-5-minute-cameo-reve-014-119037.html",
+          "source": "Filmibeat Kannada",
+          "published_at": "2026-10-16T10:33:15+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoccNOCJcHUl3CANXipxNK_BWWBo9JSkK_PZtTATBztdAswR5vKSuYMMY9Bj8"
+        },
+        {
+          "title": "Rajinikanth: 75ರ ಹರೆಯದಲ್ಲೂ ರಜನಿಕಾಂತ್ ಮ್ಯಾಜಿಕ್; 19 ವರ್ಷಗಳ ದಾಖಲೆ ಮುರಿದು ಹೊಸ ಇತಿಹಾಸ!",
+          "url": "https://kannada.news18.com/news/entertainment/jailer-2-movie-huge-collection-and-new-record-on-bookmyshow-kes-ws-l-2509293.html",
+          "source": "News18 Kannada",
+          "published_at": "2026-10-17T02:29:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOzR80qaKHbnzi4XjGo3FDAuHlsghsVSg_dPDllWY_FS75grWDblihBIm5lpk"
+        },
+        {
+          "title": "Box Office King: ರಜನಿಕಾಂತ್ vs ವಿಜಯ್, ಅತಿ ಹೆಚ್ಚು 100 ಕೋಟಿ ಓಪನಿಂಗ್ ಕೊಟ್ಟವರು ಯಾರು?",
+          "url": "https://kannada.asianetnews.com/gallery/entertainment/tamil-actors-rajinikanth-vs-vijay-who-has-the-most-100-crore-opening-movies-gvd-sruxmm9",
+          "source": "Asianet News Kannada",
+          "published_at": "2026-10-16T15:10:28+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQbZZZB4OKtXesa5nm4WYeY64AfSjrUsW7VcSu2pxV8qECY5MR-x-xLxE5Qq4"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "topic": "mammootty",
+      "approx_traffic": 100,
+      "started_at": "2026-10-17T19:50:00+00:00",
+      "related_queries": [
+        "mammootty"
+      ],
+      "news": [
+        {
+          "title": "Mammootty’s 'Mela' completes 67 days of filming; Nithish Sahadev’s next Malayalam film promises action a",
+          "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammoottys-mela-completes-67-days-of-filming-nithish-sahadevs-next-malayalam-film-promises-action-and-comedy-2027-release-planned/articleshow/135008124.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-17T05:34:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFK6TYOBp0azym61VsMltVIwaRxHE5OVMcp2SiKMIhA_XwHng4GHK5C0tg_L8"
+        },
+        {
+          "title": "Mammootty’s Mela Completes 67 Days of Shooting",
+          "url": "https://theprimetime.in/mammoottys-mela-completes-67-days-of-shooting/",
+          "source": "The PrimeTime News",
+          "published_at": "2026-10-17T06:17:55+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKoVwfmjlA-Y6cj187XMN2WO4w92rh5i0qLtJtJBchzfuzB0HOu4FhAHPc2AY"
+        },
+        {
+          "title": "A film’s release date determines our deadlines and timelines: Rajkumar Periasamy",
+          "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/a-films-release-date-determines-our-deadlines-and-timelines-rajkumar-periasamy/articleshow/134982088.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-16T04:14:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCppZgC3qxOKBKtBzYSPNkHM64sTbsAHi-dM07WiZUEM4atxdTQMfrQ2tlJ24"
+        },
+        {
+          "title": "OM Chapter 1: Dhanush, Mammootty starrer to be ‘grey and gritty’ film pushing actors outside their comfort zone says director Rajkumar Periasamy",
+          "url": "https://www.pinkvilla.com/entertainment/south/om-chapter-1-dhanush-mammootty-starrer-to-be-grey-and-gritty-film-pushing-actors-outside-their-comfort-zone-says-director-rajkumar-periasamy-1405952",
+          "source": "Pinkvilla",
+          "published_at": "2026-10-16T15:22:09+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5w6ON_hWcR8XI3JGsdqG6KhRbwUiG1cLXqr7a7YFPMscbG3KWC-RZYHWve8k"
+        },
+        {
+          "title": "Dhanush and Mammootty film 'OM' rescheduled to November 20 release",
+          "url": "https://www.newsbytesapp.com/news/entertainment/dhanush-and-mammootty-film-om-rescheduled-to-november-20-release/tldr",
+          "source": "NewsBytes",
+          "published_at": "2026-10-15T11:38:14+00:00",
+          "picture": null
+        },
+        {
+          "title": "Director Rajkumar Periasamy Details Vision for Dhanush and Mammootty Starrer OM: Chapter 1",
+          "url": "https://www.zoomtventertainment.com/south/director-rajkumar-periasamy-details-om-chapter-1-dhanush-mammootty-article-156356909",
+          "source": "Zoom TV",
+          "published_at": "2026-10-17T15:00:04+00:00",
+          "picture": null
+        },
+        {
+          "title": "Dhanush and Mammootty Unite for OM: Chapter 1",
+          "url": "https://culturecrossroads.ca/posts/dhanush-and-mammootty-unite-for-om-chapter-1/",
+          "source": "Culture Crossroads",
+          "published_at": "2026-10-15T11:32:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8ISRYkkNdDKW7Aj61K5pSLuHU8eEYbu92pOeZHADAJ8MKkZEGEykiyuWbcrM"
+        },
+        {
+          "title": "OM: Rajkumar Periasamy talks about Dhanush, Mammootty and the film’s story",
+          "url": "https://www.onlykollywood.com/om-rajkumar-periasamy-talks-about-dhanush-mammootty-and-the-films-story/",
+          "source": "Only Kollywood",
+          "published_at": "2026-10-16T07:54:20+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvfPZgvuuzLmYcbDKNAwVgwXxosoZR3DS5xqhp1mqR7dPOIWdkxKMzhwmT0Ww"
+        },
+        {
+          "title": "Dhanush and Mammootty to share screen in OM Chapter 1, releasing on November 20",
+          "url": "https://www.indulgexpress.com/entertainment/cinema/2026/Oct/15/dhanush-and-mammootty-to-share-screen-in-om-chapter-1-releasing-on-november-20",
+          "source": "IndulgExpress",
+          "published_at": "2026-10-15T11:35:19+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROwDWvBajqXRQETrQM85-SN_CPiB_GXCyHlLPO-AZOtm0sY7mKRcDKnK1pW6I"
+        },
+        {
+          "title": "Dhanush and Mammootty Team Up for ‘OM: Chapter 1: Udhiram – The Blood Wood’",
+          "url": "https://pragativadi.com/dhanush-mammootty-om-chapter-1-behind-the-scenes-insights/",
+          "source": "Pragativadi",
+          "published_at": "2026-10-15T13:06:50+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgUFlTxb1YNg2fa7Hw1HmSz8HkyD3dUH0K9VFJyUe8jRJPfEeGFdvVNQSZpp4"
+        },
+        {
+          "title": "OM Chapter 1: Dhanush and Mammootty unite for a cinematic spectacle by Rajkumar Periasamy",
+          "url": "https://www.pinkvilla.com/entertainment/south/om-chapter-1-dhanush-and-mammootty-unite-for-a-cinematic-spectacle-by-rajkumar-periasamy-1405921",
+          "source": "Pinkvilla",
+          "published_at": "2026-10-15T07:01:57+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTG_3UvWMV38bdgDd89zLOkt06sQjTTIzfN1qStB65PasEftWOxCvhNWVdJpZI"
+        },
+        {
+          "title": "Hanush And Mammootty Unite For OM: Chapter 1, Set For November 20 Release",
+          "url": "https://glamsham.com/regional/regional-news/om-chapter-1-dhanush-mammootty-sai-pallavi-sreeleela/",
+          "source": "Glamsham.com",
+          "published_at": "2026-10-15T07:48:49+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGWx3xM1JvcuIl1d7SMa8-X8jH_MVqKFijRKrh9BMI_GoG2V93GzceKR1QiuY"
+        },
+        {
+          "title": "Veteran composer Deva passes away live updates: Industry honours 'Thenisai Thendral'",
+          "url": "https://www.cinemaexpress.com/tamil/news/2026/Oct/17/veteran-composer-deva-passes-away-live-updates-industry-honours-thenisai-thendral",
+          "source": "Cinema Express",
+          "published_at": "2026-10-17T06:51:05+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRD00n7PIgb397gS3vWKPk0XrtIeM0QtvGm8Z8-q7QKPBr6wpydg5lU0gu3LZM"
+        },
+        {
+          "title": "நம் இதயங்களில்... தேவா மறைவுக்கு மம்மூட்டி இரங்கல்!",
+          "url": "https://www.dinamani.com/cinema/cinema-news/2026/Oct/17/mammootty-post-about-deva",
+          "source": "DinaMani",
+          "published_at": "2026-10-17T15:28:17+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0vxA7SMOVDHsNzgGGIRrxqW78n7JnRVp8Ov0bbTm39SlQJ8Fd4eNnT64bPI"
+        },
+        {
+          "title": "ரகுமான் இசைனு நினைத்த இந்த பாடல் தேவாவின் இசையா...இந்த டிராக் ரெக்கார்டின் சொந்தக்காரர் இவர்தானா!",
+          "url": "https://www.thanthitv.com/news/tamilnadu/thought-it-was-an-ar-rahman-song-but-was-it-actually-composed-by-deva-who-owns-this-track-record",
+          "source": "Thanthi TV",
+          "published_at": "2026-10-17T12:08:29+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUI_UwrpCjMxMBljLDYnS4wdCbmdmff6XYR8E-zWn61oWG5pW_ToKO7GRRBmI"
+        },
+        {
+          "title": "தேவா இசைக்கு உலக அளவில் கிடைத்த அங்கீகாரங்கள்",
+          "url": "https://www.dailythanthi.com/cinema/cinemanews/global-recognition-for-devas-music",
+          "source": "Daily Thanthi",
+          "published_at": "2026-10-17T13:29:33+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYCRK63EIERWaa-yJffc3UuLfeuYl6__o7p2EVzvtceMthMh8poklE5sWO0UA"
+        },
+        {
+          "title": "தேவா கடைசியாக பேசிய வீடியோ இதுதான்!",
+          "url": "https://www.puthiyathalaimurai.com/cinema/this-is-the-last-video-of-deva-speaking",
+          "source": "Puthiyathalaimurai",
+          "published_at": "2026-10-17T09:30:00+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqgRSSMZ9thaLNnjcuyB0xc3WbeV_DUZs8GNUJ-Tg_fNQA3nHlMBS74_oCbUw"
+        },
+        {
+          "title": "அவர் ஒரு சொக்கத் தங்கம்: இசையமைப்பாளர் தேவா மறைவுக்கு ரஜினிகாந்த் உருக்கமான வீடியோ",
+          "url": "https://tamil.newsbytesapp.com/news/entertainment/superstar-rajinikanth-pays-emotional-tribute-to-music-director-deva-calls-him-pure-gold/story",
+          "source": "NewsBytes Tamil",
+          "published_at": "2026-10-17T13:20:31+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJI9fMgQphyOKHh4QHXVHPfQOZE-pDXausxTEwb8059Kej-aI86tGB-8heJnM"
+        },
+        {
+          "title": "Deva: \"‘மீசைய முறுக்கு-2’-வுக்காக அவருடன் உரையாடிய அனுபவங்கள் மறக்க முடியாதவை!\"- ஹிப் ஹாப் தமிழா ஆதி",
+          "url": "https://cinema.vikatan.com/kollywood/hiphop-tamizha-adhi-tribute-composer-deva-demise-meesaya-murukku-2",
+          "source": "Cinema Vikatan",
+          "published_at": "2026-10-17T13:08:53+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZXQB5ipb8UJiWRwDIzMyZtSi3es4R-n4NRlc5leux5TYCqF0ZeOQiL6GP9iY"
+        },
+        {
+          "title": "வழியிலேயே பிரிந்த உயிர்.. அரசு மரியாதையுடன் நாளை இறுதி சடங்கு",
+          "url": "https://tamil.filmibeat.com/news/legendary-composer-deva-to-be-buried-with-full-state-honors-185533.html",
+          "source": "Filmibeat Tamil",
+          "published_at": "2026-10-17T13:21:21+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsoezl0UDp5iac8YczbnICOVtG9lxDPNnRUzfsnG8XkFHzSXQFKLRg400gylU"
+        },
+        {
+          "title": "தேவா உடலுக்கு முதலமைச்சர் விஜய் நேரில் அஞ்சலி..!",
+          "url": "https://www.polimernews.com/justnownews/cm-vijay-pays-tribute-to-deva-mortal-remains-12684589",
+          "source": "Polimer News",
+          "published_at": "2026-10-17T09:44:20+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQHIg96Y-wX6SRA4hDvYREG80tC_PFccNxfwCtGezQEc4OeYyzinVCqUxdok"
+        },
+        {
+          "title": "“தேவா உடன் 35 ஆண்டுகள், 29 படங்கள்...” - இயக்குநர் சுரேஷ் கிருஷ்ணா உருக்கம்",
+          "url": "https://www.hindutamil.in/news/cinema/tamil-cinema/i-lost-my-brother-deva-says-director-suresh-krissna",
+          "source": "Hindu Tamil Thisai",
+          "published_at": "2026-10-17T15:19:52+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5QPq73JHLtNJ5KLUbU9k01JwKPoqE7bfG-TvGCl2jWhCF7BQD9ca3yr9_7LE"
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "topic": "mumbai weather",
+      "approx_traffic": 100,
+      "started_at": "2026-10-17T19:50:00+00:00",
+      "related_queries": [
+        "mumbai weather"
+      ],
+      "news": [
+        {
+          "title": "Delayed sea breeze, anti-cyclonic circulation causing heat wave in Mumbai, other parts of state",
+          "url": "https://theprint.in/india/delayed-sea-breeze-anti-cyclonic-circulation-causing-heat-wave-in-mumbai-other-parts-of-state/3073107/",
+          "source": "ThePrint",
+          "published_at": "2026-10-15T14:47:53+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFWk1aI0K_L3Xuln9L0bpLvKRD5KqjbYRzIK225854WGOeNFxBYStGeyURgbc"
+        },
+        {
+          "title": "Mumbai weather: Relief from heat? IMD predicts weekend rain in several regions",
+          "url": "https://www.theweek.in/news/india/2026/10/17/mumbai-weather-relief-from-heat-imd-predicts-weekend-rain-in-several-regions.html",
+          "source": "The Week",
+          "published_at": "2026-10-17T05:01:15+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeOZP7olQnE5TZzvKOgRy1WTBYwhPsjhXx7twPhXeaNHb2x5ceyQOtDOYNGdo"
+        },
+        {
+          "title": "Mumbai Heatwave Making You Dizzy And Nauseous? How To Stay Safe During Your Daily Commute",
+          "url": "https://www.news18.com/lifestyle/health-and-fitness/mumbai-heatwave-making-you-dizzy-and-nauseous-how-to-stay-safe-during-your-daily-commute-ws-l-10384624.html",
+          "source": "News18",
+          "published_at": "2026-10-16T09:06:09+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTMIA8LRC6a0i8Xno1VgvMJBjWPGpN1HL8yLpVUDcwLiX2Q4K78ZsLYA70Cn_M"
+        },
+        {
+          "title": "Maharashtra: Police bust illegal call centre in Lonavala, arrest 20",
+          "url": "https://www.mid-day.com/text-shots/maharashtra-illegal-call-centre-targeting-foreigners-with-fake-drug-cases-busted-in-lonavala-20-arrested-23655557",
+          "source": "Mid-Day",
+          "published_at": "2026-10-17T04:40:56+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBfBLlAtX64blaEnq3nycezeCzD69-lXjWAcAFqAKdNDXfpcmNZyPJKTkVp-Q"
+        },
+        {
+          "title": "Maharashtra Weather Alert: Yellow Alert in 6 Districts",
+          "url": "https://urbanacres.in/maharashtra-weather-alert-storms-threaten-six-districts-today/",
+          "source": "Urban Acres",
+          "published_at": "2026-10-17T15:24:19+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFYf0u2HlnbKpz_GHIU9z-u7R8ZWS0Qm6KHJNGU5Dua-qJEqyw52xLXa2mpy8"
+        },
+        {
+          "title": "Why is Mumbai in a record-breaking heatwave? The answer lies in Madhya Pradesh",
+          "url": "https://indianexpress.com/article/cities/mumbai/imd-mumbai-record-breaking-heatwave-madhya-pradesh-rajasthan-wind-10922632/",
+          "source": "The Indian Express",
+          "published_at": "2026-10-15T07:56:28+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQcgisnnRLvmk2KlFgVTl0qH-8Oqp3EaWMrI2g4ZDJdcDnzeuDRYcLECe_B3XI"
+        },
+        {
+          "title": "IMD flags yellow alert for Mumbai and Konkan region",
+          "url": "https://www.newsbytesapp.com/news/india/imd-flags-yellow-alert-for-mumbai-and-konkan-region/tldr",
+          "source": "NewsBytes",
+          "published_at": "2026-10-17T05:25:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHv-rYi72uPEFJbkfO36TjKkBTolRF1oZRHJP1aMuaSdJUBPym-bz7bIC3KOA"
+        },
+        {
+          "title": "Mumbai under heatwave warning for third consecutive day",
+          "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-under-heatwave-warning-for-third-consecutive-day/articleshow/134948790.cms",
+          "source": "The Times of India",
+          "published_at": "2026-10-14T17:52:00+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRovFHZOXWUCVKdUOuDKCb1DOTQ0PwZTrRzdGazVjIfLp7XPAgvyzpkSSDum00"
+        },
+        {
+          "title": "Mumbai to remain hot and humid; IMD predicts thunderstorms, gusty winds in parts of Maharashtra",
+          "url": "https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-weather-updates-mumbai-to-remain-hot-and-humid-imd-predicts-thunderstorms-gusty-winds-in-parts-of-maharashtra-23655433",
+          "source": "Mid-Day",
+          "published_at": "2026-10-16T10:32:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6Se6uGMPTkQv9zZRUGk8I0tDqeuTE_k0KsKvd53fFk9nckkCfpzR8YO4zQ1U"
+        },
+        {
+          "title": "Mumbai Sizzles At 38°C: Will Rain Finally Bring Relief As Delhi-NCR, South India Brace For Showers?",
+          "url": "https://www.news18.com/photogallery/cities/mumbai-news/mumbai-sizzles-at-38c-will-rain-finally-bring-relief-as-delhi-ncr-south-india-brace-for-showers-ws-l-10382596.html",
+          "source": "News18",
+          "published_at": "2026-10-15T05:24:20+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPdwRSSFffDFQlYTVXH8ordvS9khf4nfN7hY4TjDjJYiJInDlqGp_xCuRzurQ"
+        },
+        {
+          "title": "रेल्वे ट्रॅकजवळच्या झोपड्या हटवणार; 3500 लोकांना घरे रिकामी करण्याची नोटीस, कुठे होणार कारवाई? VIDEO",
+          "url": "https://saamtv.esakal.com/video/mumbai-kurla-trombay-railway-siding-slum-eviction-notice-3500-residents-given-30-days-to-vacate-homes-central-railway-encroachment-removal-action-bombay-high-court-order-latest-mumbai-news-video-om0906",
+          "source": "Saam Tv",
+          "published_at": "2026-10-17T14:50:46+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQknzK0orlHfYbgtB06qXKu6AzDUjob8325ahk9aEwArT8fWsIPNCrYdSZYp68"
+        },
+        {
+          "title": "Maharashtra Live News 17th October 2026 : महाराष्ट्रातील ताज्या घडामोडींचे लाईव्ह अपडेट्स",
+          "url": "https://maharashtratimes.com/maharashtra/mumbai-news/maharashtra-live-news-17th-october-2026-mumbai-heat-wave-maharashtra-weather-update-vidhan-parishad-nivdnuk-malegaon-dongrale-case-vijay-khairnar-court-result/liveblog/135006741.cms",
+          "source": "Maharashtra Times",
+          "published_at": "2026-10-17T16:16:36+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtqOpjFolTikN7UhokVtcmdcXpgMX0NTlxLJX7m3CrCuY_tdELkWBkgEljgQ"
+        },
+        {
+          "title": "Video | Central Railway | कुर्ला-ट्रॉम्बे रेल्वे रुळालगत झोपड्यांवर कारवाई, मध्य रेल्वेकडून रहिवाशांना नोटीस",
+          "url": "https://marathi.ndtv.com/videos/central-railway-issues-notices-to-residents-takes-action-on-shanties-along-kurla-trombay-rail-tracks-1175802",
+          "source": "NDTV Marathi",
+          "published_at": "2026-10-17T05:41:08+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWrHUt4CYJyyyPpbGMikTujtgEkapG4lHq3fcwxcHNKSDbpedkcOCgF1p_vMo"
+        },
+        {
+          "title": "मुंबईतील 3700 झोपड्यांवर हातोडा चालणार! अतिक्रमण हटवण्याचा मार्ग मोकळा, वाचा कधी आणि कुठे होणार कारवाई",
+          "url": "https://marathi.timesnownews.com/maharashtra/mumbai-3700-slum-tenements-along-kurla-trombay-line-to-be-demolished-soon-article-156357809",
+          "source": "Times Now Marathi",
+          "published_at": "2026-10-17T16:19:57+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwNXzV7dEw2tM4RpvAnwe_SWqSgYYSglcviT3uu454yYw4Nk2e4OTUW1Q8epw"
+        },
+        {
+          "title": "Live Update : सीजेपी संस्थापक अभिजीत दिपकेंना दिल्ली न्यायालयात हजर करणार",
+          "url": "https://www.aaplamahanagar.com/maharashtra/live-update-maharashtra-weather-update-maharashtra-maharashtra-politics-maharashtra-political-news-breaking-news-mumbai-mumbai-news-cm-devendra-fadnavis-deputy-cm-eknath-shinde-deputy-cm-sunetra-paw-9/1020610/",
+          "source": "My Mahanagar",
+          "published_at": "2026-10-16T21:51:07+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr32OD4uMursVRXSf5uQaJ1pUlej2ehZx41D4HKYN94kmFCIVYEUCN34ZHMpQ"
+        },
+        {
+          "title": "Mumbai : कारवाईआधी राज्य सरकारशी चर्चा करा! झोपड्यांबाबत खासदारांची विभागीय बैठक; रेल्वेला सूचना",
+          "url": "https://marathi.freepressjournal.in/mumbai/mumbai-mps-urge-railways-to-consult-maharashtra-government-before-action-against-slums",
+          "source": "NavShakti",
+          "published_at": "2026-10-13T06:26:31+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaeSKWgIk9HLI8rjXxrF-Uzxxa75invR4dT8l6TVg1zMuLFmBQJJhU51OYHd4"
+        },
+        {
+          "title": "रेल्वेत अडथळा ठरणाऱ्या झोपड्यांवर हातोडा; हायकोर्टाचे स्पष्ट आदेश, तीस दिवसांत जागा रिकामी करा",
+          "url": "https://www.saamana.com/bombay-high-court-orders-demolition-of-slums-encroaching-railway-land/",
+          "source": "Saamana",
+          "published_at": "2026-10-12T01:30:49+00:00",
+          "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1EzRa-ucO5n14V-BEc9odMSFr-fr_yv3y-CNM9G1p3lVxbc7S0dWY-397vjA"
+        },
+        {
+          "title": "कुर्ला-ट्रॉम्बे रेल्वेमार्गालगतची अतिक्रमणे हटविण्याचा मार्ग मोकळा",
+          "url": "https://www.loksatta.com/mumbai/kurla-trombay-railway-encroachments-mumbai-high-court-order-slum-clearance-rehabilitation-ssb-93-6188345/",
+          "source": "Loksatta",
+          "published_at": "2026-10-13T03:54:46+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxcWRRUpuuUz3p8IeGb4VjrVKTKKrqw-_Xzu9rUCuefp54-Hon06wgZl9ae8"
+        },
+        {
+          "title": "Mumbai News: कुर्ला-ट्रॉम्बेतील झोपड्यांना मध्य रेल्वेच्या नोटिसा, ३० दिवसांचा अल्टिमेटम; नेमकं कारण काय?",
+          "url": "https://www.esakal.com/mumbai/central-railway-has-issued-notices-to-vacate-huts-along-kurla-trombay-railway-line-within-30-days-mvk02",
+          "source": "Esakal",
+          "published_at": "2026-10-16T09:00:10+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQYl0-a-IU9pRlX1PF9cK1jeYFiJqQ3ML3wrS8CJlvbf4NqKg5le2XVt_uE6o"
+        },
+        {
+          "title": "झोपडीधारकांना मध्य रेल्‍वेच्या नोटिसा",
+          "url": "https://www.esakal.com/mumbai/todays-latest-marathi-news-mbi26b38471-txt-mumbai-today-20261016122932",
+          "source": "Esakal",
+          "published_at": "2026-10-16T12:29:32+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0DsRyVXuCo4zD16pFfL2NmEKqY3vQs_5AUHjy4IJXIrXwgjRFTRdUiGmFyCg"
+        },
+        {
+          "title": "तीन साल पहले भी हुआ था विमान हादसा, जानिए अजित पवार के प्लेन क्रैश से क्या है लिंक, AAIB की रिपोर्ट",
+          "url": "https://www.aajtak.in/india/maharashtra/story/vsr-charter-flight-crash-landing-mumbai-airport-aaib-report-ajit-pawar-ntc-amkr-rpti-2673267-2026-10-17",
+          "source": "AajTak",
+          "published_at": "2026-10-17T09:30:20+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbJv1Xe4kc598hiBeOOvhwhV66rrLItip66XKTVUea6DMYX_nKDgW698DFVHU"
+        },
+        {
+          "title": "मुंबई लियरजेट हादसा: अस्थिर लैंडिंग और खराब मौसम दुर्घटना की संभावित वजह, एएआईबी ने बताईं खामियां",
+          "url": "https://www.amarujala.com/india-news/mumbai-learjet-crash-aaib-report-unstabilised-approach-poor-weather-dgca-recommendations-2026-10-17",
+          "source": "Amar Ujala",
+          "published_at": "2026-10-17T07:11:22+00:00",
+          "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsqQZyy0Qcr-Wnt2lAtBt6RNDtaLwdFo8yIDfG0Gf4VZ1ixKIz7SzdFq71bJU"
+        },
+        {
+          "title": "पायलटों के प्रशिक्षण से पहाड़ी उड़ानों तक, सुरक्षा कड़ी करने की सिफारिश",
+          "url": "https://www.jagran.com/news/national-from-pilot-training-to-mountain-flights-recommendations-made-to-tighten-safety-40407586.html",
+          "source": "Jagran",
+          "published_at": "2026-10-17T00:25:00+00:00",
+          "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaS6gRJ_aqZb4gbknm2LrS8S1ewKz-LBkjM_Ef1kAcr0qchULdGr3TrMvLdI8"
+        },
+        {
+          "title": "अजीत पवार प्लेन क्रैश में बड़ा अपडेट: VSR वेंचर्स में कई खामियां, लियरजेट हादसे पर भी AAIB रिपोर्ट में चौंकाने वाले खुलासे",
+          "url": "https://navbharattimes.indiatimes.com/metro/mumbai/other-news/aaib-report-on-mumbai-learjet-crash-ajit-pawar-crash-finds-lapses-at-vsr-ventures/articleshow/135006981.cms",
+          "source": "Navbharat Times",
+          "published_at": "2026-10-17T04:21:55+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS31YK7RhfYwCh1lgkbj23IPT8k2HCaYnd9D73vS4cL-1BFMP_YoraFizPdNIE"
+        },
+        {
+          "title": "पायलटों के प्रशिक्षण रिकॉर्ड की जांच कर सकता है डीजीसीए : एएआईबी",
+          "url": "https://www.livehindustan.com/national/story-aaib-urges-dgca-to-review-pilot-training-records-after-mumbai-learjet-crash-201792167861376.html",
+          "source": "Hindustan",
+          "published_at": "2026-10-16T16:24:46+00:00",
+          "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRose3dmNVltB_F-ZrHUhC8N2uTqE2OgqsWHn2rMPKKtDfmTzgO64xSijoOxaY"
+        }
+      ]
+    }
+  ]
+}
